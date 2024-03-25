@@ -1,0 +1,285 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-quantum-algorithm-high-quality-solutions.html,Novel quantum algorithm proposed for high-quality solutions to combinatorial optimization problems,"Combinatorial optimization problems (COPs) are complex problems that require finding the optimal solution in various fields such as logistics, supply chain management, machine learning, material design, and drug discovery. These problems are computationally intensive when solved using classical computers, which has led to increased interest in solving COPs using quantum computers.
+
+Quantum computers utilize the quantum property of superposition, allowing specialized qubits to exist in multiple states simultaneously. This property enables quantum computers to quickly solve large problems. However, when COPs involve constraints, conventional quantum algorithms like adiabatic quantum annealing struggle to find near-optimal solutions within the operating time of quantum computers.
+
+Recent advancements in quantum technology have introduced devices like quantum annealers and gate-type quantum devices, which provide suitable platforms for solving COPs. However, these devices are susceptible to noise, limiting their applicability to quantum algorithms with low computational costs.
+
+To overcome this challenge, Assistant Professor Tatsuhiko Shirai and Professor Nozomu Togawa from Waseda University in Japan have developed a post-processing variationally scheduled quantum algorithm (pVSQA). Their study, published in the IEEE Transactions on Quantum Engineering, combines variational scheduling with a post-processing method to transform infeasible solutions into feasible ones, achieving near-optimal solutions for constrained COPs on both quantum annealers and gate-based quantum computers.
+
+The pVSQA algorithm begins by using a quantum device to generate a variational quantum state through quantum computation. This state is then used to create a probability distribution function that includes all feasible and infeasible solutions within the constraints of the COP. The post-processing method is then applied to convert the infeasible solutions into feasible ones, resulting in a probability distribution with only feasible solutions. A classical computer is utilized to calculate the energy expectation value of the cost function using this new probability distribution. This calculation is repeated to obtain a near-optimal solution.
+
+The performance of the pVSQA algorithm was evaluated using both a simulator and real quantum devices, including a quantum annealer and a gate-type quantum device. The experiments demonstrated that pVSQA achieves near-optimal performance within a specified time on the simulator and outperforms conventional quantum algorithms without post-processing on real quantum devices.
+
+The development of this algorithm is crucial for addressing complex real-world problems in various domains. It holds promise for achieving long-term social transformations, such as realizing a carbon-neutral society to combat climate change and attaining sustainable development goals to address issues like increased energy demand and food shortage.
+
+In conclusion, this study represents a significant advancement in using quantum computers to solve COPs. Its findings have the potential to revolutionize problem-solving across multiple fields and contribute to solving pressing global challenges.",https://scx2.b-cdn.net/gfx/news/2024/novel-quantum-algorith.jpg,2024-03-25 12:50:38,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/,Watch: Why the company behind Trump's Truth Social joined the growing IPO trend,"Last week, the tech world was buzzing with the highly anticipated IPOs of Reddit and Astera Labs. These two offerings garnered significant attention and for good reason - they were successful in terms of pricing and trading performance. This was a welcome development after a period of minimal tech offerings, and it brought a sense of relief to private-market tech companies.
+
+However, amidst all the excitement surrounding these IPOs, there was another offering that also had a tech angle to it - Trump Media and Technology Group, the company behind Truth Social. TechCrunch has provided more details on this, but in essence, after much deliberation, the company merged with its chosen SPAC and commenced trading.
+
+Financially, Truth Social may face challenges in the future, but the fact that we witnessed two major debuts last week, along with another public-market transaction, indicates that the IPO window is indeed open once again. This is a positive sign for the tech industry, as it signifies renewed investor interest and confidence in the market.
+
+With the resurgence of IPO activity, tech companies can now consider going public as a viable option for raising capital and expanding their businesses. This is especially significant for startups and private-market tech firms that have been eagerly waiting for an opportunity to tap into the public market.
+
+The successful IPOs of Reddit and Astera Labs serve as a testament to the strong demand for tech stocks and the overall health of the market. These offerings not only provided a boost to the companies involved but also generated excitement among investors and industry observers. The fact that both offerings were able to price well and trade with enthusiasm indicates that there is still a hunger for innovative and promising tech companies.
+
+As we look ahead, it will be interesting to see how the IPO landscape evolves and whether this trend of increased activity will continue. The success of the recent IPOs suggests that there is an appetite for technology offerings, and this could potentially encourage more companies to explore the public market route.
+
+In conclusion, the recent IPOs of Reddit and Astera Labs, along with the emergence of Truth Social through a SPAC merger, have reignited the IPO window for tech companies. This is a positive development for the industry and demonstrates the resilience and attractiveness of tech stocks. With renewed investor interest and confidence, tech firms now have a viable avenue for growth and expansion. The future of the IPO market looks promising, and we can expect to see more exciting offerings in the coming months.","https://techcrunch.com/wp-content/uploads/2024/03/TechCrunch-Minute-Site-Truth-Social.png?resize=1200,675",2024-03-25 16:00:10,Innovation,Innovation
+https://www.zdnet.com/article/saving-hours-of-work-with-ai-how-chatgpt-became-my-virtual-assistant-for-a-data-project/,Saving hours of work with AI: How ChatGPT became my virtual assistant for a data project,"Generative artificial intelligence (AI) has been making headlines lately, and one popular tool in this field is ChatGPT. While it has received a lot of attention, it's important to remember that ChatGPT is simply a tool, albeit a powerful one. In this article, I will share a project where ChatGPT saved me a significant amount of time, and hopefully inspire you to consider using it for your own projects.
+
+The project at hand involves writing an article about the computer gear available on Temu for under $100. I was tasked with finding the products, their prices, and staying within the budget. This is a task that would typically be assigned to a human assistant, but I decided to give ChatGPT a try.
+
+Phase 1: Gathering the links
+To begin, I collected all the links from Temu and pasted them into a Notion page. Notion allows you to create bookmark blocks that include product names along with the links. Once I had selected all the blocks, I copied and pasted them into a text editor.
+
+Phase 2: Identifying the data
+Each block of data contains three key elements. The product name is enclosed in braces, the base URL is enclosed in parentheses, and there is a question mark separating the main URL from additional tracking data. I only needed the main URL, so I highlighted these sections for ChatGPT to process.
+
+Phase 3: Teaching ChatGPT to recognize the data
+I provided ChatGPT with a prompt to accept the data and await further instructions. Then, I pasted the information from the text editor into ChatGPT. At this point, ChatGPT knew to wait for more details.
+
+The crucial step was instructing ChatGPT to extract the titles and links while disregarding the rest of the data. By providing a clear prompt, I was able to test if ChatGPT understood the assignment.
+
+Phase 4: Cleaning up Temu's titles
+Temu's product titles were quite lengthy and complex. To simplify them, I asked ChatGPT to create cleaner versions that were concise and to the point. For example, instead of ""10 Inch LCD Writing Tablet, Electronis Memo With Leather Protective Case, Electronic Drawing Board For Digital Handwriting Pad Doodle Board, Gifts For"", I wanted ""LCD writing tablet with case"".
+
+By reminding ChatGPT of the previous steps and its understanding of the data, I was able to efficiently clean up the titles without any manual cutting and pasting. ChatGPT completed the task in under a minute.
+
+In conclusion, ChatGPT proved to be a valuable tool in this project. It saved me a significant amount of time and effort by quickly processing the data and cleaning up the titles. While it may not be suitable for every project, it's worth exploring how ChatGPT can assist you in your own endeavors.",https://www.zdnet.com/a/img/resize/70d8814af33b190ff84b8faa5f9bafe13d3586e2/2024/03/25/7d1cb1ff-3bb7-4972-a6cd-33d04da76bc1/cover.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/,TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus,"Welcome to TechCrunch Mobility, your go-to source for all things transportation. In this week's newsletter, we'll be discussing some recent developments in the automotive industry, as well as exciting investments and startups in the mobility space.
+
+First, let's talk about the new proposed standards from the Biden Administration. The Department of Energy (DOE) and the Environmental Protection Agency (EPA) have released regulations that will impact U.S. automakers and consumers. While these regulations have been softened to accommodate the automotive industry, they still impose stricter standards than before.
+
+The DOE has introduced a ""petroleum equivalency factor"" that rates electric vehicles (EVs) under the government's corporate average fuel economy (CAFE) standards. The original proposal would have made it challenging for automakers to meet these standards, resulting in substantial fines. The EPA, on the other hand, has set tailpipe standards for 2027 to 2032 model year cars and light-duty trucks. These standards require automakers to meet certain requirements but allow flexibility in choosing powertrain options.
+
+What does this mean for EV startups? Well, companies like Rivian, Tesla, and Lucid, which already meet the clean car standards, won't be affected much. However, legacy automakers that are investing heavily in EVs while still making profits from internal combustion engines may face challenges. Plug-in hybrids could be a winner in this scenario.
+
+Now, let's move on to some exciting news in the industry. Moove, an African mobility fintech company, recently raised $100 million in a Series B funding round led by Uber. This is Uber's first investment in an Africa-founded startup, and it shows their commitment to the region. Moove offers vehicle financing to ride-hailing and delivery app drivers, aligning with Uber's goal of a fully zero-emission fleet by 2040.
+
+Another interesting development is the partnership between Rivian and Tesla. While details are scarce, this collaboration could potentially bring together two leading EV companies and create innovative solutions for the industry.
+
+In the startup world, we have Clevon, a company specializing in autonomous delivery technology. Despite some financial challenges, Clevon is still operational and has entered into an exclusivity agreement for a merger with an American electric vehicle company. This deal is expected to be completed by the first half of June.
+
+Lastly, we have Amber, a Bay Area startup that recently launched an aftermarket Tesla extended warranty product. They raised $3.18 million in a seed round, which will help them expand their offerings and provide peace of mind to Tesla owners.
+
+These are just a few highlights from the world of mobility. Stay tuned for more updates and exciting news in the coming weeks. Subscribe to TechCrunch Mobility to receive our newsletter directly in your inbox.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1363022906.jpg?resize=1200,730",2024-03-24 19:00:33,Innovation,Innovation
+https://www.zdnet.com/article/five-linux-file-and-folder-management-commands-you-need-to-know/,Five Linux file and folder management commands you need to know,"Linux: 5 Essential Commands for File and Folder Management
+
+Linux is a powerful operating system with a wide range of commands at your disposal. From basic file and folder management to more advanced tasks, knowing the right commands can make your Linux experience more efficient and productive. In this article, we will explore five essential commands that every Linux user should know for working with files and folders.
+
+1. mkdir - Create a New Directory
+
+The ""mkdir"" command is used to create a new directory, also known as a folder. With just a simple command, you can create a new directory within your current working directory. For example, to create a directory named ""TEST"" in your home directory, you can use the command:
+
+mkdir ~/TEST
+
+But what if you want to create a nested directory structure, such as ""TEST/project1,"" and the parent directory ""TEST"" doesn't exist yet? No worries! You can use the ""-p"" option to create the parent directory if it doesn't already exist. Here's an example:
+
+mkdir -p ~/TEST/project1
+
+This command will create the ""TEST"" directory and then create the ""project1"" directory inside it.
+
+2. less - View File Contents
+
+The ""less"" command allows you to view the contents of a file without opening a text editor. It displays the file one page at a time, enabling you to scroll through it and view it line by line. This is particularly useful when you want to quickly check the contents of a file without the need to edit it.
+
+To use the ""less"" command, simply specify the file you want to view. For example, to view the contents of the ""/etc/samba/smb.conf"" file, you can run:
+
+less /etc/samba/smb.conf
+
+With ""less,"" you can easily navigate through the file using your keyboard's arrow keys or other specified navigation commands.
+
+3. cat - Concatenate Files
+
+The ""cat"" command is used to concatenate files and display their contents in the terminal. It is a versatile command that can be used for various purposes, such as viewing the contents of a file or appending the content of one file to another.
+
+To display the contents of a file using ""cat,"" simply specify the file as an argument. For example, to view the contents of the ""/etc/fstab"" file, you can run:
+
+cat /etc/fstab
+
+Additionally, you can use ""cat"" to append the content of one file to another. Let's say you have two files, ""file1.txt"" and ""file2.txt,"" located in the ""TEST/project1"" directory. To append the content of ""file1.txt"" to the end of ""file2.txt,"" you can use the following command:
+
+cat TEST/project1/file1.txt >> TEST/project1/file2.txt
+
+This command will append the content of ""file1.txt"" to the end of ""file2.txt.""
+
+4. touch - Create Empty Files
+
+The ""touch"" command is a simple yet handy command for creating empty files. Although its primary purpose is to change file timestamps, it is commonly used to create new files quickly.
+
+To create an empty file using ""touch,"" simply specify the desired filename as an argument. For example, to create a file named ""filename,"" you can run:
+
+touch filename
+
+You can also use ""touch"" to add content to the new file or append more content to an existing file. For instance, to add the text ""New Content"" to the newly created file, you can use the following command:
+
+echo ""New Content"" > filename
+
+To append more content to the file, you can use the "">>"" operator. For example:
+
+echo ""More Content"" >> filename
+
+The "">"" operator overwrites the file's content, while "">>"" appends the new text to the end of the file.
+
+5. pwd - Print the Current Working Directory
+
+When navigating through the Linux filesystem hierarchy using the ""cd"" command, it can sometimes be helpful to know your current location. The ""pwd"" command allows you to print the name of the current working directory.
+
+To use ""pwd,"" simply enter the command in your terminal, and it will display the full path of your current directory. For example, if your current directory is ""/var/www/html/site1,"" running the command ""pwd"" will output ""/var/www/html/site1.""
+
+While you may not need to use ""pwd"" frequently, it can be invaluable when you need to verify your current location within the filesystem.
+
+Conclusion
+
+Understanding and utilizing basic commands is essential for efficient file and folder management on Linux. In this article, we explored five essential commands: ""mkdir"" for creating directories, ""less"" for viewing file contents, ""cat"" for concatenating files, ""touch"" for creating empty files, and ""pwd"" for printing the current working directory.
+
+By mastering these commands, you'll have a solid foundation for working with files and folders on Linux. Combine them with the previous five commands we discussed in another article, and you'll be well-equipped to navigate and manage your Linux system effectively.
+
+So go ahead, dive into the world of Linux commands, and unlock the true potential of your operating system!",https://www.zdnet.com/a/img/resize/73a6f654a7f5dd5cfc8e3389ab98f6a3dc1aafce/2024/03/25/49237a5b-9c57-4f0a-b810-21a85165bfeb/5penguinsflyinggettyimages-520459992.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://venturebeat.com/ai/pure-storage-nvidia-partner-to-democratize-ai-with-new-infrastructure-solutions/,"Pure Storage, Nvidia partner to democratize AI with new infrastructure solutions","Join us in Boston on March 27 for an exclusive event focused on data integrity and networking with leaders in the Gen AI enterprise. This is a great opportunity to gain insights and engage in conversations surrounding this important topic. Request an invite to secure your spot.
+
+Pure Storage, a renowned provider of advanced data storage technology and services, recently unveiled a suite of new AI infrastructure solutions and validated reference architectures in collaboration with Nvidia at the GTC conference. These offerings are aimed at empowering enterprises with the necessary tools to effectively manage high-performance data and compute requirements for successful AI deployments.
+
+Miroslav Klivansky, the Global Practice Leader for AI and Analytics at Pure Storage, recently sat down with VentureBeat to discuss the strengthened partnership between Pure Storage and Nvidia and its potential impact on the adoption of artificial intelligence by enterprises. This partnership comes at a critical time when businesses across various industries are increasingly embracing AI to drive innovation, optimize operations, and gain a competitive edge. However, many AI deployments are currently scattered across fragmented data environments, which can impede the full realization of AI's potential. Pure Storage and Nvidia are determined to address this challenge head-on.
+
+Klivansky highlighted the long-standing partnership between Pure Storage and Nvidia, stating, ""In 2018, in collaboration with Nvidia, we launched AIRI, the first AI-ready infrastructure reference architecture. This architecture was purpose-built to enable organizations to achieve better utilization and uptime, and ultimately scale their AI investments without complexity. Since then, Pure Storage has been among the first enterprise data storage vendors to become Nvidia DGX BasePOD certified.""
+
+The collaboration between Pure Storage and Nvidia is an ongoing and collaborative effort that aims to support enterprise AI deployments. Pure Storage, as a leader in AI, along with Nvidia, is equipping global customers with proven solutions to address their high-performance data and compute requirements. These solutions enable faster model training and inference, greater operational efficiency, and lower total cost and energy requirements.
+
+One of the key solutions unveiled at the GTC conference was the Retrieval Augmented Generation (RAG) Pipeline for AI Inference. This solution combines Nvidia GPUs for compute with Pure Storage's all-flash enterprise storage. By leveraging Pure Storage's data storage infrastructure, customers can enhance standard large language models (LLMs) with custom corporate data. This enhancement provides greater relevance, accuracy, and currency to chatbots, all while avoiding the significant investment required to build custom large language models.
+
+Pure Storage also achieved Nvidia OVX Server Storage certification, which is a significant milestone announced at the GTC conference. This certification offers customers flexible storage reference architectures that have been validated against key benchmarks. These architectures provide a robust infrastructure foundation for cost and performance-optimized AI hardware and software solutions.
+
+With the Nvidia OVX Server Storage validation, Pure Storage can now offer enterprise customers and channel partners flexible storage reference architectures. These architectures have been validated against key benchmarks, ensuring a strong foundation for cost and performance-optimized AI hardware and software solutions. The OVX computing platforms are powered by Nvidia L40s GPUs, which means that customers now have the freedom to choose from a range of validated reference architectures from Pure Storage, with greater compute GPU platform options and availability.
+
+Klivansky emphasized the unique advantages of Pure Storage's solution, stating, ""What sets Pure's solution apart from competitors is our data storage platform, which is optimized for AI workloads. Pure's FlashBlade//S offers leading performance, operational efficiency, energy and cost savings, and a reliable, future-proof storage foundation that can adapt to changing AI data requirements.""
+
+In addition to the broader AI infrastructure solutions, Pure Storage and Nvidia are also focusing on developing vertical-specific AI applications. The first of these applications is a Financial RAG using FinGPT, which has been designed specifically for the finance industry. The finance industry presents numerous AI use cases for large enterprises, and Pure Storage and Nvidia are committed to addressing the unique needs of this sector.
+
+The collaboration between Pure Storage and Nvidia represents a significant milestone in the advancement of AI infrastructure solutions. By providing enterprises with proven frameworks and solutions, this partnership is empowering businesses to unlock the full potential of artificial intelligence. The future of AI deployment looks promising, thanks to the innovative offerings from Pure Storage and Nvidia.",https://venturebeat.com/wp-content/uploads/2024/03/ps_evergreen_post_5-1.png?w=1200&strip=all,2024-03-25 19:40:23,Innovation,Innovation
+https://techcrunch.com/2024/03/25/fisker-nissan-deal-dead-funding-bankruptcy/,"Fisker loses potential Nissan deal, putting rescue funds at risk","The negotiations between Fisker and a major automaker have come to an end, putting the company's near-term rescue funding effort at risk. Fisker announced in a regulatory filing that the automaker terminated the negotiations on March 22, but did not provide a reason for the decision. The negotiations were a closing condition for a potential $150 million convertible note, and Fisker will now be seeking a waiver from the unnamed investor to proceed with the funding. This news had a significant impact on Fisker's stock, causing a 28% drop and leading to a trading halt.
+
+This latest development adds to the growing concerns surrounding Fisker, particularly with regards to the sales performance of its Ocean SUV. The company has struggled to meet its own sales targets and has encountered various quality problems with the cars that have been delivered. Internal documents suggest that Fisker has faced difficulties in addressing these issues.
+
+To compound matters, Fisker recently laid off 15% of its workforce and reported having only $121 million in its bank account. The company has suspended production and warned investors that it will not survive without a fresh injection of cash within the next year. While Fisker has held talks with other automakers, including Mazda, it appears that only Nissan was still considering a potential collaboration.
+
+In response to the termination of negotiations with Nissan, Fisker has stated that it is exploring other options for a strategic partnership. These alternatives include potential restructurings in or out of court, capital market transactions, debt refinancings, equity issuances, asset sales, and other strategic measures. Fisker is determined to find a solution that will ensure its survival and future success.
+
+It is clear that Fisker is currently facing significant challenges. However, the company remains determined to find a way forward and is actively exploring various options. With its focus on electric vehicles, Fisker has the potential to make a significant impact in the automotive industry. The coming months will be crucial for the company as it seeks to secure the necessary funding and partnerships to continue its operations and achieve its goals.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-25 13:52:11,Innovation,Innovation
+https://www.forbes.com/sites/traversmark/2024/03/25/a-psychologist-explores-3-silver-linings-of-parentification-of-kids/,A Psychologist Explores 3 Silver Linings Of ‘Parentified’ Kids,"A child that grows up too quickly can flourish in unexpected ways. Meet Emma, a 16-year-old girl who finds herself taking on the role of caregiver for her younger brothers due to her parents' long working hours. Not only does she have to manage household chores and responsibilities, but she is also dragged into her parents' arguments about finances. This experience is known as ""parentification,"" where children are burdened with caregiving responsibilities beyond their developmental stage.
+
+Parentification often arises from disturbed family dynamics, working parents, or illness within the family. It can have negative consequences, such as distress and a loss of childhood innocence. However, there are potential benefits for parentified children in supportive environments. A study conducted in 2023 revealed that fairness, appreciation, validation, positive relationships with parents, and community support can lead to positive outcomes for these children.
+
+Let's explore three positive outcomes that parentified children can experience in a supportive environment.
+
+1. A Wide and Strong Social Circle
+Despite the overwhelming responsibilities they face, parentified children can still cultivate healthy relationships with their parents. African American youth, for example, have been found to improve their relationships with their parents by meeting the emotional needs of the family. The support network surrounding these children plays a significant role in fostering positive relationships. Siblings of children with autism spectrum disorder, for instance, experienced improved relationships when consistent social support was available. Strengthened bonds between siblings facilitate empathy, understanding, acceptance, emotional connections, and a propensity for social support.
+
+2. Extraordinary Resilience and Sense of Responsibility
+Parentified children develop resilience as they navigate challenges typically reserved for adults. College students who have experienced parentification have been found to score high on resilience. They learn adaptability and composure under pressure. In addition, assuming adult roles prematurely equips them with a heightened sense of responsibility. They become adept at managing household tasks, caring for siblings, and providing emotional support to family members. Despite the challenges, they emerge with a deep understanding of accountability and a strong work ethic, which can serve as a foundation for future success.
+
+3. Elevated Self-Esteem and Self-Efficacy
+Parentification can contribute to a positive self-view as children successfully perform parental responsibilities. Research shows that parentified children exhibit higher levels of self-esteem when they perceive the benefits of parentification and have positive relationships with their siblings. These benefits include deriving enjoyment from their role, feeling appreciated, and sensing that their family functions effectively as a team. Receiving gratitude from family members boosts their confidence and sense of worth. Furthermore, children build their self-esteem through identification with their assigned role, carrying out their responsibilities, and experiencing self-approval. In a supportive family environment, children willingly embrace their roles to maintain attachments with their busy parents. The identification and subsequent benefits gained from parentification can be seen as an adaptive defense mechanism.
+
+In conclusion, while parentification may impose burdens on children, it can also lead to unexpected positive outcomes in supportive environments. Parentified children can develop strong social circles, extraordinary resilience, a sense of responsibility, elevated self-esteem, and self-efficacy. It is crucial for families and communities to recognize and support these children, ensuring their well-being and allowing them to thrive.","https://imageio.forbes.com/specials-images/imageserve/6601106cc11f7d8efb9a0826/0x0.jpg?format=jpg&crop=1483,695,x0,y169,safe&height=900&width=1600&fit=bounds",2024-03-25 14:26:02,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-throws-its-hat-in-the-edtech-ring/,Spotify throws its hat in the edtech ring,"Welcome back to Equity, the podcast that delves into the business side of startups, where we delve into the numbers and intricacies behind the headlines. In today's episode, we have a lot of ground to cover. Global stocks are experiencing a decline, but the crypto market is showing some promising gains. One of the major news stories in the startup world is the departure of Stability AI's CEO. The company's revenue growth and burn rate have been topics of discussion, making this leadership change significant.
+
+Moving on to the EU, several U.S.-based tech companies are now under investigation due to the implementation of the new Digital Markets Act. It raises questions about whether tech giants will be able to establish a more productive relationship with the bloc.
+
+Speaking of Europe, Spotify is making another foray into non-musical endeavors, and I have a few thoughts on that. We also discuss some news from China regarding their plans to adopt the Vision Pro next and their efforts to replace Intel and AMD chips in state computers. Lastly, we explore a report on how beverage startups are vying for market share against industry giants Coca-Cola and Pepsi.
+
+For those interested in episode transcripts and more, you can visit Equity's Simplecast website. Remember, new episodes of Equity are released every Monday, Wednesday, and Friday at 7 a.m. PT. Be sure to subscribe to us on popular podcast platforms such as Apple Podcasts, Overcast, and Spotify. Additionally, TechCrunch offers an excellent crypto-focused show that features interviews with founders and more.
+
+With so much happening in the startup world, it's important to stay informed. Tune in to Equity for insightful discussions and analysis on the latest developments.","https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop.jpg?resize=1200,675",2024-03-25 14:22:20,Innovation,Innovation
+https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/,What is AI? Everything to know about artificial intelligence,"'ZDNET Recommends': What exactly does it mean?
+
+When you come across the phrase 'ZDNET Recommends', you may wonder what it entails. Allow me to clarify its meaning for you.
+
+At ZDNET, our recommendations are not made haphazardly. We pride ourselves on conducting extensive testing, research, and comparison shopping before providing any recommendations. We invest numerous hours in gathering data from reliable sources such as vendor and retailer listings, as well as other relevant and independent review sites. Additionally, we dive into customer reviews to understand what truly matters to individuals who have already purchased and utilized the products and services we are assessing.
+
+It is important to note that when you click through from our site to a retailer and proceed to make a purchase, we may earn affiliate commissions. Rest assured, this does not impact the content we cover, how we cover it, or the price you pay. Neither ZDNET nor the author receive compensation for these independent reviews. We maintain a strict adherence to guidelines that ensure our editorial content remains unbiased and uninfluenced by advertisers.
+
+At ZDNET, our editorial team acts as your advocate. We aim to provide you, our esteemed reader, with the most accurate information and the most knowledgeable advice. Our primary goal is to assist you in making informed and intelligent buying decisions, not only regarding tech gear but also a wide range of products and services. To ensure the highest standards are met, our editors meticulously review and fact-check every article we publish. If we happen to make an error or present misleading information, rest assured that we will promptly correct or clarify the article. We value accuracy and transparency in our content.
+
+We also welcome your assistance in maintaining the integrity of our content. If you spot any inaccuracies in our articles, we kindly request that you report them to us using the form provided. Your feedback is invaluable in helping us uphold our commitment to excellence.
+
+At ZDNET, our mission is to empower you, the reader, with the information necessary to make well-informed purchasing decisions. We strive to be your trusted source for reliable and unbiased recommendations. Rest assured that each and every piece of content we produce is carefully crafted to meet the highest standards of accuracy and integrity.
+
+Thank you for choosing ZDNET as your go-to resource for expert advice and recommendations. We are here to serve you and look forward to continuing our journey together.",https://www.zdnet.com/a/img/resize/55a40497249ba30536e06678ecd61b31986788bb/2023/04/12/532c92c3-6621-46a2-86d9-b022809c4a12/how-to-use-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 08:03:00,Innovation,Innovation
+https://www.zdnet.com/article/upgrade-to-windows-11-pro-for-just-25-right-now/,Upgrade to Windows 11 Pro for just $25 right now,"'ZDNET Recommends': What exactly does it mean?
+
+When it comes to making informed purchasing decisions in the world of technology and beyond, ZDNET has got you covered. Our team of experts invests countless hours in testing, researching, and comparing products and services to provide you with reliable recommendations. But what exactly does it mean when we say 'ZDNET Recommends'?
+
+To ensure that our recommendations are as accurate and trustworthy as possible, we gather data from a variety of reliable sources. This includes analyzing vendor and retailer listings, as well as consulting other relevant and independent review sites. Additionally, we dive into the realm of customer reviews to gain insights from real people who have already experienced and utilized the very products and services we are evaluating.
+
+Now, you may be wondering, how does ZDNET benefit from these recommendations? It's a fair question. We are proud to disclose that when you click through from our site to a retailer and make a purchase, we may earn affiliate commissions. These commissions help support our work and allow us to continue providing you with valuable content. However, it is important to note that this does not impact the coverage of our reviews, nor does it affect the price you pay. Rest assured that our editorial content remains completely unbiased and uninfluenced by advertisers.
+
+At ZDNET, our primary focus is you, our reader. We strive to deliver the most accurate information and the most knowledgeable advice to empower you in making smarter buying decisions. Our dedicated editorial team meticulously reviews and fact-checks every article to ensure that our content meets the highest standards. We take great pride in maintaining the integrity of our work, and if we do make an error or publish misleading information, we are committed to correcting or clarifying the article accordingly.
+
+We also value your input and engagement. If you happen to come across any inaccuracies or mistakes in our content, we encourage you to report them through our dedicated form. Your feedback is invaluable to us, and we appreciate your assistance in upholding the quality and accuracy of our articles.
+
+In conclusion, when you see 'ZDNET Recommends,' you can trust that it represents a thorough and unbiased evaluation of products and services. Our goal is to equip you with the knowledge needed to make informed decisions in the ever-evolving world of technology and beyond. We thank you for your continued support and look forward to being your trusted source for recommendations.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 10:30:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","The European Union has recently announced a series of investigations on Big Tech companies under the Digital Markets Act (DMA). Alphabet/Google, Apple, and Meta are the first to face formal non-compliance investigations under the EU's new competition rulebook.
+
+Alphabet/Google's rules on steering in Google Play and its approach to self-preferencing in search results are under scrutiny. The EU is also investigating Apple's rules on steering in the App Store and the design of choice screens for alternatives to its Safari web browser. Additionally, Meta's ""pay or consent"" model will be examined by the Commission.
+
+A total of five investigations were announced on Monday, less than three weeks after the compliance deadline for these companies. The three gatekeepers, designated under the pan-EU market power and contestability regulation, are facing formal investigations to determine whether they are breaching the rulebook, as suspected by the Commission. Violations of the DMA can result in fines of up to 10% of global annual turnover, or even 20% for repeat offenses.
+
+The EU has up to 12 months to conclude the investigations, with a preliminary report expected within six months. However, the duration of the probes may vary from these guidelines.
+
+This enforcement action by the EU comes as antitrust scrutiny on these three US firms continues to increase domestically as well.
+
+Criticism has emerged regarding the companies' DMA compliance plans, suggesting that they do not comply with the new EU law. Google has been accused of attempting to bypass the regulation's ban on self-preferencing by introducing new rich features in search results that unfairly compete with rivals. Apple's use of notifications warning users about risks outside its walled garden has been criticized as ""scare screens"" by developers. Meta's ""pay or be tracked"" tactic has been condemned as exploitative abuse by privacy and consumer rights groups.
+
+The Commission has expressed concerns about Alphabet and Apple's measures relating to their obligations pertaining to app stores. The DMA requires gatekeepers to allow app developers to ""steer"" consumers to offers outside their app stores, free of charge. The Commission is concerned that the steering measures implemented by Alphabet and Apple may not be fully compliant, as they impose various restrictions and limitations. For example, developers may face constraints on their ability to freely communicate, promote offers, and directly conclude contracts.
+
+Regarding Google's self-preferencing, the EU investigation will focus on Google's vertical search services, such as Google Shopping, Google Flights, and Google Hotels, and the impact they have on similar rival services. The Commission is concerned that Alphabet's measures to comply with the DMA may not ensure fair and non-discriminatory treatment of third-party services featured on Google's search results page, as required by the DMA.
+
+The EU will also examine Apple's compliance with user choice obligations on iOS, including the ability to easily uninstall apps, change default settings, and select alternative default services such as browsers or search engines. The Commission is concerned that Apple's measures, including the design of the web browser choice screen, may be preventing users from exercising their choice of services within the Apple ecosystem.
+
+Regarding Meta, the EU proceedings will investigate whether its ""pay or consent"" model for EU users complies with the DMA. This portion of the regulation requires gatekeepers to obtain consent from users when combining or cross-using their personal data across different core platform services. The Commission is concerned that Meta's binary choice model may not provide a real alternative if users do not consent, thus failing to prevent the accumulation of personal data by gatekeepers.
+
+During a press conference, Thierry Breton, the EU's internal market commissioner, emphasized that the DMA requires gatekeepers to offer a free, non-preferential choice to users.
+
+In conclusion, the European Union has launched investigations on Alphabet/Google, Apple, and Meta under the DMA to determine if they are breaching the rulebook. These investigations will assess various aspects of their operations, including steering, self-preferencing, user choice obligations, and personal data usage. The EU aims to ensure fair competition and protect user rights within the digital markets.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/,London regtech GSS raises $47M to help banks screen for global sanctions,"Global Screening Services (GSS), a London-based regulatory compliance platform, has recently secured $47 million in funding. The increase in economic sanctions, particularly from the United States, has created a demand for services that help financial institutions meet their global sanctions obligations.
+
+GSS was initially incubated within consulting firm AlixPartner, where its co-founder and CEO, Tom Scampion, previously served as the head of financial crime for Deloitte’s EMEA arm. In 2021, GSS became a standalone entity, raising a significant amount of funding from prominent investors such as Mitsubishi UFJ Financial Group (MUFG) and the Commonwealth Bank of Australia (CBA), along with support from Cynosure Group and AlixPartner.
+
+Financial institutions often find themselves at the forefront of sanctions enforcement, given their role in managing the flow of money worldwide. However, determining the parties involved in financial transactions can be challenging. In recent years, major banks like Standard Chartered and BNP Paribas have faced substantial fines for breaching sanctions and lacking adequate money-laundering controls.
+
+As a result, investors have shown increasing interest in regulatory compliance businesses. Companies like Droit and SteelEye have also secured significant funding to support their efforts in this field.
+
+GSS offers a sanctions-screening platform that enables banks and other financial institutions to comply with regulations. By inputting transaction data into GSS's cloud-based platform, institutions can receive alerts if any matches are found against a standardized set of sanctions lists from around the world. GSS also enriches these lists with additional data points, including dates of birth, International Maritime Organization (IMO) numbers for ships, and data from the financial transfer systems of sanctioned countries.
+
+Furthermore, GSS provides enhanced screening lists that include companies partially owned by entities that have been sanctioned by organizations such as OFAC, the EU, or the U.K.
+
+With the recent funding, GSS is now transitioning from the development phase to becoming fully operational. The company is preparing to go live with its first customers, offering them a reliable and efficient solution for meeting their global sanctions obligations.
+
+In conclusion, GSS's successful funding round highlights the increasing importance of regulatory compliance in the face of rising economic sanctions. As financial institutions seek to navigate complex international regulations, platforms like GSS provide essential tools to ensure compliance and mitigate the risks associated with sanctions violations. With its innovative approach and substantial financial backing, GSS is poised to make a significant impact in the industry as it moves forward with its operational plans.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1770041999-e1711386339681.jpg?resize=1200,677",2024-03-25 18:36:37,Innovation,Innovation
+https://www.zdnet.com/article/i-switched-to-this-300-motorola-phone-for-two-weeks-and-was-pleasantly-surprised/,I switched to this $300 Motorola phone for two weeks and was pleasantly surprised,"The Moto G Power 5G is a budget-friendly phone that offers impressive features and performance. With a 5,000mAh battery, it can last up to two days on a single charge, making it perfect for users who are constantly on the go. The phone also boasts a large display and a sleek design, with a lovely vegan leather back panel that adds a touch of elegance.
+
+One of the standout features of the Moto G Power 5G is its user interface. Motorola has created a stock-like experience that is reminiscent of Google's Pixel phones. The interface is clean and intuitive, with handy gestures and system enhancements that make it easy to navigate and use the phone. For example, you can twist the phone to launch the camera, make chopping motions to toggle the flashlight, and pick up the phone to silence the ringer. These gestures add convenience and efficiency to the user experience.
+
+In terms of design, the Moto G Power 5G features a fingerprint sensor built into the side power button, which is a clever and convenient placement. The phone is made with plastic, but this helps keep it lightweight at just 201 grams. The Pale Lilac color variant, along with the vegan leather back, gives the phone a premium look and feel that belies its affordable price tag.
+
+The 6.7-inch LCD display of the Moto G Power 5G is a standout feature. It offers a rare 120Hz refresh rate and an 85% screen-to-body ratio, which results in smooth and immersive visuals. With a resolution of 391 ppi, the display is crisp and vibrant, making it ideal for media consumption. The phone also has stereo speakers that deliver decent audio quality, and there is even a 3.5mm audio port for those who prefer wired listening.
+
+In terms of performance, the Moto G Power 5G is powered by a MediaTek Dimensity 7020 processor, which is not as powerful as flagship processors but still delivers decent performance. The phone comes with 8GB of RAM and 128GB of internal storage, which can be expanded further with a microSD card. While there may be some occasional stuttering and lag when navigating between apps and games, Motorola's custom camera software makes up for it by providing excellent photo quality and creative features.
+
+One of the highlights of the Moto G Power 5G is its massive 5,000mAh battery, which is capable of lasting up to two full days with heavy usage. This is impressive considering the phone's price range. Motorola also includes a fast 30W TurboPower charger in the box, allowing for quick charging. What's more, the Moto G Power 5G supports wireless charging, which is a rare feature in phones at this price point.
+
+In conclusion, the Moto G Power 5G is a standout phone in its price range. Motorola has managed to pack in impressive features and performance without compromising on affordability. With its large display, sleek design, long-lasting battery, and user-friendly interface, the Moto G Power 5G is a strong contender for anyone looking for a budget-friendly smartphone that doesn't skimp on features. Whether you're a first-time smartphone user or simply in need of a reliable and affordable device, the Moto G Power 5G is definitely worth considering.",https://www.zdnet.com/a/img/resize/32aa07ddf6226336c47ed03b859ff3c4e46a8471/2024/03/24/63400535-0c15-459c-aca0-c0cc32986912/moto-g-power-5g-20245.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-24 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-courses-learning/,Spotify tests video courses to teach everything from music production to Excel,"Spotify, the popular music streaming platform, is expanding its offerings to include e-learning courses. In partnership with third parties like the BBC and Skillshare, Spotify is testing the waters with freemium video courses in the U.K. The courses cover a wide range of subjects, from music production to learning Excel. They are accessible on Spotify's website and mobile app, and prices range from £20 to £80 for a complete course. The goal of this launch is to gauge demand and optimize the offering before potential expansion.
+
+Spotify's foray into education comes as no surprise, considering the booming online learning market, estimated to be worth over $315 billion by 2023. While there are already numerous online learning sites available, Spotify's approach is focused on one-directional, on-demand video content. Currently, the courses primarily consist of videos, with some offering supplementary materials. However, there are no interactive elements or gamification at this time.
+
+Spotify has partnered with Skillshare, PLAYvirtuoso, BBC Maestro, and Thinkific for its initial courses. The company plans to curate the courses based on user preferences and interests. By leveraging the data it collects from its podcasting business, Spotify can identify popular podcasts and recommend related paid courses. This cross-promotion strategy aims to boost engagement and revenue.
+
+The decision to launch e-learning in the U.K. is strategic for Spotify. The country is a significant market for the platform, and its users are highly engaged. By diversifying its business and expanding into education, Spotify aims to improve profitability and margins. While the company has faced financial challenges in the past, it sees potential in the online learning and professional development space.
+
+It's worth noting that third-party publishers own the videos and license them to Spotify. Revenue from course sales will be shared among the creators, publishers, and Spotify. The exact revenue share breakdown has not been disclosed, and it remains unclear whether existing premium subscribers will receive any discounts or benefits.
+
+Overall, Spotify's move into e-learning aligns with its strategy to broaden its offerings and capitalize on user data. By leveraging its podcasting business and recommending relevant courses, Spotify aims to create a symbiotic relationship between its various content categories. As the company continues to diversify and explore new revenue streams, education presents an opportunity for growth and expansion.","https://techcrunch.com/wp-content/uploads/2024/03/Courses-on-Spotify-PR-Image-6-2.png?resize=1200,683",2024-03-25 08:59:18,Innovation,Innovation
