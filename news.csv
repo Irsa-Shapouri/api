@@ -1,0 +1,295 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://www.zdnet.com/education/professional-development/want-to-be-a-devops-engineer-heres-the-good-the-bad-and-the-ugly/,"Want to be a DevOps engineer? Here's the good, the bad, and the ugly","DevOps engineering has become a highly sought-after job in today's economy. However, succeeding in this role requires a combination of technological expertise and business acumen. Furthermore, continuous learning is essential for staying relevant in this rapidly evolving field.
+
+The demand for DevOps engineers is soaring, with these professionals responsible for automating and coordinating cloud and on-premises environments to ensure seamless software development and deployment. As a result, DevOps engineers are handsomely compensated, with an average salary of $134,000 per year in the US, according to estimates from Talent.com.
+
+While the role offers many rewards, it also presents challenges. Brad Morgan, an experienced DevOps engineer, highlights the importance of having a solid understanding of foundational technology. He emphasizes the significance of learning Linux, as it is a fundamental part of any modern DevOps role. Familiarity with the basics, command line usage, and terminal commands is crucial.
+
+In addition to Linux, Morgan stresses the importance of bash scripting. Bash scripting helps automate Linux commands and is extensively used in the DevOps world. A strong grasp of this skill is essential for building pipelines and streamlining processes.
+
+Cloud skills are another crucial aspect of DevOps engineering. Morgan recommends focusing on one mainstream cloud provider, such as AWS, Google Cloud, or Microsoft Azure, to become a master in that specific domain. While it may be tempting to delve into multiple cloud platforms, specialization is key to becoming a sought-after professional.
+
+Becoming a DevOps engineer does not require a formal course of study. Morgan emphasizes the value of self-learning, as the field is constantly evolving. Continuous learning and self-improvement are essential for success in this career. DevOps engineer ""Homebrew Henry"" echoes this sentiment, emphasizing the need to constantly learn new things and stay updated with the evolving DevOps ecosystem.
+
+Passionate DevOps engineers find joy in managing infrastructure. However, Henry cautions that if infrastructure management is not your cup of tea, you may struggle in this role. DevOps engineers spend a significant amount of time setting up, configuring, and maintaining the cloud infrastructure that supports various applications. This involves dealing with servers, databases, networks, and security on a daily basis. If this aspect excites you, the world of DevOps engineering may be perfect for you.
+
+On the other hand, if you prefer software engineering, DevOps may not scratch that coding itch. Building infrastructure using tools like Terraform, creating CI/CD pipelines, and writing automation scripts may not provide the same fulfillment as building customer-facing applications. However, it is worth noting that many professionals have successfully transitioned between software engineering and DevOps roles, so there is flexibility in choosing your path.
+
+Understanding the business side of DevOps is crucial as well. Henry warns against unrealistic expectations, as some businesses believe that hiring a few engineers will magically solve all their problems. DevOps is a complex and multifaceted discipline that requires careful planning, collaboration, and continuous improvement.
+
+In conclusion, DevOps engineering offers an exciting and rewarding career path. It requires a strong foundation in technology, with Linux and bash scripting being essential skills. Cloud expertise and a passion for infrastructure management are also crucial. Continuous learning and adaptability are key to staying relevant in this ever-evolving field. Finally, understanding the business side of DevOps is essential for managing expectations and driving success.",https://www.zdnet.com/a/img/resize/e4d3d8d263eb00323161fcf2566ad35a3fe52282/2024/03/25/1b8b924e-2629-43c2-b416-1b990e262786/gettyimages-1319039490.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/,Can you hear me now? AI-coustics to fight noisy audio with generative AI,"Can you hear me now? AI-coustics to fight noisy audio with generative AI
+
+Noisy recordings of interviews and speeches can be a major headache for audio engineers. However, a German startup called AI-coustics aims to solve this problem using a unique technical approach that leverages generative AI to enhance the clarity of voices in video.
+
+Recently, AI-coustics emerged from stealth mode with €1.9 million in funding. According to CEO Fabian Seipel, AI-coustics' technology goes beyond traditional noise suppression methods. It is designed to work across any device and speaker, making every digital interaction, from conference calls to social media videos, as clear as a professional studio broadcast.
+
+Seipel, who is an audio engineer, co-founded AI-coustics with Corvin Jaedicke, a machine learning lecturer at the Technical University of Berlin, in 2021. The two founders met while studying audiotechnology at TU Berlin and frequently encountered poor audio quality in their online courses and tutorials.
+
+Their personal mission to overcome the challenge of poor audio quality in digital communications led them to develop AI-coustics. Seipel, who has slightly impaired hearing from his early years in music production, struggled with online content and lectures, which sparked their interest in speech quality and intelligibility.
+
+The market for AI-powered noise-suppressing and voice-enhancing software is already quite competitive. AI-coustics' rivals include Insoundz, which uses generative AI to enhance streamed and pre-recorded speech clips, and Veed.io, a video editing suite with background noise removal tools.
+
+However, AI-coustics claims to have a unique approach to developing AI mechanisms for noise reduction. The startup uses a model trained on speech samples recorded in their own studio in Berlin. People are paid to record these samples, which are then added to the training data set. AI-coustics also simulates various audio artifacts and problems, such as noise, reverberation, compression, and distortion, during the training process.
+
+While AI-coustics' compensation scheme for creators may raise some concerns, particularly regarding long-term profitability, the immediate concern is bias. Speech recognition algorithms have been known to develop biases that can harm users. To combat this, AI-coustics is actively recruiting diverse speech sample contributors. The startup believes that size and diversity are crucial for eliminating bias and ensuring the technology works for all languages, speaker identities, ages, accents, and genders.
+
+To test AI-coustics' capabilities, I uploaded three video clips to their platform: an interview with an 18th-century farmer, a car driving demo, and an Israel-Palestine conflict protest. The processed clips indeed had significantly reduced ambient background noise, fulfilling AI-coustics' promise of clarity enhancement.
+
+Seipel envisions AI-coustics' technology being used for both real-time and recorded speech enhancement. It could potentially be embedded in devices like soundbars, smartphones, and headphones to automatically boost voice clarity. Currently, AI-coustics offers a web app and API for post-processing audio and video recordings, as well as an SDK for integrating their platform into existing workflows, apps, and hardware.
+
+AI-coustics currently has five enterprise customers and 20,000 users, although not all of them are paying customers. The company generates revenue through a mix of subscriptions, on-demand pricing, and licensing. Their roadmap for the coming months includes expanding their team and improving the underlying speech-enhancing model.
+
+AI-coustics has come a long way since its early days of operating on a lean budget to survive the challenges of the VC investment market. With substantial funding and a network of investors and mentors in Germany and the U.K., the startup is well-positioned to continue making strides in the field of audio enhancement technology.","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1009979808.jpg?resize=1200,801",2024-03-25 18:43:01,Innovation,Innovation
+https://www.zdnet.com/home-and-office/home-entertainment/espn-adding-local-sports-to-its-app-and-website-is-your-team-there-yet/,ESPN adding local sports to its app and website - is your team there yet?,"As the world of streaming continues to grow and become more fragmented, ESPN is taking steps to make its offerings more comprehensive. In the coming months, sports fans will be able to watch broadcasts from various regional sports networks (RSNs) directly through the ESPN app and website.
+
+Starting this week, subscribers to NESN, which covers Boston-area sports teams such as the Red Sox, Celtics, Patriots, and Bruins, will be able to access live games from these teams on the ESPN site or app. Additionally, Monumental Sports Network, which covers the Washington D.C.-area Capitals, Wizards, and Mystics, will be added next month. SportsNet Pittsburgh, which hosts games for the Penguins, Pirates, and WVU, has also been confirmed. And it's likely that several other RSNs will be added in the future.
+
+Over the past few years, many sports franchises have signed agreements to have their games broadcast on regional sports networks. These networks, which usually cover multiple teams from a city or region, can be part of a cable package or stand alone, but typically require an additional subscription.
+
+While you will still need a subscription to these specific networks to watch the games, the partnership with ESPN makes it much easier to find and access them. The actual streams will still come from the provider websites, and the content will still be available in RSN apps. However, with the integration into the ESPN platform, fans will have a more streamlined experience.
+
+This collaboration is beneficial for both ESPN and the regional networks. For the networks, increased discoverability is crucial. If a game is easier to find and a link to it is available in an app that fans already have, they are more likely to subscribe. And for ESPN, this partnership allows them to offer a wider range of content and cater to the preferences of sports fans.
+
+It's important to note that these links will only be visible to people who live in the coverage areas for those networks. This means that if you don't have access to a specific network, you won't see the option to click on its games.
+
+This move by ESPN comes after the announcement last month that the company is teaming up with Fox and Warner Bros. for a streaming service that covers nearly every major and minor sports league. With these three rivals joining forces, fans will have access to MLB, NFL, NBA, NHL, NCAA football and basketball, NASCAR, PGA Tour, Grand Slam tennis, soccer, and more, all in one app.
+
+In conclusion, ESPN's integration of regional sports networks into its app and website is a significant step towards providing a more comprehensive streaming experience for sports fans. By making games easier to find and access, ESPN is aiming to cater to the preferences of its audience and enhance the overall viewing experience.",https://www.zdnet.com/a/img/resize/83df13de495fcfec3cffb77378df0e2ad3591ce2/2024/03/25/fd31c575-1031-497a-845f-afbf4b97b11c/pxl-20240325-185459546.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://www.forbes.com/sites/bobinglis/2024/03/25/avoiding-the-judgment-of-history/,Avoiding The Judgment Of History,"Art Laffer, a former economics advisor to President Ronald Reagan, recently had a meeting with former President Trump to discuss the possibility of replacing Jerome Powell as Chairman of the Federal Reserve Board. Laffer has also expressed support for a revenue-neutral carbon tax as an effective market-based solution to combat climate change. This meeting took place during the same week that the U.S. House of Representatives passed a non-binding resolution condemning a carbon tax, despite its potential as a powerful tool in solving climate change.
+
+Kim Beazley, Australia's former ambassador to the US, emphasizes the importance of individuals being held accountable for their stance on climate change. He wants his children and grandchildren to know where he stood on the issue and what others were saying. In line with this sentiment, the House of Representatives' condemnation of a carbon tax raises questions about their understanding of its benefits.
+
+There are two key features of a well-designed carbon tax that seem to have been overlooked by those who oppose it. First, it can be made revenue-neutral by offsetting it with a reduction in an existing tax, ensuring that there is no increase in the size of the government. Second, it can be made border-adjustable by applying the tax to imports from countries that have not implemented their own carbon taxes. These features make a carbon tax more effective and fair.
+
+Ironically, during the same week that the House passed the resolution against a carbon tax, Art Laffer was reported to have met with Donald Trump to discuss the possibility of replacing Jerome Powell. Laffer, along with Kevin Hassett, has advocated for solving climate change through a carbon tax paired with a dollar-for-dollar reduction in existing taxes. Both Laffer and Hassett are members of the Pigou Club, which was founded by economist Greg Mankiw and is named after Arthur Cecil Pigou, the English economist known for his ideas on taxation.
+
+Pigou suggested that we should tax what we want less of and untax what we want more of. In the case of climate change, we want less pollution and more income. Those who oppose a carbon tax should be asked why they have an issue with such a tax swap. If their main concern is that a carbon tax would disproportionately affect low-wage workers, a tax swap that reduces payroll taxes and taxes carbon pollution instead would address this problem. Additionally, this tax swap would strengthen Social Security by broadening its tax base.
+
+Furthermore, the drafters of the resolution seem to be unaware that under existing World Trade Organization rules, we could apply a carbon tax to imports from countries without their own carbon taxes. This border adjustment would incentivize other countries to implement their own carbon pollution fees, as they would not want to lose out on revenue that could have been collected for themselves. This approach would not require any international agreement or extensive negotiations, and it would allow the true cost of burning fossil fuels to be reflected in the prices of products. This would encourage the production of greener and cleaner products, making them more affordable compared to their polluting counterparts.
+
+This approach aligns with Pigou's ideas on negative externalities, which cause market distortions and hinder innovation. Companies that can get away with polluting the environment can offer their products at lower prices than competitors who have invested in cleaner processes. While some may argue for regulation, economist Milton Friedman suggests that taxing these companies would be a more effective solution.
+
+It is important to note that both Republicans and Democrats are at risk of making policy decisions based on political motivations rather than what is best for the country. The passing of the non-binding resolution against a carbon tax is not set in stone, and there is always room for growth and redemption.
+
+In conclusion, a well-designed carbon tax, paired with reductions in other taxes and border adjustments, can be an effective and fair market-based solution to combat climate change. It is essential for policymakers to understand the benefits of such a tax and consider the long-term consequences of their decisions. By implementing a carbon tax, we can encourage innovation, protect the environment, and create a sustainable future for generations to come.",https://imageio.forbes.com/specials-images/imageserve/6601d28de733bba2fcac676c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 15:47:48,Innovation,Innovation
+https://techxplore.com/news/2024-03-deep-geothermal-renewable-powerhouse.html,Dig deep: US bets on geothermal to become renewable powerhouse,"Geothermal energy has the potential to become a major player in the green energy transition, despite currently representing only a fraction of US energy production. Businesses and the Biden administration are investing in technological advancements to harness the power of the earth's heat and make geothermal energy a reliable and scalable energy source.
+
+Energy Secretary Jennifer Granholm believes that capturing the heat beneath our feet can provide clean and dependable power for various sectors, from industries to households. The Department of Energy predicts that geothermal energy could surpass hydroelectric and solar power in the US by 2050.
+
+In 2022, geothermal energy accounted for only 1.6% of US energy consumption. To increase production, the US government has invested over $200 million in an experimental site in Utah. Unlike traditional geothermal energy, which taps into near-surface heat, this project involves drilling exceptionally deep wells. Scientists at the site are testing Enhanced Geothermal Systems (EGS), a technology that injects water into naturally hot rocks, allowing geothermal energy production without the need for a nearby hot spring or underground reservoir.
+
+EGS offers several advantages. It reduces the upfront risk associated with drilling and finding nothing, which has deterred some investors in the past. Additionally, the US government is simplifying the permit conversion process, allowing companies to convert permits for oil or gas exploration into geothermal licenses, thus reducing paperwork and delays.
+
+Compared to classic fracking, EGS uses fewer chemical additives and does not release hydrocarbons during drilling. Geothermal energy also provides a consistent flow of energy regardless of weather conditions or time of day, unlike solar or wind power.
+
+In terms of cost, the US government expects the price of geothermal energy to drop from $70-$100 per megawatt hour (MWh) to $45 by 2035. Leveraging existing drilling technology makes geothermal energy development quicker and more cost-effective. By adapting oil and gas operation models and modifying drill bits, the energy industry has unlocked a new application for existing infrastructure.
+
+The US has been at the forefront of developing this new geothermal technology. While experimental EGS sites exist in other countries, the US has taken the lead in implementing them. However, geothermal drilling projects, like fracking, carry the risk of inducing seismic activity. The US Energy Department requires all funded projects to follow a mitigation protocol to address induced seismicity and is conducting research on the issue.
+
+Several startups in the US and Canada are competing in the emerging geothermal market and have secured substantial investments. Fervo Energy, for example, partnered with Google to connect its Nevada site to the electric grid. As geothermal supply grows, demand is also increasing, with companies like Google, Microsoft, and Nucor committing to purchasing geothermal energy.
+
+Despite the potential, the geothermal energy sector is still in its early stages. The first successful commercial facility will pave the way for further growth and investment. As the industry expands, the primary focus should be on sustainable and responsible development.
+
+Geothermal energy has the ability to revolutionize the energy landscape, providing clean, reliable, and scalable power. With ongoing advancements and investments, geothermal energy could play a significant role in the transition to a greener future.",https://scx2.b-cdn.net/gfx/news/2024/a-worker-operates-a-dr.jpg,2024-03-25 04:59:03,Innovation,Innovation
+https://www.forbes.com/sites/lesliekatz/2024/03/25/heres-proof-that-spiders-pretend-to-be-ants/,Here’s Fossilized Proof That Spiders Pretend To Be Ants,"It's a fascinating discovery - a spider trapped in fossilized tree resin, perfectly preserved except for the tips of its legs. What makes it even more intriguing is that this spider looks remarkably like an ant. But why would a spider want to mimic an ant?
+
+In the world of nature, where predators lurk at every turn, avoiding becoming lunch is a high-stakes game. And spiders have found a clever way to stay alive - by disguising themselves as ants. Ants are known for their aggressive defense mechanisms, making them less appealing to other predators. They have a strong bite and venom, and can even call in reinforcements from their nest mates. Spiders, on the other hand, have no chemical defenses and are typically loners, making them vulnerable to larger spiders, wasps, and birds. By imitating ants, spiders increase their chances of going unnoticed and unbothered.
+
+This discovery comes from the research of George Poinar Jr., a paleobiologist and professor emeritus at Oregon State University. Poinar, who inspired the science in Jurassic Park, has studied everything from amber-preserved insects to prehistoric flowers. In his study, he describes a new species of ant-mimicking spider found trapped in fossilized resin. While spiders that impersonate ants can be found all over the world, they have managed to dodge detection by both researchers and predators. This study, published in the journal Historical Biology, sheds new light on this intriguing adaptive behavior.
+
+The spider in question was found in Medellin, Colombia, preserved in copal - a less mature form of tree resin that eventually turns into amber when it fossilizes. Copal can date back up to 3 million years, but the small size of the block containing the spider made age-testing difficult without potentially damaging the specimen. Regardless of its exact age, this fossilized spider provides a rare glimpse into the adaptive behavior of these masters of disguise.
+
+Mimicry in nature is not uncommon. Many creatures change colors or patterns to blend into their surroundings and avoid predators. But for spiders, with their eight legs and lack of antennae, mimicking ants is quite a feat. Ant-mimicking spiders achieve this by repositioning their front legs to resemble antennae. But that's not all - they also need to modify other body structures to closely resemble ants.
+
+According to Poinar, this morphing process involves spider mutation, adaptation, and natural selection. However, he believes there may be more at play. He suggests that there could be some level of reasoning and intelligence involved, as spiders often model their body changes after specific ants in their environment. In the past, it was believed that all insect behavior was purely instinctual, but Poinar's research challenges this notion.
+
+While ant-mimicking spiders are certainly impressive contortionists, their skills come at a cost. Other studies have shown that the body modifications required for mimicry can impair the spiders' own hunting abilities. It seems that these spiders have made a trade-off - sacrificing their hunting prowess for the ability to go unnoticed by potential predators.
+
+In conclusion, the discovery of a spider trapped in fossilized resin offers a rare glimpse into the fascinating world of mimicry in nature. By mimicking ants, spiders increase their chances of survival in a predator-filled world. This discovery adds to our understanding of the complex strategies and adaptations that creatures employ to avoid becoming a meal. Nature never ceases to amaze us with its ingenuity and the spider's ability to transform itself into an ant is yet another testament to its wonders.","https://imageio.forbes.com/specials-images/imageserve/6601d75147f6aaf277e73ba1/0x0.jpg?format=jpg&crop=527,297,x0,y132,safe&height=900&width=1600&fit=bounds",2024-03-25 15:28:10,Innovation,Innovation
+https://www.zdnet.com/article/five-linux-file-and-folder-management-commands-you-need-to-know/,Five Linux file and folder management commands you need to know,"Linux is a powerful operating system with a vast array of commands that can be overwhelming for new users. While you may only use a small percentage of these commands in your lifetime, it's important to familiarize yourself with some essential ones for file and folder management. In this article, we'll explore five additional Linux commands that will enhance your productivity and help you navigate the Linux environment more efficiently.
+
+1. mkdir - Create a New Directory
+The ""mkdir"" command is used to create a new directory or folder. To create a directory, simply enter the following command:
+```
+mkdir FOLDER
+```
+Replace ""FOLDER"" with the desired name of the new directory. For example, if you want to create a directory named ""TEST"" within your current working directory, you can use the following command:
+```
+mkdir TEST
+```
+If you want to create a directory within a specific path, you can provide the full path instead of just the directory name:
+```
+mkdir /path/to/TEST
+```
+Additionally, if you need to create multiple directories at once, you can use the ""-p"" option. This option ensures that parent directories are created if they don't already exist. For example:
+```
+mkdir -p /path/to/TEST/project1
+```
+This command will create the ""TEST"" directory if it doesn't exist, and then create the ""project1"" directory inside it.
+
+2. less - View File Contents
+The ""less"" command is a handy tool for viewing the contents of a file without editing it. It allows you to navigate through the file one page at a time, making it easier to read large files. To view a file using ""less,"" use the following command:
+```
+less FILENAME
+```
+Replace ""FILENAME"" with the path to the file you want to view. For example:
+```
+less /etc/samba/smb.conf
+```
+This command will display the contents of the ""smb.conf"" file. You can scroll through the file using the arrow keys or the Page Up and Page Down keys. Press ""q"" to exit the ""less"" viewer.
+
+3. cat - Concatenate Files
+The ""cat"" command is used to display the contents of a file in the terminal window. It can also be used to concatenate files or append the contents of one file to another. To view the contents of a file, use the following command:
+```
+cat FILENAME
+```
+For example, to view the contents of the ""/etc/fstab"" file, you can use the following command:
+```
+cat /etc/fstab
+```
+If you want to append the contents of one file to another, you can use the following command:
+```
+cat FILE1 >> FILE2
+```
+This command will append the contents of ""FILE1"" to the end of ""FILE2."" For example, to append the contents of ""file1.txt"" to ""file2.txt"" located in the ""TEST/project1"" directory, you can use the following command:
+```
+cat TEST/project1/file1.txt >> TEST/project1/file2.txt
+```
+The contents of ""file1.txt"" will be added at the bottom of ""file2.txt.""
+
+4. touch - Create Empty Files
+The ""touch"" command is primarily used to change file timestamps, but it can also be used to create empty files. To create an empty file, use the following command:
+```
+touch FILENAME
+```
+Replace ""FILENAME"" with the desired name of the new file. For example, to create a file named ""test"" in your home directory, you can use the following command:
+```
+touch ~/test
+```
+If the file already exists, ""touch"" will update its timestamp. To add content to the new file, you can use the "">"" or "">>"" operators. The "">"" operator overwrites the file's content, while "">>"" appends the new text to the end of the file. For example:
+```
+echo ""New Content"" > ~/test
+echo ""More Content"" >> ~/test
+```
+
+5. pwd - Print Current Working Directory
+The ""pwd"" command is used to print the name of the current working directory. It can be helpful when you need to know your current location within the Linux filesystem hierarchy. To print the current working directory, simply enter the following command:
+```
+pwd
+```
+This command will display the full path of your current directory. For example, if you're in the ""/var/www/html/site1"" directory, running ""pwd"" will output ""/var/www/html/site1."" While you may not need to use ""pwd"" frequently, it can be useful when you're navigating through complex directory structures.
+
+In conclusion, these five additional Linux commands will further enhance your file and folder management skills. By combining them with the previously mentioned essential commands, you'll be well-equipped to navigate the Linux environment and perform various tasks efficiently. Whether you're a beginner or an experienced user, mastering these commands will undoubtedly improve your Linux experience and productivity.",https://www.zdnet.com/a/img/resize/73a6f654a7f5dd5cfc8e3389ab98f6a3dc1aafce/2024/03/25/49237a5b-9c57-4f0a-b810-21a85165bfeb/5penguinsflyinggettyimages-520459992.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/,TechCrunch Space: Returning to the moon,"Welcome back to TechCrunch Space! We have some exciting news to share with you today. Boeing and NASA have announced plans to conduct the first crewed Starliner mission on May 1st. This is a significant milestone in the journey towards human space exploration.
+
+In other news, SpaceX is making progress in certifying a second launch pad for astronaut missions. This development will help alleviate launch site congestion and allow the company to increase the number of humans it sends to space. As a preliminary step, SpaceX recently used the second pad to launch an uncrewed Dragon capsule to the International Space Station. The next step for SpaceX is to send a crewed mission.
+
+Last week, Rocket Lab successfully completed its fourth launch from Virginia. The Electron rocket carried a classified payload for the National Reconnaissance Office (NRO). This mission marked the fifth and final launch under a contract awarded to Rocket Lab in 2020. If you missed the launch, you can watch the replay here.
+
+In addition to these exciting developments, we have some interesting articles for you to check out. Bloomberg recently published a story exploring how the rise of NewSpace companies has impacted hiring and retention at NASA. It's a fascinating read that dives into the complexities of the situation.
+
+Now, let's take a trip down memory lane. On March 30, 1982, the space shuttle Columbia landed at the White Sands Missile Range in New Mexico. The shuttle had successfully completed an eight-day mission, and astronauts Jack R. Lousma and C. Gordon Fullerton returned home safely. It's important to reflect on these historic moments that have shaped the future of space exploration.
+
+If you have any tips or news to share, feel free to reach out to us. You can email Aria at aria.techcrunch@gmail.com or send a message on Signal at 512-937-3988. Alternatively, you can contact the entire TechCrunch crew at tips@techcrunch.com. We also offer secure communication options, including SecureDrop and encrypted messaging apps, which you can find on our website.
+
+Stay tuned for more updates and exciting news from the world of space exploration. We are committed to bringing you the latest information in a concise, engaging, and error-free manner. Thank you for joining us on this incredible journey.",https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=941,2024-03-25 22:00:11,Innovation,Innovation
+https://techcrunch.com/2024/03/25/elon-musk-x-ccdh-california-lawsuit-dismissed/,A judge just killed Elon Musk's lawsuit against an anti-hate research org,"A federal judge has made a ruling against Elon Musk, dismissing a lawsuit filed by Musk and X against the Center for Countering Digital Hate (CCDH), a nonprofit organization that focuses on researching online hate. X had sued CCDH, accusing the group of spreading misleading information through a series of reports on hate and extremism on the platform. In their lawsuit, X claimed that they suffered financial losses due to CCDH's research.
+
+Musk and X also alleged that CCDH illegally scraped data and violated the platform's rules by aggregating content using a third-party social media monitoring tool called Brandwatch. Musk personally directed the lawsuit and even referred to CCDH as ""an evil propaganda machine"" in his replies on X.
+
+Last year, CCDH filed a motion to strike X's claims under California's Strategic Lawsuit Against Public Participation (SLAPP) law, which aims to prevent frivolous lawsuits intended to intimidate others. They requested the judge to dismiss the lawsuit. CCDH CEO Imran Ahmed accused Musk, who is worth around $200 billion, of deliberately prolonging the legal process to increase the organization's legal costs.
+
+On Monday, United States District Judge Charles R. Breyer of the Northern District of California granted CCDH's motion to dismiss the case. Breyer also denied Musk and X the opportunity to reopen the case. In his ruling, Judge Breyer stated that the purpose behind X's lawsuit was to punish CCDH for its critical publications about X and possibly discourage others from engaging in such criticism.
+
+In recent months, the CCDH has drawn attention to the increase in hate speech on Twitter following Musk's increased activity on the platform. They published a report exploring how Musk's decision to unban several highly followed extremists could potentially boost the company's ad revenue. Among the extremists was Andrew Anglin, an infamous neo-Nazi who founded the white supremacist website the Daily Stormer.
+
+Established in 2018, CCDH conducts research on hate speech, extremism, and misinformation on major social networks. Their research often exposes disturbing content across platforms, including reports on eating disorder content on TikTok, climate denial on YouTube, and violent misogynistic threats on Instagram.
+
+Following the ruling, CEO Imran Ahmed expressed satisfaction, saying, ""We create costs for lies and hate."" He added that the court's decision affirmed their right to research, speak out, and hold social media companies accountable for their decisions that impact children, democracy, and fundamental human rights.
+
+CCDH's legal team included Roberta Kaplan, who had recently won a major victory in the E. Jean Carroll defamation suit against former President Donald Trump. Kaplan commented on the ruling, stating that it proves that even the world's richest man cannot manipulate the rule of law to his advantage.
+
+While CCDH celebrates its victory in California, Musk is pursuing a similar lawsuit against the left-leaning media watchdog, Media Matters for America. However, in this case, X is suing Media Matters for America in Texas, which lacks the same protections against frivolous lawsuits aimed at suppressing free speech as California possesses.","https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",2024-03-25 20:33:17,Innovation,Innovation
+https://www.reuters.com/technology/us-targets-russian-fintech-operators-ukraine-sanctions-evasion-work-2024-03-25/,US targets Russian fintech operators for Ukraine sanctions evasion work,"In an exciting announcement, Apple CEO Tim Cook revealed that the highly anticipated Apple Vision Pro will be launching in mainland China this year. This news comes as a delight to Apple enthusiasts and technology enthusiasts alike, as China is known for its massive consumer market and tech-savvy population.
+
+The Apple Vision Pro is set to revolutionize the way we interact with technology. With its advanced features and cutting-edge technology, this device is expected to take the market by storm. From its sleek design to its powerful capabilities, the Apple Vision Pro is poised to become a game-changer in the world of tech gadgets.
+
+One of the standout features of the Apple Vision Pro is its stunning display. With a high-resolution screen and vibrant colors, users can expect a visually immersive experience like never before. Whether you're watching movies, playing games, or browsing the internet, the Apple Vision Pro's display is sure to leave you mesmerized.
+
+But the Apple Vision Pro is not just about aesthetics; it's also packed with powerful hardware and software. Equipped with the latest processor and plenty of RAM, this device promises lightning-fast performance and smooth multitasking capabilities. Whether you're editing photos, streaming videos, or running graphic-intensive apps, the Apple Vision Pro can handle it all with ease.
+
+In addition to its impressive hardware, the Apple Vision Pro also boasts an array of innovative features. One such feature is its advanced facial recognition technology. With this feature, users can unlock their device and authenticate payments simply by looking at the screen. This not only adds an extra layer of security but also makes the device incredibly convenient to use.
+
+Furthermore, the Apple Vision Pro comes with a state-of-the-art camera system. With its high-resolution lenses and advanced image processing capabilities, users can capture stunning photos and videos with remarkable clarity. Whether you're a professional photographer or an amateur enthusiast, the Apple Vision Pro's camera is sure to impress.
+
+But the Apple Vision Pro isn't just about individual features; it's about the overall user experience. Apple has always been known for its intuitive and user-friendly interfaces, and the Apple Vision Pro is no exception. With its seamless integration with Apple's ecosystem and intuitive gestures, navigating through the device feels natural and effortless.
+
+In terms of connectivity, the Apple Vision Pro supports the latest wireless standards, ensuring fast and reliable internet speeds. Whether you're streaming content, downloading files, or video chatting with friends and family, you can expect a seamless experience with the Apple Vision Pro.
+
+As with any Apple product, the Apple Vision Pro also prioritizes user privacy and security. With built-in encryption and advanced security features, users can feel confident that their personal information and data are protected.
+
+In conclusion, the upcoming launch of the Apple Vision Pro in mainland China is an exciting development for both Apple enthusiasts and tech enthusiasts alike. With its stunning display, powerful hardware, innovative features, and user-friendly interface, this device promises to be a game-changer in the world of technology. Whether you're an avid photographer, a mobile gamer, or simply someone who appreciates cutting-edge gadgets, the Apple Vision Pro is definitely worth keeping an eye out for. So mark your calendars, because the future of technology is coming to mainland China soon.",https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=183,2024-03-25 15:40:25,Innovation,Innovation
+https://www.reuters.com/business/google-says-will-defend-its-dma-compliance-coming-months-2024-03-25/,Google says will defend its DMA compliance in coming months,"Google has stated that it will defend its compliance with the Digital Markets Act as EU antitrust regulators launch an investigation into potential violations of EU tech rules. The Alphabet unit has made significant changes to the way its services operate in Europe in order to comply with the Act, according to Google's competition director, Oliver Bethell. He further emphasized that Google will continue to defend its approach in the coming months.
+
+The investigation by EU antitrust regulators is focused on determining whether Google has breached the regulations set forth in the Digital Markets Act. This act aims to ensure fair competition in the digital marketplace and prevent dominant tech companies from engaging in anti-competitive practices. Google's compliance with this legislation is now being scrutinized by regulatory authorities.
+
+In response to the investigation, Google has expressed its commitment to defending its actions and compliance with the Digital Markets Act. The company has made significant changes to its operations in Europe in order to align with the requirements of the legislation. Google's competition director, Oliver Bethell, stated that they will continue to uphold their approach in the face of regulatory scrutiny.
+
+The Digital Markets Act is a set of regulations established by the European Union to address concerns regarding the dominance of certain tech companies in the digital market. These regulations aim to promote fair competition, prevent anti-competitive behavior, and protect the interests of consumers. By investigating potential breaches of the Act, EU antitrust regulators are ensuring that tech companies like Google adhere to these regulations and do not engage in practices that may harm competition or consumer welfare.
+
+Google's compliance with the Digital Markets Act is crucial for the company to maintain its position in the European market. The Act imposes certain obligations on tech companies that are considered to have significant market power. These obligations include providing access to certain data to competitors, allowing users to uninstall pre-installed applications, and ensuring transparency in advertising services. By making significant changes to its operations in Europe, Google aims to demonstrate its commitment to complying with these obligations.
+
+The investigation by EU antitrust regulators into Google's compliance with the Digital Markets Act underscores the importance of ensuring fair competition in the digital marketplace. The Act seeks to address concerns about the dominance of certain tech companies and prevent them from engaging in anti-competitive practices. As the investigation progresses, it remains to be seen how Google will defend its approach and whether any potential breaches of the Act will be identified.
+
+In conclusion, Google has stated that it will continue to defend its compliance with the Digital Markets Act as EU antitrust regulators investigate potential breaches of the EU tech rules. The company has made significant changes to its operations in Europe in order to align with the requirements of the legislation. As the investigation unfolds, it remains to be seen how Google will respond and whether any violations of the Act will be identified.",https://www.reuters.com/resizer/v2/BS57LGJDPNIHVFCUF6UGJKEWS4.jpg?auth=b1f2a139a946ca2fa58efa03cdca4f6a8144370f9e2a12203ecfadb750c57805&width=1920&height=1005&smart=true,2024-03-25 10:26:53,Innovation,Innovation
+https://www.zdnet.com/article/my-favorite-linux-text-editors-and-why-you-should-be-using-one/,My favorite Linux text editors (and why you should be using one),"Linux has come a long way since the infamous editor wars of the early days. While emacs and vi were once the go-to choices for configuring Linux and writing code, the landscape has changed. Text editors are now used for a variety of purposes, including note-taking, journaling, and even writing novels. In this blog post, we'll explore some text editors that are perfect for everyday use.
+
+Let's start with nano. Nano has been my personal favorite for decades. It may be basic, but it gets the job done. With nano, you can write simple flat text files without any formatting. It offers features like interactive search-and-replace, undo/redo, syntax coloring, smooth scrolling, auto-indentation, and more. It's a terminal application, so you can simply open the terminal and issue the command ""nano filename"" to edit or create a file. Nano is free and comes pre-installed with most Linux distributions.
+
+Next up is Gedit, the default text editor for the GNOME desktop. Gedit is a simple yet effective GUI application. It offers features like tabs, support for internationalized text, syntax highlighting, markdown support, configurable fonts and colors, and more. I personally prefer nano, but when I need a GUI, Gedit is my go-to choice. One of the main reasons I keep Gedit around is that it can be opened from a link to a text file, unlike nano. Gedit is free and ships with most GNOME-based desktop distributions.
+
+If you're looking for a text editor with a modern touch, COSMIC Text Editor might be the one for you. Although it's not officially released yet, it's already showing great progress. COSMIC Text Editor will be the default text editor for System76's COSMIC desktop. It offers features like syntax highlighting, standard keyboard shortcuts, spell check, project support, and even Git management support. What sets COSMIC Text Editor apart is its sleek and dark theme, which adds a touch of elegance to your editing experience.
+
+Another great option is Kate, the text editor for the KDE Plasma desktop. Kate offers a few more features than Gedit, including multi-cursor and multi-cursor selection, project support, syntax highlighting, and plugins. With plugins, you can add additional functionality like SQL query support and one-click project build. Kate is like a supercharged version of Gedit, perfect for creating and editing simple text files.
+
+In conclusion, text editors have evolved beyond their original purpose of configuring Linux and writing code. They have become versatile tools for various tasks, from note-taking to novel writing. While emacs and vi are powerful editors, they may not be suitable for everyday use. That's where editors like nano, Gedit, COSMIC Text Editor, and Kate shine. They offer simplicity, functionality, and a user-friendly experience. Whether you're a beginner or an experienced user, these text editors have got you covered. So give them a try and see which one suits your needs the best.",https://www.zdnet.com/a/img/resize/feda4ca65eefc13df0e3505780d84330ecd3c713/2024/03/25/d964a97e-9c56-444a-9497-19bc7ca26a56/typingclosegettyimages-1341060766.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techxplore.com/news/2024-03-pairing-crypto-green-hydrogen-energy.html,"Pairing crypto mining with green hydrogen offers clean energy boost, study suggests","Pairing cryptocurrency mining, known for its high carbon emissions, with green hydrogen technology could play a crucial role in promoting the adoption of renewable energy sources like solar and wind power, according to a recent study conducted by Cornell University. The study, titled ""Climate Sustainability Through a Dynamic Duo: Green Hydrogen and Crypto Driving Energy Transition and Decarbonization,"" was authored by Professor Fengqi You and doctoral student Apoorv Lal, and it highlights the potential of combining energy-intensive cryptocurrency mining with green hydrogen to accelerate the growth of renewable energy sectors.
+
+As Professor You explains, ""Given the significant contribution of current cryptocurrency operations to global carbon emissions, it is imperative that we explore avenues for harnessing the widespread enthusiasm for cryptocurrency as we strive towards a sustainable and climate-friendly future."" The researchers propose leveraging the use of clean energy sources to power blockchain mining and produce green hydrogen, which could lead to increased wind and solar capacity and foster sustainable energy production across the country.
+
+The current structure of blockchain-based cryptocurrency mining in the United States consumes as much carbon-based energy as the entire nation of Argentina, as per a 2022 report from the White House Office of Science and Technology. The electricity consumed by crypto-mining in the U.S., predominantly driven by energy-intensive consensus mechanisms like ""proof of work,"" accounts for an estimated 0.6% to 2.3% of the country's total electricity consumption, according to the U.S. Energy Information Administration.
+
+To address this energy-intensive process, Professor You proposes an innovative solution that involves leveraging cryptocurrencies as virtual energy carriers alongside green hydrogen. By doing so, the researchers believe that they can transform the environmental challenges associated with cryptocurrency mining into a catalyst for climate mitigation and sustainability.
+
+In their study, Professor You and Mr. Lal examined various states in the U.S. to evaluate their energy potential. They found that supporting cryptocurrency mining could expedite the development of additional energy infrastructure and potentially generate 78.4 megawatt hours of solar power for each Bitcoin mined in New Mexico, and 265.8 megawatt hours of wind power for each Bitcoin mined in Wyoming.
+
+While cryptocurrency holds significant value in the market, it is important to remember that it is a virtual asset. Professor You likens cryptocurrency to a gift card, explaining that it holds both monetary and energy value. By embracing this concept and coupling it with green hydrogen, the researchers believe that they can not only mitigate the environmental impact of cryptocurrency but also pioneer a sustainable pathway for the transition to renewable energy.
+
+However, for this vision to become a reality, the researchers emphasize the need for stronger federal policies that align with climate goals and promote the adoption of renewable energy. By combining the power of green hydrogen with cryptocurrency, this approach not only addresses the environmental concerns associated with crypto-mining but also sets the stage for a sustainable future.
+
+Professor You is a senior faculty fellow at the Cornell Atkinson Center for Sustainability, and his research aims to drive innovation and sustainability in various sectors, including energy systems engineering. Through their groundbreaking study, Professor You and Mr. Lal present a novel strategy that has the potential to revolutionize the cryptocurrency landscape and contribute to a greener and more sustainable future.",https://scx2.b-cdn.net/gfx/news/hires/2023/cryptocurrencies.jpg,2024-03-25 15:00:02,Innovation,Innovation
+https://techcrunch.com/2024/03/25/match-board-directors-after-talks-activist-investor-elliott-management/,Match appoints two board directors after talks with activist investor Elliott Management,"Tinder-owner Match Group made an announcement on Monday regarding the appointment of two new board members and a partnership with Elliott Management, an activist investor. Laura Jones, the Chief Marketing Officer at Instacart, and Spencer Rascoff, the co-founder of Zillow, will be joining the board with immediate effect. According to Match, these appointments are the result of a ""constructive dialogue"" with Elliott Management, and the two companies have entered into an ""information-sharing"" agreement. Elliott Management had previously acquired a stake worth approximately $1 billion in Match, expressing interest in discussing strategies to improve the company's performance amidst a decline in paying users due to economic uncertainty.
+
+Marc Steinberg, a partner at Elliott, expressed confidence in Match's potential for value creation as the global leader in online dating. He emphasized the collaboration between Elliott, Match's management, and the board over the past few months, stating that Laura Jones and Spencer Rascoff's unique skills and perspectives will contribute to the company's growth in its next phase. Elliott Management has a track record of acquiring stakes in tech companies and driving changes. Their push for change at Match follows similar efforts at Crown Castle and Etsy.
+
+In the fourth quarter of 2023, Match experienced a 5% year-on-year decrease in total paid users, with a current count of 15.2 million. The company's growth has slowed compared to the peak it reached during the COVID-19 pandemic, resulting in a significant decline of 79% in its stock since 2021.
+
+Match Group is the parent company of several well-known dating apps, including Tinder, Hinge, Match.com, Meetic, OkCupid, Plenty of Fish, OurTime, and more.",https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1241790742.jpeg?w=1024,2024-03-25 14:15:04,Innovation,Innovation
+https://techxplore.com/news/2024-03-high-efficiency-based-copperiodide-clusters.html,A high efficiency LED based on copper-iodide clusters,"A team of researchers led by Prof. Yao Hongbin from the University of Science and Technology of China (USTC) has made a significant breakthrough in the development of light-emitting diodes (LEDs). They have successfully created a high-efficiency, high-brightness warm white LED using copper-iodide cluster hybrids. This groundbreaking research has been published in the prestigious journal Nature Photonics.
+
+LED technology has gained immense popularity in recent years due to its energy efficiency and long lifespan. Solution-processed LEDs are particularly promising as they offer a simple manufacturing process and high performance. Various materials, such as lead-halide perovskites, organic semiconductor materials, and colloidal core-shell quantum dots, have been used to achieve high electroluminescence in solution-processed LEDs.
+
+However, these materials often come with their own set of challenges. For instance, lead-halide perovskites and CdSe quantum dots contain heavy metals that pose environmental risks. On the other hand, LEDs based on organic light-emitting molecules, InP quantum dots, and ZnSe quantum dots are expensive to produce due to complex synthesis procedures. Therefore, finding a solution-processed LED material that is cost-effective, non-toxic, scalable, and highly efficient has been a major goal in the field of solid-state lighting.
+
+To address this challenge, Prof. Yao's team focused on designing and preparing a copper-iodine-based hybrid cluster with a wide photoluminescence spectrum. By incorporating nitrogen-phosphine chelating ligands and phosphine-containing solubilizing ligands, the team successfully obtained copper-iodide hybrid clusters that exhibited both high luminescence efficiency and excellent solubility. These clusters demonstrated a solubility of over 200 mg/mL and maintained structural stability in N, N-dimethylformamide (DMF), a cross-solvent commonly used in LED production.
+
+The team then used spin-coating in DMF to fabricate luminescent thin films with a low surface roughness of 0.22 nm and a high photoluminescence quantum yield exceeding 70%. These thin films served as the luminescent layer for creating low-cost warm-white LED devices through an orthogonal solvent route. The resulting LED devices achieved remarkable performance, boasting a maximum external quantum efficiency of 19.1%, a brightness of over 40,000 cd m-2, and an operational lifetime exceeding 232 hours (T50 @100 cd m-2). 
+
+Impressively, the excellent solubility and processability of the copper-iodide hybrid clusters allowed the team to construct a large-area solution-processed LED device with a working area of 36 cm2 using blade-coating. This LED device emitted warm white light with a brightness close to 60,000 cd m-2, further demonstrating the practicality and scalability of the developed technology.
+
+Furthermore, by modifying the electron-donating groups on the nitrogen heterocycles of the nitrogen-phosphine chelating ligands, the team successfully developed a series of solution-processed color-tunable LED devices. This breakthrough opens up new possibilities for creating LEDs with various colors and functionalities using the same copper-iodide hybrid cluster platform.
+
+The research conducted by Prof. Yao's team marks a significant advancement in the field of LED technology. The high efficiency and brightness achieved using copper-iodide hybrid clusters make them extremely promising for the fabrication of low-cost, high-performance LED panels and solid-state lighting systems. With further development and optimization, this technology has the potential to revolutionize the lighting industry, providing energy-efficient, environmentally friendly, and affordable lighting solutions for a wide range of applications.
+
+In conclusion, the team's successful development of a high-efficiency warm white LED based on copper-iodide clusters represents a major milestone in the field of solid-state lighting. The unique properties of these hybrid clusters, including their structural expandability and spectral tunability, position them as highly attractive materials for future LED panel production. The research conducted by Prof. Yao and his team paves the way for a greener and more sustainable lighting future.",https://scx2.b-cdn.net/gfx/news/2024/ustc-designs-high-effi.jpg,2024-03-25 13:17:52,Innovation,Innovation
