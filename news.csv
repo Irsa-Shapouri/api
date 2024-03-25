@@ -1,0 +1,138 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://www.forbes.com/sites/zakdoffman/2024/03/24/new-whatsapp-warning-iphone-15-pro-max-samsung-s24-ultra-upgrade/,New WhatsApp Warning Suddenly Issued For 2 Billion Users,"WhatsApp's Latest Upgrade: Proceed with Caution
+
+In the ever-evolving world of messaging apps, 2024 is set to bring about significant changes. From iMessage adopting RCS to WhatsApp's third-party chat hub and Gemini AI integrating into Google Messages, the landscape is undergoing a transformation. However, amidst these changes lies a crucial aspect that many fail to fully comprehend—the importance of end-to-end encryption.
+
+End-to-end encryption has been a cornerstone of apps like iMessage, WhatsApp, and Signal for years. Recently, Google Messages and Facebook Messenger have also made it the default setting. This level of encryption is so vital that WhatsApp has warned users that third-party chats may not be as secure as WhatsApp-to-WhatsApp chats. It has also been a central point in the Department of Justice's lawsuit against Apple, claiming that iPhone users are less secure due to the lack of full iMessage security on Android. Despite pressure from governments and security agencies, Facebook Messenger has also adopted end-to-end encryption as the default.
+
+It is surprising, then, to see media reports encouraging users to transfer their chats and chat history from WhatsApp to Telegram. While WhatsApp offers an export setting that allows users to transfer their chats to Telegram, this move poses a significant security risk. Unlike WhatsApp, Telegram does not provide end-to-end encryption by default. Its ""secret chat"" option must be manually selected for each one-on-one conversation. Kaspersky, a renowned cybersecurity company, has even warned that Telegram is not as secure as its developers claim. The lack of default end-to-end encryption and the absence of clear information about the secure chat option make it a questionable choice for those seeking privacy.
+
+Moving chats from WhatsApp, a platform that is end-to-end encrypted by default, to Telegram, which is not, is a major security blunder. This is especially true for group chats that contain otherwise secure content from multiple users. Even WhatsApp, despite its association with Mark Zuckerberg's data-oriented empire, ensures end-to-end encryption without any additional steps or checkboxes. Messages are protected from all outsiders, including service owners, right from the start.
+
+When Telegram first introduced the option to migrate WhatsApp chats, I cautioned users against it. While the backlash against WhatsApp following Meta's (formerly Facebook) proposed changes to user terms and conditions was understandable, transferring content from an end-to-end encrypted platform removes the very barriers designed to protect messages. Accessibility may be important in today's online world, but not at the cost of compromising security and privacy.
+
+Telegram touts its ease of use across different platforms, allowing clients to access content on its central servers. However, this convenience is possible because of the absence of end-to-end encryption. Telegram also promotes reduced smartphone storage by storing everything in the cloud. While this architecture enhances accessibility, it does not prioritize full encryption. The level of data security offered is determined by policy, not technology.
+
+Given these factors, I strongly advise against following any advice that suggests switching from WhatsApp to Telegram. Despite marketing claims, it is a step backward. Additionally, there are other concerns associated with Telegram that users need to be aware of.
+
+Telegram occupies opposing roles in the messaging world. On one hand, it aims to be an easy-to-use alternative to WhatsApp, which is why the migration option exists. On the other hand, it has gained notoriety for its connection to criminal activities and its role as a platform for organizing and disseminating information, including in geopolitical and human rights contexts. Spain's High Court recently suspended Telegram due to a lack of content controls, while the Financial Times has likened it to the dark web, describing it as ""social media for organized criminals.""
+
+Telegram's rise from a niche messaging app to a multifaceted platform with both positive and negative aspects is undeniable. However, when it comes to the security and privacy of your conversations, it is crucial to prioritize platforms that offer end-to-end encryption by default. WhatsApp may have its flaws, but it remains a safer choice in comparison.
+
+In conclusion, be cautious when navigating the ever-changing world of messaging apps. Make informed decisions that prioritize your security and privacy.","https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&crop=2207,1442,x681,y315,safe&height=900&width=1600&fit=bounds",2024-03-24 23:45:00,Innovation,Innovation
+https://venturebeat.com/ai/companies-are-about-to-waste-billions-on-ai-heres-how-not-to-become-one-of-them/,Companies are about to waste billions on AI - here's how not to become one of them,"Join us in Boston on March 27 for an exciting evening of networking, insights, and discussions centered around data integrity. Request your invite here.
+
+When it comes to new technologies, the caution of venture capitalists and companies alike often takes a backseat. VCs feel the pressure to invest their raised capital, and the fear of missing out on something big outweighs the risk of failure. Similarly, companies jump on the AI bandwagon, rebranding projects as AI-driven to secure funding.
+
+This hype cycle leads to a massive waste of billions of dollars on AI over the next decade. However, this shouldn't come as a surprise. Every major technological wave brings excitement before we fully understand its potential. While search, social media, and mobile have had a lasting impact, virtual reality and cryptocurrency have fallen short.
+
+Five years ago, headlines touted AI as the game-changer. Today, everyone is rushing to showcase their AI investments and how it will revolutionize everything. This shotgun approach to investing results in a few successful ventures and numerous failures. The same pressure that drives VCs to take risks also compels companies to invest optimistically in AI, often leading to misplaced hopes and adventures.
+
+Nevertheless, large language models (LLMs) are undeniably transformative. Just look at how rapidly ChatGPT garnered 100 million users compared to other groundbreaking companies. Almost every enterprise company is exploring LLMs and AI. So, how do you determine where to place your bets and increase your chances of success?
+
+Here are three key considerations that can help you reduce wasted spending by 80%:
+
+1. Understand the total cost over time: Before committing to an AI project, carefully evaluate the resources required to sustain it, both in the present and the long run. Behind ten hours of data science work, there are often five times the hours of engineering, DevOps, QA, product development, and SysOps. Many companies have abandoned projects that were once promising but lacked ongoing investment. While it may be difficult to say no to an AI initiative today, frequently saying yes can jeopardize future funding for truly worthwhile endeavors.
+
+Furthermore, AI drives increasing marginal costs. Training, running, and maintaining large models can be expensive. Overusing AI without a proportional increase in value erodes your margins. Moreover, retracting released or promised functionality can lead to customer dissatisfaction and negative market perceptions. Just look at how a few missteps have damaged Google's reputation as an AI leader.
+
+2. Ask yourself why others can't do it: We often forget the lessons we learn from textbooks, but real-life experiences leave a lasting impact. Consider the concept of commoditization. In the tech industry, there are monopolies and commodities. When considering an AI initiative, ask yourself, ""Why us?"" Working on something that will eventually become a commodity is not enjoyable, especially without a scale or cost advantage. Nvidia and AWS/Azure are the ones who will benefit from commoditization. To overcome this, focus on areas where you have a defensive moat, such as preferential access to data, proprietary insights, or a head start in a use case with strong network effects.
+
+3. Make strategic bets you are committed to seeing through: Sometimes, the best bets are those that enhance your existing business. Remember the BASF commercial: ""We don't make the things you buy, we make the things you buy better."" If AI can drive improvements in your products or services, it can provide significant momentum. Additionally, consider partnerships and collaborations that align with your core business. By making calculated bets and staying committed, you increase your chances of success.
+
+In conclusion, while the hype around AI is real, it's crucial to approach it with a clear understanding of the costs, competitive landscape, and strategic alignment. By considering these three factors, you can significantly reduce wasted spending and increase your chances of success in the AI-driven era.
+
+Don't miss out on the AI Impact Tour – Atlanta on April 10th, where we'll delve deeper into the transformative power of generative AI in the security workforce. Request your invite today as space is limited.",https://venturebeat.com/wp-content/uploads/2024/03/An_AI_sitting_in_a_corner_curled_up_looking_sa-transformed.jpeg?w=1200&strip=all,2024-03-24 18:00:00,Innovation,Innovation
+https://www.forbes.com/sites/jamiecartereurope/2024/03/24/meet-the-apps-that-tell-you-when-to-take-your-eclipse-glasses-off/,Meet The Apps That Tell You When To Take Your Eclipse Glasses Off,"When it comes to knowing when to remove your solar eclipse glasses, it can be a bit confusing. First, you need to make sure you are within the path of totality, which is only 115 miles wide. Secondly, you need to be in a location with a clear sky. And finally, you have to remove your glasses at just the right time to witness the sun's magnificent corona.
+
+For many people, it's the last step that causes the most panic. But fear not, it's actually quite simple. You remove your eclipse glasses when it gets dark. That's it. If you are lucky enough to be in the path of totality, the darkness will come quickly as the moon's shadow passes over you. You won't be able to miss the moment. However, if you are not in the path of totality, it will not get dark, so you should continue to use your glasses.
+
+But now, there are apps available for your smartphone that can enhance your eclipse experience. These apps provide an immersive audio experience, giving you instructions on when to take off your glasses as totality begins. They also guide you through the different phenomena to look out for, such as shadow bands, Baily's beads, and the diamond ring effect.
+
+One such app is the ""Pro"" version from The Eclipse Company. This app not only offers real-time weather updates and cloud forecasts for totality, but it also includes a countdown timer with a vibration alert to safely remove your glasses. It even provides detailed information about local eclipse events. However, it does not provide any audio during totality.
+
+Another app to consider is the Solar Eclipse Timer App. This app uses your location to determine if you are within the path of totality and guides you through the contact times. It also provides audio guidance for the different eclipse phenomena. Developed by eclipse chaser and educator Gordon Telepun, this app is a great choice for photographers, as it includes a ""Photographer's Mode"" developed with the help of ex-NASA eclipse calculator and photographer Fred Espenak.
+
+If you have an iOS device, you may want to check out the One Eclipse app. Created by the non-profit Astronomers Without Borders and Simulation Curriculum, this app not only allows you to simulate the eclipse from your location or anywhere on Earth, but it also supports a recycling program for eclipse glasses in underserved communities worldwide. It includes an interactive map with precise eclipse event times and a dynamic Eclipse Countdown clock with audio timers for each phase of the eclipse.
+
+So whether you choose to rely on the simple method of removing your glasses when it gets dark or opt for one of these helpful apps, make sure you are prepared to witness the awe-inspiring beauty of a total solar eclipse. And don't forget to check for the latest updates on travel and lodging options to ensure you have the best experience possible.
+
+Wishing you clear skies and unforgettable moments as you witness the magic of a solar eclipse.","https://imageio.forbes.com/specials-images/imageserve/65e701ccb41a29b8a2fd120f/0x0.jpg?format=jpg&crop=3094,1451,x0,y304,safe&height=900&width=1600&fit=bounds",2024-03-24 19:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/24/nvidia-could-be-primed-to-be-the-next-aws/,Nvidia could be primed to be the next AWS,"Nvidia and Amazon Web Services (AWS) may seem like unlikely counterparts, but they share several similarities in terms of their growth trajectories. Both companies stumbled upon their core businesses almost by accident. AWS discovered that it could offer its internal services, such as storage and computing power, to external customers. Similarly, Nvidia realized that its gaming GPU was well-suited for processing AI workloads.
+
+This discovery led to explosive revenue growth for both companies. Nvidia's revenue has soared from $7.1 billion in Q1 2024 to $22.1 billion in Q4 2024, with the majority of the growth coming from its data center business. While AWS hasn't experienced the same level of growth, it remains a significant revenue driver for Amazon. Both companies have also enjoyed first-mover advantages in their respective markets, although competition from Microsoft, Google, and other chip makers is on the rise.
+
+The success of Nvidia and AWS can be attributed to their timing. As web applications and mobile technology gained popularity in the early 2010s, the cloud became a valuable resource for on-demand computing. Enterprises recognized the benefits of migrating workloads to the cloud instead of maintaining their own data centers. Similarly, the rise of AI and large language models coincided with the increased use of GPUs for processing these workloads.
+
+AWS has become an incredibly profitable business, with a current run rate close to $100 billion. However, its growth has started to slow down, while Nvidia's is picking up speed. This slowdown can be attributed to the law of large numbers, which will eventually affect Nvidia as well. The question now is whether Nvidia can sustain its growth and become a long-term revenue powerhouse like AWS.
+
+Nvidia does have other businesses to fall back on if the GPU market tightens, but they are smaller revenue generators that are growing at a slower pace than the data center business. Nevertheless, the short-term financial outlook for Nvidia is impressive. The company anticipates $24 billion in revenue for its current quarter, a growth rate of 234% compared to the previous year. While this growth rate is expected to decline, Nvidia is still projected to surpass $100 billion in annual revenue.
+
+Analysts believe that Nvidia's growth will continue for the next several quarters, driven by AI advancements. Despite increased competition from AMD, Intel, and other chip makers, Nvidia remains in control of the market. IDC data shows that Nvidia dominates the chip market, while Jon Peddie Research reveals that AMD is gaining ground at the board level.
+
+In conclusion, Nvidia and AWS have followed similar growth trajectories, benefiting from being in the right place at the right time. While AWS's growth has slowed down, Nvidia's revenue continues to soar. The future looks promising for Nvidia, with AI expected to be a key driver of growth. Although competition is on the horizon, Nvidia's current market dominance puts it in a strong position to maintain its revenue powerhouse status.","https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-902417454.jpg?resize=1200,788",2024-03-24 15:00:17,Innovation,Innovation
+https://www.forbes.com/sites/jamiecartereurope/2024/03/24/see-the-moon-eclipsed-by-earth-as-americas-total-solar-eclipse-draws-near-the-night-sky-this-week/,See The Moon Begin Its ‘Eclipse Season:’ The Night Sky This Week,"The Night Sky This Week: March 25-31, 2024
+
+North America is currently experiencing a golden age of eclipses, and this week's celestial event is just a prelude to the main event happening next week. In the early hours of Monday, March 25, the full worm moon will be partially eclipsed by Earth, creating a penumbral lunar eclipse. While it may not be as dramatic as a total lunar eclipse, this event holds significance as it sets the stage for a total solar eclipse on Monday, April 8, 2024. If you want to witness this incredible phenomenon, here are some planning tips you should keep in mind.
+
+Aside from the eclipse, there are other fascinating celestial highlights to observe this week. As the waning gibbous moon rises later and later at night, the early evening skies become perfect for stargazing. Keep an eye out for the moon passing close to a couple of bright stars. It's a treat for those interested in astronomy.
+
+Let's dive deeper into the events for this week:
+
+Monday, March 25: 'Worm Moon Lunar Eclipse'
+
+The third full moon of 2024, known as the ""Worm Moon,"" will pass through Earth's outer shadow, resulting in a penumbral lunar eclipse. This eclipse will be visible from various parts of the world, including North and South America, Europe, East Asia, Australia, and New Zealand. In New York, the eclipse will begin at 00:53 a.m. EDT and end at 05:32 a.m. EDT, with the maximum eclipse occurring at 03:12 a.m. EDT. In Los Angeles, the eclipse will start at 9:53 p.m. PDT and end at 02:32 a.m. PDT the next day, with the maximum eclipse at 00:12 a.m. EDT.
+
+Tuesday, March 26: Moon And Spica
+
+A few hours after sunset, you'll witness the almost full moon rising due east. But there's something special about this moonrise. Just to the top right of the rising moon, you'll see the bright star Spica, which belongs to the constellation Virgo. Spica is one of the brightest stars in the night sky and will be within 1.4 degrees of the moon.
+
+Saturday, March 30: Moon And Antares
+
+If you're awake late on Friday into the early hours of Saturday, look to the southeast sky. You'll spot a 78%-lit waning gibbous moon located less than a degree from Antares, a red supergiant star in the constellation Scorpius.
+
+Galaxies Of The Week: Bode's And The Cigar
+
+In the northern sky, after dark this week, Ursa Minor and Ursa Major offer a stunning view of two galaxies. With the help of an 8-inch telescope, you can observe M81, also known as Bode's galaxy, and M82, also known as the Cigar galaxy. M81 is a large spiral galaxy located approximately 12 million light-years from Earth, making it one of the brightest galaxies in the night sky. On the other hand, M82 is a starburst galaxy with a high rate of star formation and can be seen as small, diffuse patches of light northwest of the bright star Dubhe in the Big Dipper.
+
+Eclipse Tip Of The Week: Preparing For The Total Solar Eclipse
+
+In less than two weeks, a rare and beautiful celestial event, the total solar eclipse, will occur in North America. If you haven't made plans yet, it's essential to act now. Remember that you must be within the path of totality to experience the full impact of the eclipse. Being close to it won't make a practical difference. Check out the multitude of articles available for advice on where to stay and where to witness the eclipse. You can also visit various websites that provide maps, simulations, and events listings to help you prepare for this unforgettable experience.
+
+For the most accurate information regarding times and dates specific to your location, consult online planetariums like Stellarium and The Sky Live. These platforms can provide you with planet-rise/planet-set, sunrise/sunset, and moonrise/moonset times tailored to your area.
+
+We hope you have clear skies and wide eyes as you immerse yourself in the wonders of the night sky.","https://imageio.forbes.com/specials-images/imageserve/5fb7fc7c1bbcea1ee676a031/0x0.jpg?format=jpg&crop=2390,1121,x1617,y1192,safe&height=900&width=1600&fit=bounds",2024-03-24 20:15:00,Innovation,Innovation
+https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/,TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus,"TechCrunch Mobility is a weekly newsletter that focuses on transportation news and insights. In this edition, we will discuss the recent proposed standards by the Biden Administration, the latest investments in the mobility industry, and other interesting developments. So, buckle up and let's dive into the world of transportation!
+
+The Biden Administration has recently released two proposed standards through the Department of Energy (DOE) and the Environmental Protection Agency (EPA) that will have a significant impact on U.S. automakers and consumers. While these regulations have been softened to accommodate the automotive industry, they still impose stricter standards than before.
+
+The DOE's proposed ""petroleum equivalency factor"" provides a score for electric vehicles (EVs) under the government's corporate average fuel economy (CAFE) standards. The original proposal would have made it difficult for automakers to meet these standards, resulting in hefty fines. However, the revised proposal is more lenient.
+
+On the other hand, the EPA has released tailpipe standards for 2027 to 2032 model year cars and light-duty trucks. These standards set stiffer requirements for automakers but allow them more flexibility to meet the rules using different powertrains. Unlike the original proposal, which mandated that EV sales make up 67% of the U.S. passenger vehicle market by 2032, the new standards are technology agnostic.
+
+While these standards may not affect EV startups like Rivian, Tesla, and Lucid, they do pose challenges for legacy automakers. These companies are investing billions in developing and selling EVs while still trying to make a profit from internal combustion engine vehicles. Plug-in hybrids might be the winners in this scenario.
+
+Now, let's move on to the latest news in the mobility industry. First up, we have an update on Clevon, a company that develops autonomous delivery technology. Rumors were circulating that the company was struggling to find new investment and might shut down. However, Clevon's CEO has clarified that the company is still operational and has entered into an exclusivity agreement for a merger with an American electric vehicle company.
+
+In other news, Uber has made its first investment in an Africa-founded startup. Moove, a mobility fintech company, raised $100 million in a Series B funding round led by Uber. Moove offers vehicle financing to ride-hailing and delivery app drivers and aligns with Uber's commitment to a fully zero-emission fleet by 2040.
+
+Lastly, we have some noteworthy deals in the industry. Amber, a startup that offers aftermarket Tesla extended warranties, raised $3.18 million in a seed round. Candela, an electric boat maker, secured $25 million in funding. And Pelikan Mobility, a French startup, received an undisclosed amount of funding for its mobility solutions.
+
+That wraps up this edition of TechCrunch Mobility. Stay tuned for more exciting news and insights in the world of transportation. Remember to sign up for our newsletter to receive these updates directly in your inbox. Until next time, safe travels!","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1363022906.jpg?resize=1200,730",2024-03-24 19:00:33,Innovation,Innovation
+https://www.forbes.com/sites/erikkain/2024/03/24/todays-wordle-1010-hints-clues-and-answer-for-monday-march-25th/,"Today’s ‘Wordle’ 1010 Hints, Clues And Answer For Monday, March 25th","How to Solve Today's Wordle
+
+Welcome back, Wordlers! It's the start of a new work week, and that means it's time to tackle today's Wordle puzzle. But before we dive in, let's take a moment to reflect on the weekend. Just when we thought spring was here, Mother Nature surprised us with a hefty snowfall. It may be cold outside, but there's something undeniably beautiful about the wintry landscape.
+
+Now, onto the main event. Today's Wordle comes with a hint and a clue to guide us towards the answer. The hint suggests that we usually associate this phrase with a proper noun, while the clue reveals that there is a double letter involved. Intriguing, isn't it?
+
+So, without further ado, let's analyze today's Wordle and see if we can crack the code. Remember, you can always check your Wordles using Wordle Bot. It's a great tool to keep track of your progress and see how you measure up.
+
+I must admit, today's puzzle had me stumped at first. The initial trade left me with a whopping 195 possible solutions. Not a great start, I must say. But then, a breakthrough! The word ""allay"" proved to be a crucial guess. It confirmed the presence of more than one 'L' and narrowed down my options to just one word. It was a close call, as I almost went with ""palsy,"" but a second 'L' was needed. After some brainstorming, I settled on ""sally."" While it's often associated with a name, it also refers to a battle tactic, adding a touch of antiquity to our solution.
+
+Now, let's talk about the competitive aspect of Wordle. Unfortunately, today was not my day. No points for guessing in four attempts or tying the Bot. A disappointing zero. But hey, that's the beauty of Wordle. Every day is a new chance to improve and challenge yourself.
+
+Before we wrap up, let's delve into the etymology of ""sally."" In a non-proper noun context, ""sally"" means to suddenly rush forth or make a sudden attack from a defensive position. It can also refer to setting out on a journey or adventure. The word has an interesting linguistic journey of its own, originating from the Middle French word ""sallie,"" derived from ""sallir,"" meaning ""to rush out, leap forth."" ""Sallir"" traces its roots back to the Latin word ""salire,"" which means ""to leap."" This Latin root has given rise to other English words like ""salient"" (prominently projecting) and ""assail"" (to attack), all conveying the idea of movement or leaping forth.
+
+That concludes today's Wordle adventure. Remember to visit my blog for daily Wordle and Strands guides, along with a plethora of other content ranging from TV shows and streaming guides to movie reviews and video game coverage. It's a one-stop destination for all your entertainment needs.
+
+Thanks for joining me today, and happy Wordling!","https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?format=jpg&crop=2629,1480,x0,y135,safe&height=900&width=1600&fit=bounds",2024-03-24 18:00:25,Innovation,Innovation
