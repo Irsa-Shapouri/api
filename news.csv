@@ -1,0 +1,222 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://www.forbes.com/sites/karlfreund/2024/03/25/cerebras-update-the-wafer-scale-engine-3-is-a-door-opener/,Cerebras Update: The Wafer Scale Engine 3 Is A Door Opener,"Cerebras recently held an AI Day event that attracted a full house, even with the Global Technology Conference (GTC) happening concurrently. Unlike many startups, Cerebras Systems has gained significant traction in training AI, thanks to a handful of clients. During the event, they unveiled the third generation of their Wafer-Scale Engines (WSE), a powerful chip that outperforms racks of GPUs. Additionally, Cerebras announced a partnership with Qualcomm, aimed at providing custom training and collaborating on Go-To-Market strategies with the Edge AI leader. In this blog post, we will discuss some key takeaways from the AI Day event and also highlight the challenges that Cerebras still faces.
+
+The new WSE-3 and the accompanying CS-3 system represent an engineering marvel. Although Cerebras often compares it to a single GPU chip, the true goal is to simplify scaling. Instead of dividing a wafer of chips, packaging them with High-Bandwidth Memory (HBM), and connecting them to CPUs with complicated networking setups, Cerebras has a different approach in mind. They believe that their solution can eliminate unnecessary complexity and programming required for distributing workloads across parallel systems and building supercomputers.
+
+Andrew Feldman, CEO and co-founder of Cerebras, expressed his pride in introducing the third-generation wafer-scale AI chip after eight years of hard work. The WSE-3 is purpose-built for cutting-edge AI work, capable of handling tasks ranging from mixture of experts to 24 trillion parameter models. Cerebras conducted a comparison between the WSE-3 and GPUs, concluding that it would take another six years for GPUs to catch up in terms of transistor count. The WSE-3 boasts 57 times the size of Nvidia's H100, 52 times more cores, 800 times more memory on chip, 7,000 times more memory bandwidth, and over 3,700 times more fabric bandwidth. These specifications form the foundation of its exceptional performance.
+
+However, the true magic of the WSE lies in its ability to treat a large cluster as a single instance, thereby eliminating the need for distributed computing coding effort. By streaming the weights of massive models instead of storing them on-chip, Cerebras' MemoryX and SwarmX interconnect can integrate up to 2048 CS-2 servers into a theoretical cluster. While building such a cluster would cost approximately $5 billion, this approach solves a significant problem in building trillion-parameter models. The example of OpenAI's GPT-4, which required 240 contributors and 35 engineers working solely on the distributed computing problem, illustrates the magnitude of this challenge. Cerebras has managed to eliminate this issue entirely.
+
+The Cerebras software stack presents a unified interface to the AI Supercomputer, regardless of its size. This is a significant advantage, as it enables quick deployment of models with just 5% of the resources needed for other AI platforms. Cerebras claims that Nvidia Megatron and other large language models (LLMs) require tens of thousands of lines of code for distribution and running across a cluster. In contrast, Cerebras' approach significantly reduces the amount of code needed, providing a clear business value and a durable competitive advantage.
+
+In addition to their technological advancements, Cerebras has plans to build nine supercomputers worldwide, with the Galaxy 3 being the third of these projects. The CS-3 will serve as the foundation for these supercomputers, with the remaining six planned for completion by the end of 2024. The WSE-3 features new SIMD engines for 8 and 16-bit numerics, as well as new non-linear functions, resulting in twice the performance per core compared to its predecessor.
+
+While Cerebras is making significant strides in the AI industry, they still face challenges. Unlike other Nvidia alternatives, Cerebras offers a truly different approach. It is not just a slightly improved GPU or a cheaper ASIC. However, this uniqueness also presents a challenge in terms of market adoption and competition. Additionally, the cost of building massive clusters using Cerebras' technology remains a barrier for many potential customers.
+
+In conclusion, Cerebras' AI Day event showcased their groundbreaking third-generation wafer-scale AI chip and the accompanying CS-3 system. Their approach offers simplified scaling and eliminates the need for complex distributed computing coding. With impressive performance specifications and the ability to treat large clusters as a single instance, Cerebras is well-positioned to tackle the challenges of building trillion-parameter models. While they still face hurdles in terms of market adoption and cost, Cerebras remains a standout player in the AI industry.",https://imageio.forbes.com/specials-images/imageserve/660199b20a6fbc5033ee1cdf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 15:16:13,Innovation,Innovation
+https://www.zdnet.com/education/professional-development/want-to-be-a-devops-engineer-heres-the-good-the-bad-and-the-ugly/,"Want to be a DevOps engineer? Here's the good, the bad, and the ugly","DevOps engineering is currently one of the most sought-after jobs in today's economy. However, landing a role in this field requires a combination of technical expertise and business acumen. Moreover, staying relevant in the field demands a commitment to continuous learning because popular approaches quickly become outdated.
+
+The demand for DevOps engineers, who oversee the automation and collaboration of both cloud and on-premises environments to ensure continuous software development and deployment, is soaring. In the United States, for example, the average salary for a DevOps engineer is approximately $134,000 per year, according to estimates from Talent.com.
+
+Practicing DevOps engineers highlight that the job comes with both joys and pitfalls. To begin with, having a basic understanding of foundational technology is crucial. Brad Morgan, an experienced DevOps engineer, emphasized the importance of learning Linux. He stated, ""Regardless of the specific tasks you perform in a modern DevOps role, you will be working with Linux. Having a strong Linux background is absolutely essential. You need to know the basics, understand how Linux works, and be familiar with using the terminal and basic commands.""
+
+Morgan also stressed the significance of bash scripting, which automates Linux commands. DevOps engineers frequently use bash scripting in their work. Additionally, cloud skills are another essential foundation for a DevOps engineer. Developing expertise in a mainstream cloud provider, such as AWS, Google Cloud, or Microsoft Azure, can open up various opportunities and make you more desirable to employers.
+
+Morgan recommended focusing on learning the nuances of one cloud vendor at a time. He advised against trying to master multiple vendors simultaneously, stating, ""Instead of being a jack of all trades in the cloud, aim to become a master of one. Once you have mastered one, it becomes much easier to pick up others.""
+
+Becoming a DevOps engineer does not require a formal course of study. Morgan believes that self-learning is the best approach for pursuing a career in this field. He emphasized the need for constant learning, enjoyment of learning, and a willingness to challenge oneself.
+
+""Homebrew Henry,"" another seasoned DevOps engineer, echoed the importance of continuous learning in a recent YouTube presentation. He stated, ""If you decide to pursue a career in DevOps engineering, you must embrace the constant acquisition of new knowledge.""
+
+He further explained, ""The DevOps ecosystem is vast and ever-evolving. Tools and frameworks that were popular yesterday may be replaced by new alternatives. In addition to your regular engineering responsibilities, you will likely need to dedicate some of your free time to studying.""
+
+Even with more experience, the learning never stops. Henry noted that this is one aspect that DevOps engineers love most about their job. With the rapid pace of development and the introduction of AI tools like ChatGPT, DevOps engineering today will not be the same as it was two or three years ago.
+
+One characteristic that sets passionate DevOps engineers apart is their ability to manage infrastructure. Henry cautioned that if managing infrastructure does not appeal to you, you may struggle in this role. He explained, ""As a DevOps engineer, a significant portion of my time is spent setting up, configuring, and maintaining the cloud infrastructure that supports various applications. This involves dealing with servers, databases, networks, and security on a daily basis. If this excites you, great! This world may be perfect for you.""
+
+However, he also acknowledged that this aspect may not be appealing to everyone who is more interested in software engineering. Writing Terraform scripts, CI/CD pipelines, and automation scripts may not provide the same level of satisfaction as building a real customer-facing application. It may not feel like you are fully utilizing your coding skills.
+
+The good news is that there are numerous examples of people successfully transitioning from software engineering to DevOps and vice versa. So, if you choose one path, it doesn't mean you are locked into it forever.
+
+Another important consideration is the business side of DevOps. It starts with managing unrealistic expectations for the role. Henry pointed out that businesses often expect to hire a few engineers and have all their problems magically disappear. Therefore, management can sometimes overlook the fact that implementing DevOps practices requires a cultural shift and a commitment from the entire organization.
+
+In conclusion, becoming a DevOps engineer is an exciting and rewarding career choice. However, it requires a combination of technical skills, continuous learning, and a passion for managing infrastructure. The field is constantly evolving, and staying relevant demands a commitment to staying up-to-date with the latest tools and practices. While there may be challenges along the way, the opportunity to work at the forefront of technology and drive innovation is what makes this role so fulfilling.",https://www.zdnet.com/a/img/resize/e4d3d8d263eb00323161fcf2566ad35a3fe52282/2024/03/25/1b8b924e-2629-43c2-b416-1b990e262786/gettyimages-1319039490.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techxplore.com/news/2024-03-liquid-iron-battery-grid-energy.html,New all-liquid iron flow battery for grid energy storage,"Flow batteries has the potential to revolutionize large-scale energy storage, allowing renewable energy sources such as wind and solar power to be integrated into the electric grid. Researchers at the Department of Energy's Pacific Northwest National Laboratory have developed a new battery design that utilizes a common chemical used in water treatment facilities, providing a safe and economical solution for energy storage.
+
+The battery design incorporates iron-based flow batteries, which have been in use since the 1980s. However, what sets this battery apart is the use of a unique liquid chemical formula that combines charged iron with a neutral-pH phosphate-based liquid electrolyte. This chemical, called nitrogenous triphosphonate (NTMPA), is commercially available in industrial quantities due to its use in inhibiting corrosion in water treatment plants.
+
+Flow batteries consist of two chambers filled with different liquids. The batteries charge through an electrochemical reaction and store energy in chemical bonds. When connected to an external circuit, they release that energy to power electrical devices. Unlike conventional batteries, flow batteries feature two external supply tanks of liquid that constantly circulate through the battery, serving as the battery system's ""blood supply."" The larger the electrolyte supply tank, the more energy the flow battery can store.
+
+The advantage of flow batteries is their scalability. They can be built at any scale, from small lab-bench models to systems that can power an entire city block. Grid operators are particularly interested in locating battery energy storage systems (BESS) near energy consumers. The aqueous flow battery design developed by the researchers at Pacific Northwest National Laboratory operates in water at neutral pH, making it a safe and practical option for urban or suburban areas.
+
+The research team has achieved remarkable results with their lab-scale iron-based battery. It demonstrated cycling stability over one thousand consecutive charging cycles while maintaining 98.7% of its maximum capacity. This is a significant improvement compared to previous studies of similar iron-based batteries, which reported degradation of charge capacity over fewer charging cycles.
+
+Although the initial design of the battery has an energy density of 9 watt-hours per liter (Wh/L), which is lower than commercialized vanadium-based systems at 25 Wh/L, the use of Earth-abundant materials allows for scalability. A system built with these materials could provide the same energy output as higher energy density batteries.
+
+The development of flow batteries using Earth-abundant materials has important implications for the modernization of the U.S. electric grid and the integration of renewable energy sources. By repurposing a common chemical used in water treatment facilities, researchers have created a pathway to a safe, economical, and sustainable energy storage solution. This breakthrough brings us one step closer to a future powered by renewable energy.",https://scx2.b-cdn.net/gfx/news/hires/2024/new-all-liquid-iron-fl.jpg,2024-03-25 07:22:25,Innovation,Innovation
+https://techcrunch.com/2024/03/25/boeing-ceo-to-leave-company-by-year-end-after-a-wave-of-safety-incidents/,Boeing CEO to leave company by year-end after a wave of safety incidents,"Boeing CEO to Step Down by Year-End Following String of Safety Incidents
+
+Boeing, one of the world's leading plane manufacturers, has announced that its chief executive, Dave Calhoun, will be stepping down by the end of 2024. This decision comes in the wake of a series of safety incidents that have plagued the company in recent months.
+
+One of the major incidents that has put Boeing under scrutiny was a cabin panel blowout on one of its planes. This incident, along with several others, has raised concerns about the safety standards and practices within the company.
+
+Despite these challenges, Boeing has been actively involved in an innovation acceleration program called Aerospace Xelerated, previously known as the Aerospace Technology Institute (ATI). This program, aimed at startups, has been a vital part of Boeing's efforts to foster innovation and collaborate with emerging aerospace companies. However, it remains to be seen how Calhoun's departure will impact this program.
+
+In a statement, Calhoun expressed his commitment to ensuring the stability and future success of the company. He stated that he intends to focus on completing the crucial work that is currently underway to position Boeing in a strong position moving forward.
+
+The safety incidents have taken a toll on Boeing's reputation and have forced the grounding of its 737 Max 9 jets. In January, an Alaska Airlines flight had to make an emergency landing due to a technical issue with one of these jets. As a result, all 171 Max 9 jets were grounded for several weeks. This incident marked the largest safety crisis for Boeing since the crashes of two Max 8 jets in 2018 and 2019, which claimed the lives of 346 people.
+
+In addition to Calhoun's departure, Stan Deal, the head of Boeing's commercial airplanes business (BCA), will also be leaving the company. Stephanie Pope, who has been serving as the chief operating officer of Boeing since January, has been appointed to lead BCA. Pope brings extensive experience to her new role, having previously served as the president and CEO of Boeing Global Services.
+
+As this story continues to develop, updates will be provided to shed more light on the situation and its implications for Boeing and the aerospace industry as a whole.","https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1910140688.jpg?resize=1200,800",2024-03-25 12:48:28,Innovation,Innovation
+https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/,TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus,"Welcome to TechCrunch Mobility, your go-to source for news and insights on the future of transportation. In this week's edition, we'll be discussing the latest developments in the automotive industry, as well as some exciting investments and startups in the mobility space.
+
+Before we dive into the startup world, let's take a look at some recent activity on Capitol Hill. The Biden Administration has proposed two new standards through the Department of Energy (DOE) and the Environmental Protection Agency (EPA) that will have a significant impact on U.S. automakers and consumers. While these regulations have been softened to accommodate the automotive industry, they still impose stricter standards than before.
+
+The DOE has introduced a ""petroleum equivalency factor"" that assigns a score to electric vehicles (EVs) under the government's corporate average fuel economy (CAFE) standards. The original proposal would have made it challenging for automakers to meet these standards, resulting in substantial fines. On the other hand, the EPA has released tailpipe standards for 2027 to 2032 model year vehicles, which impose more rigorous requirements on automakers but allow for flexibility in meeting the rules through various powertrains. These standards are technology agnostic and do not mandate a complete shift to battery electric vehicles. They are also less stringent than the initial proposal, which aimed for 67% EV sales in the U.S. passenger vehicle market by 2032.
+
+While these standards may not have a significant impact on EV startups like Rivian, Tesla, and Lucid, they do pose challenges for legacy automakers. These companies are investing billions in developing and selling EVs while still profiting from internal combustion engine vehicles. Plug-in hybrids may emerge as winners in this scenario.
+
+Now, let's move on to some exciting news in the mobility space. One noteworthy investment comes from Uber, which has made its first investment in an Africa-founded startup. Moove, a mobility fintech company, raised $100 million in a Series B funding round led by Uber. Moove provides vehicle financing to ride-hailing and delivery drivers, and it aligns with Uber's commitment to a fully zero-emission fleet by 2040. This investment highlights Uber's interest in expanding its presence in Africa and supporting sustainable mobility solutions.
+
+Another startup making waves is Clevon, which has been developing autonomous delivery technology since 2018. Despite recent rumors of financial struggles, the company's CEO, Sander Sebastian Agur, has clarified that they are still operational and have entered into an exclusivity agreement for a merger with an American electric vehicle company. While they are making some cost reductions, Clevon remains optimistic about their future.
+
+In other news, electric boat maker Candela raised $25 million in a funding round led by Groupe Beneteau. Candela's innovative electric boats offer a sustainable alternative to traditional combustion engine vessels. Additionally, Amber, a Bay Area startup, raised $3.18 million in a seed round to support its aftermarket Tesla extended warranty product. This investment will help Amber provide Tesla owners with peace of mind and protection for their vehicles.
+
+These are just a few highlights from the world of mobility and transportation. Stay tuned for our next edition of TechCrunch Mobility, where we'll continue to bring you the latest news and insights on the future of transportation.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1363022906.jpg?resize=1200,730",2024-03-24 19:00:33,Innovation,Innovation
+https://techxplore.com/news/2024-03-deep-geothermal-renewable-powerhouse.html,Dig deep: US bets on geothermal to become renewable powerhouse,"Geothermal energy, an underutilized renewable energy source in the US, is attracting attention from businesses and President Joe Biden's administration as they bet on its potential to drive the green transition. Energy Secretary Jennifer Granholm believes that geothermal energy has the potential to become a clean and reliable power source for industries and households alike. The Department of Energy estimates that geothermal energy could surpass hydroelectric and solar power in the US by 2050. However, geothermal currently only accounts for 1.6% of US energy consumption in 2022.
+
+To increase geothermal production, the US government has invested over $200 million since 2018 in an experimental site in Utah. This site focuses on Enhanced Geothermal Systems (EGS), a technology that involves injecting water into naturally hot rocks deep underground. Unlike traditional geothermal energy extraction, EGS does not require a nearby hot spring or underground reservoir. This approach reduces upfront risks and attracts investors who were previously deterred by the uncertainty of finding geothermal resources.
+
+The US government is also simplifying the process for companies to convert permits for oil or gas exploration into geothermal licenses, reducing paperwork and delays. Additionally, geothermal drilling requires fewer chemical additives compared to hydraulic fracturing (fracking) and does not release hydrocarbons, making it an environmentally friendly option. Unlike solar or wind power, geothermal energy provides a consistent flow of energy regardless of weather conditions or time of day.
+
+The cost of geothermal energy is expected to decrease from the current range of $70 to $100 per megawatt hour (MWh) to $45 by 2035. The use of existing drilling technology makes geothermal development quicker and cheaper. The US has been at the forefront of adopting this new technology, but there are also experimental EGS sites in other countries, including France. However, geothermal drilling projects, like fracking, can potentially cause seismic activity. The US Energy Department has implemented a mitigation protocol to address induced seismicity and is funding research on the issue.
+
+Several startups in the US and Canada are competing for a position in the growing geothermal market and have attracted significant investments. For example, Fervo Energy recently connected its Nevada site to the electric grid in collaboration with Google, which requires substantial amounts of electricity for its data centers. As the demand for geothermal energy grows, major companies like Google, Microsoft, and Nucor have announced their plans to purchase geothermal energy. This demonstrates that there is a willingness to pay a premium for geothermal energy, which excites the private sector.
+
+However, the geothermal energy sector is still in its early stages, and the first successful commercial facility is yet to be established. Once one company demonstrates the viability of geothermal energy, others are likely to follow suit. The primary objective now is to ensure the proper growth of the sector for long-term sustainability.
+
+In conclusion, geothermal energy has the potential to become a significant contributor to the US energy mix. With advancements in EGS technology and government support, geothermal energy could offer a clean, reliable, and scalable power source for various sectors. As the sector continues to grow, it is essential to prioritize responsible development and address any environmental concerns associated with geothermal drilling. By leveraging the advantages of geothermal energy, the US can accelerate its transition to a greener future.",https://scx2.b-cdn.net/gfx/news/2024/a-worker-operates-a-dr.jpg,2024-03-25 04:59:03,Innovation,Innovation
+https://www.forbes.com/sites/petersuciu/2024/03/25/social-media-could-counter-putin-claim-of-kyivs-involvement-in-terrorist-attack/,Social Media Could Counter Putin Claim Of Kyiv’s Involvement In Terrorist Attack,"Russian President Vladimir Putin is using the recent terrorist attack in Moscow to allege a link between the attack and Ukraine, despite the Islamic State group claiming responsibility. Putin's strategy seems to be reminiscent of his tactics from 25 years ago when he blamed Chechens for apartment building bombings that may have been staged by his own security services. By accusing Ukraine of involvement in the recent attack, Putin is attempting to muddy the waters and create doubt among the Russian population. However, social media may play a role in setting the record straight and countering the Kremlin's narrative. While the Russian government has some control over traditional media outlets, it has been less successful in controlling the flow of information on the internet. The Russian Internet is connected to the world, allowing Russians to access foreign social media platforms and engage with alternative sources of information. However, the Russian government has also utilized social media platforms, such as Telegram, for propaganda purposes. It remains to be seen whether Putin's attempt to blame Ukraine will backfire and raise questions about the rationale for the invasion two years ago and the conduct of the ongoing war.",https://imageio.forbes.com/specials-images/imageserve/6601e0acedb5ad5a83d52887/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 16:43:51,Innovation,Innovation
+https://www.forbes.com/sites/krisholt/2024/03/25/nyt-connections-hints-and-answers-for-tuesday-march-26/,"NYT ‘Connections’ Hints And Answers For Tuesday, March 26","Welcome to today's game of Connections! If you're looking for Monday's hints and answers, you can find them here. I hope you're having a great start to your week. Personally, I'm on the hunt for a reasonably priced last-minute ticket to see Olivia Rodrigo tonight or tomorrow. Wish me luck!
+
+Now, let's dive into today's Connections hints and answers.
+
+How To Play Connections
+
+In Connections, you'll be presented with a grid of 16 words. Your goal is to arrange them into four groups of four by figuring out the links between them. The groups could be anything from horror movie franchises to types of verbs or rappers.
+
+Remember, there's only one solution for each puzzle, so be cautious with words that might fit into multiple categories. You can shuffle the words to help you see the connections between them.
+
+Each group is color-coded. The yellow group is usually the easiest, while the blue and green groups fall in the middle. The purple group is typically the hardest and often involves wordplay.
+
+To play, select four words you think belong together and press Submit. If you guess incorrectly, you'll lose a life. If you're close to a correct group, you might receive a message telling you that you're only one word away from getting it right, but you'll still need to figure out which word to swap.
+
+Be careful, though. If you make four mistakes, it's game over. But don't worry, I'll provide hints to help you out. And if you're really struggling, I'll even give you the answers.
+
+What Are Today's Connections Hints?
+
+Take your time scrolling! After I give you the hints for each group, I'll reveal the categories without immediately telling you which words belong to them.
+
+Here are today's 16 words:
+
+- BUD
+- LIGHT
+- HARP
+- SHOOT
+- CORONA
+- BASS
+- FLARE
+- REAR
+- FOSTER
+- BLOOM
+- NURSE
+- RECORDER
+- BASSOON
+- RAISE
+- SPROUT
+- RADIATION
+
+And here are the hints for today's groups:
+
+Yellow group — These are melody makers.
+Green group — These words represent the early stages of flora.
+Blue group — Think of these words as a guide into maturity.
+Purple group — This group stems from a star.
+
+What Are Today's Connections Groups?
+
+If you need some extra help, here's where the hints become spoilers. Only proceed if you're ready to find out the groups.
+
+Today's groups are:
+
+Yellow group — These words belong to the category of musical instruments.
+Green group — These words represent plant growths.
+Blue group — These words are related to bringing up something.
+Purple group — These words are connected to solar emanations.
+
+What Are Today's Connections Answers?
+
+Now, for the moment you've been waiting for—the answers!
+
+But before we reveal them, here's your final warning: spoilers ahead!
+
+Today's Connections answers are:
+
+Yellow group — These words belong to the category of musical instruments (BASS, BASSOON, HARP, RECORDER).
+Green group — These words represent plant growths (BLOOM, BUD, SHOOT, SPROUT).
+Blue group — These words are related to bringing up something (FOSTER, NURSE, RAISE, REAR).
+Purple group — These words are connected to solar emanations (CORONA, FLARE, LIGHT, RADIATION).
+
+Congratulations to me for achieving a perfect game after a few days! This brings my overall streak up to six straight wins.
+
+The beer red herrings in today's game were quite fun, even though I spotted the trickery right away. The drink is called Foster's, not FOSTER. I've had enough pints of that to know the difference. This realization immediately led me to the blue group.
+
+The greens and yellows were then obvious (although BLOOM could have fit in with the purples), and from there, it was smooth sailing.
+
+That's all for today's Connections clues and answers. If you need hints or the solution for Wednesday's game, be sure to check out my blog.
+
+P.S. Just to give myself some extra hope of scoring a good ticket (and because it's a great song), here's a mildly NSFW Olivia Rodrigo track:
+
+[Insert song link here]
+
+I hope you enjoyed today's game of Connections! Stay tuned for more fun and challenging puzzles.",https://imageio.forbes.com/specials-images/imageserve/64de654d82fd643c3ad8ae1f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 17:30:17,Innovation,Innovation
+https://techxplore.com/news/2024-03-pairing-crypto-green-hydrogen-energy.html,"Pairing crypto mining with green hydrogen offers clean energy boost, study suggests","Pairing cryptocurrency mining with green hydrogen could be a game-changer in the renewable energy sector, according to a recent study from Cornell University. The study, titled ""Climate Sustainability Through a Dynamic Duo: Green Hydrogen and Crypto Driving Energy Transition and Decarbonization,"" explores the potential of combining energy-intensive cryptocurrency mining with green hydrogen technology to accelerate the adoption of renewable energy sources.
+
+Cryptocurrency mining has long been criticized for its significant carbon footprint. The energy consumption associated with mining blockchain-based cryptocurrencies like Bitcoin is comparable to that of entire countries. In fact, a 2022 report from the White House Office of Science and Technology revealed that the carbon-based energy used for cryptocurrency mining in the U.S. is equivalent to the energy consumption of Argentina. This highlights the urgent need to find sustainable solutions for the cryptocurrency industry.
+
+The Cornell University study proposes an innovative approach to tackle this environmental challenge. By harnessing the power of green hydrogen, which is produced using renewable energy sources, cryptocurrency mining operations can significantly reduce their carbon emissions. This synergy between cryptocurrency and green hydrogen has the potential to revolutionize the energy landscape and contribute to climate mitigation and sustainability.
+
+The researchers behind the study, Professor Fengqi You and doctoral student Apoorv Lal, emphasize the importance of building a green hydrogen infrastructure to support cryptocurrency mining. This infrastructure would enable the production of cryptocurrency using clean energy sources, such as solar and wind power. By doing so, the research suggests that the capacity for renewable energy generation can be expanded, leading to a more sustainable and climate-friendly energy system.
+
+The study also highlights the potential of cryptocurrency mining to drive the development of additional energy infrastructure. By supporting cryptocurrency mining, regions can tap into their energy strengths and unlock the potential for renewable energy production. For example, the researchers estimate that each Bitcoin mined in New Mexico could generate 78.4 megawatt hours of solar power, while each Bitcoin mined in Wyoming could produce 265.8 megawatt hours of wind power. This underscores the transformative role that cryptocurrency can play in the renewable energy sector.
+
+While cryptocurrency is often associated with its monetary value, the study introduces the concept of cryptocurrency as a virtual energy carrier. Similar to a gift card, cryptocurrency can hold an energy value, making it a valuable asset in the transition to a sustainable energy future. This innovative perspective highlights the potential of cryptocurrency beyond its financial implications.
+
+However, for this vision to become a reality, the researchers stress the need for stronger federal policies that prioritize climate goals and renewable energy. The government has a crucial role to play in creating an enabling environment for the adoption of green hydrogen and supporting the integration of cryptocurrency into the energy transition.
+
+In conclusion, the combination of cryptocurrency mining and green hydrogen technology presents an exciting opportunity to address the environmental impact of the cryptocurrency industry and accelerate the adoption of renewable energy. By leveraging the unique characteristics of cryptocurrency and harnessing the power of green hydrogen, we can pave the way for a sustainable and climate-friendly future. This innovative approach has the potential to transform the energy landscape and drive us towards a more sustainable tomorrow.",https://scx2.b-cdn.net/gfx/news/hires/2023/cryptocurrencies.jpg,2024-03-25 15:00:02,Innovation,Innovation
+https://techcrunch.com/2024/03/25/gostudent-tutoring-profitability/,"GoStudent, the online learning platform, says it's now profitable","GoStudent, the online tutoring marketplace based in Vienna, Austria, has established itself as one of the leading startups in the country. With 11 million families and 23,000 tutors on its platform, GoStudent has now achieved profitability. CEO Felix Ohswald stated that the company is not only EBITDA profitable but also has positive operating cash flow. This accomplishment sets GoStudent apart from many other Austrian startups and solidifies its position in the international tech scene.
+
+However, GoStudent's path to profitability has not been without challenges. Like many other technology companies, the market for online learning experienced a crash due to the COVID-19 pandemic. This led to a significant drop in customer demand and a critical situation for GoStudent. In 2021, the company lost €89 million, which increased to €220 million in 2022. As a result, GoStudent had to implement several rounds of layoffs and make major cost cuts.
+
+GoStudent's rapid growth in previous years also contributed to its financial struggles. From 2019 to 2022, the company scaled its core business model to generate over €100 million in revenue. However, it also had a cash burn of over €150 million in 2022 alone. This unsustainable situation prompted GoStudent to reassess its strategy and reduce its burn rate by 70% in 2023. Despite raising significant funding, the company realized it needed to find a more sustainable path to growth.
+
+The company made various changes to its operations to achieve profitability. It cut unnecessary expenses such as lavish parties and halted acquisitions. GoStudent also decided to refocus on Europe instead of attempting to expand globally. It exited the U.S. market after a short period and decided to adopt a more organic growth strategy outside of German-speaking countries. These strategic shifts aimed to prioritize bottom-line growth over top-line growth.
+
+While GoStudent's focus is currently on tutoring rather than teaching, its acquisition of Studienkreis in 2022 indicates a shift towards a more comprehensive educational approach. Studienkreis, founded in 1974, operates physical learning centers primarily in Germany. GoStudent plans to leverage these centers to enhance its hybrid learning offerings.
+
+GoStudent believes that the future of education is hybrid, combining online and offline elements. The company aims to provide personalized tutoring by leveraging technology to match students with the right tutors, regardless of their location. Most of GoStudent's tutors are university students, which enables them to connect with students more effectively.
+
+Achieving profitability is a significant milestone for GoStudent. The company's ability to adapt and make necessary changes in the face of financial challenges demonstrates its commitment to long-term success. By focusing on organic growth, enhancing its hybrid learning offerings, and prioritizing personalized tutoring, GoStudent aims to become a leading global player in the education sector.",https://techcrunch.com/wp-content/uploads/2024/03/Founders-of-GoStudent-Gregor-Muller-I-Felix-Ohswald-2.jpg?w=1024,2024-03-25 11:00:36,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-courses-learning/,Spotify tests video courses to teach everything from music production to Excel,"Spotify, known for its music streaming, podcast entertainment, and audiobooks, is expanding into the world of e-learning. The company is testing a new offering of freemium video courses in the U.K. These courses, produced in partnership with third parties like the BBC and Skillshare, will have at least two free lessons, with the cost of a complete course ranging from £20 to £80 on average. Spotify is currently testing pricing options and plans to optimize its offering based on demand.
+
+The courses will be accessible on Spotify's platform, both on the web and through its mobile app. The content will be available under the ""Courses"" section in Spotify's home and browse tabs. The courses cover a wide range of subjects, from music production to learning how to use Excel. Some courses also focus on teaching musicians and others how to create their own educational content.
+
+While there are already many online learning platforms available, Spotify's educational push is focused on one-directional, on-demand video content. The courses may include supplementary materials, but there won't be tests or other interactive features at this time. Spotify's initial partners for the Courses offering include Skillshare, PLAYvirtuoso, BBC Maestro, and Thinkific.
+
+Spotify plans to curate its course offerings based on user preferences and interests. The company will analyze what users are already listening to and searching for on its platform to determine which courses to feature. Third-party publishers own the videos and license them to Spotify, and the videos will be hosted and purchased on Spotify's platform. Revenue from course sales will be shared among the creator, publisher, and Spotify, with content partners managing payments to creators.
+
+Spotify's move into e-learning aligns with its strategy to diversify its business and improve profitability. While the company has experienced financial challenges, it sees potential in the online learning market, especially in the U.K., where it already has a strong presence. Spotify has observed a correlation between popular podcasts and educational content, with around half of its premium subscribers listening to education or self-help themed podcasts. The company plans to leverage its podcast recommendation capabilities to cross-promote courses and podcasts.
+
+Although education may seem like a departure from Spotify's music streaming roots, the company believes that the overlap between podcasts and educational content presents an opportunity for growth. By offering educational courses, Spotify aims to provide value to its users, drive engagement, and generate additional revenue.","https://techcrunch.com/wp-content/uploads/2024/03/Courses-on-Spotify-PR-Image-6-2.png?resize=1200,683",2024-03-25 08:59:18,Innovation,Innovation
