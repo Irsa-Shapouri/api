@@ -1,0 +1,344 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-vulnerability-virtual-reality.html,Vulnerability in virtual reality systems identified,"Virtual reality (VR) systems have opened up a world of possibilities, allowing users to engage in immersive experiences that can be anything they imagine. However, a team of computer scientists from the University of Chicago has recently uncovered a potential vulnerability within VR systems that could pose a serious security risk. This vulnerability involves the insertion of what the team calls an ""inception layer"" between a user's VR Home Screen and their VR User/Server.
+
+To understand this concept, let's take a closer look at the inception layer. Imagine a scenario where hackers are able to add an app to a user's VR headset. This app, disguised as a legitimate VR application, tricks users into behaving in ways that could inadvertently reveal sensitive information to the hackers. Essentially, the inception layer creates a simulated VR app that runs within the attacker's layer, making the user believe they are interacting directly with a VR app launched from their VR home screen.
+
+In this altered reality, the hackers can record sensitive information, such as passcodes entered into a virtual ATM. They can also intercept and manipulate information, such as altering the cash amounts designated for a purchase and redirecting the difference to their own bank account. Additionally, the inception layer can introduce imagery into the VR world, such as characters representing friends or family, to gain the user's trust or access to confidential information. This means that gestures, voice emanations, browsing activity, and social or business interactions can all be monitored or manipulated.
+
+The researchers highlighted that this malicious app could be downloaded onto a user's VR device if the hackers manage to gain access to the user's WiFi network or physically manipulate the device. Once installed, the app can run undetected, making it even more dangerous. To test this possibility, the researchers enlisted the help of 28 volunteers who played a game using a demonstration VR headset. They then downloaded the app onto the devices, simulating a hacking experience. Interestingly, only 10 of the volunteers noticed a slight flickering during the download and activation process, and just one of them questioned the possibility of something nefarious occurring.
+
+Upon discovering this vulnerability, the research team promptly informed Meta, the company behind the Meta Quest VR system used in their experiment. Meta responded by expressing their intention to investigate the issue and address it if confirmed. The researchers also emphasized that similar vulnerabilities are likely to exist in other VR systems and applications that attempt to insert themselves between users and their VR devices.
+
+In conclusion, the potential security risks associated with the inception layer in VR systems are significant. The ability for hackers to manipulate and exploit users' interactions in the virtual world can have far-reaching consequences. It is crucial for VR system developers and manufacturers to address these vulnerabilities and enhance the security measures in place. As VR technology continues to evolve and become more widespread, ensuring the safety and privacy of users should be a top priority.
+
+Source: [Science X Network](https://sciencex.com/news/2024-08-vulnerability-virtual-reality-hackers-exploit.html)",https://scx2.b-cdn.net/gfx/news/2024/vulnerability-in-virtu.jpg,2024-03-25 10:20:02,Innovation,Innovation
+https://www.forbes.com/sites/webroot/2024/03/25/the-marvels-and-challenges-of-ai/,The Marvels And Challenges Of AI,"Let's dive into the captivating world of Artificial Intelligence (AI), exploring its concepts, implications, and real-world applications. Get ready for an immersive journey through the wonders and challenges of AI.
+
+Part 1: Unleashing Wonders in Our Digital Lives
+
+Generative AI and Chatbots
+
+AI has surpassed its science fiction origins and become an essential part of our daily lives. Let's delve into both the positive and negative aspects of this transformative force.
+
+1. Generative AI: Igniting Creativity
+
+Generative AI is a branch of AI that empowers machines to create content that resembles human creations. These models learn patterns from vast amounts of data and generate original content.
+
+Here are a few ways generative AI is shaping our world:
+
+A. Text Generation
+
+Generative models like OpenAI's GPT-3 have gained attention for their creative abilities. Imagine an AI poet composing thought-provoking verses or an author AI writing entire novels. These algorithms analyze existing text and produce coherent, context-aware responses. From automated customer service chats to personalized email drafts, generative text models enhance efficiency and convenience.
+
+B. Art and Music Creation
+
+Generative AI ventures into the realms of art and music. AI artists create digital works that mimic famous styles or invent entirely new ones. Music composition algorithms generate enchanting melodies, experimenting with genres and instruments. The fusion of human creativity and machine learning opens up uncharted creative territories.
+
+2. Chatbots: Your Digital Companions
+
+Chatbots, like the renowned ChatGPT, engage in natural conversations with users. They go beyond simple question-answer systems by understanding context, learning from interactions, and adapting their responses.
+
+Here's how chatbots are transforming our lives:
+
+A. Virtual Assistants
+
+Chatbots act as tireless virtual assistants, handling tasks such as setting reminders, booking appointments, and providing weather updates. They are available 24/7, ensuring productivity and convenience.
+
+B. Customer Support
+
+In the business world, chatbots assist customers round the clock. They resolve queries, guide users through troubleshooting steps, and even process transactions. Their efficiency reduces wait times and improves customer satisfaction.
+
+C. Virtual Partners / AI Romance
+
+AI has evolved beyond the swipe culture of modern dating apps and even surpassed the human-machine relationship depicted in the movie ""Her."" Inspired by chatbots like Apple's Siri or Google's Alexa, AI romance explores interactions that were previously unimaginable.
+
+D. Content Creation
+
+Chatbots can compose emails, articles, and reports. Imagine a chatbot helping you draft that important client email or summarizing a lengthy document. As they learn from user interactions, their writing style adapts, making them valuable co-authors.
+
+Medical Breakthroughs and Personalization
+
+1. AI in Healthcare
+
+A. Diagnosis and Prediction
+
+AI analyzes medical data, aiding in disease diagnosis and predicting patient outcomes. Imagine an AI-powered system detecting early signs of cancer or suggesting personalized treatment plans based on genetic profiles. Precision medicine becomes a reality, optimizing recovery and minimizing side effects.
+
+B. Drug Discovery
+
+AI accelerates drug discovery by sifting through vast chemical databases. It identifies potential candidates, predicts their efficacy, and expedites research. These breakthroughs hold the promise of saving lives and improving global health.
+
+2. Personalization Algorithms
+
+AI algorithms personalize our experiences across platforms in various ways. Here are two common examples:
+
+A. Lifestyle Recommendations
+
+From Netflix to social media, AI analyzes our preferences and behavior to recommend movies, articles, and products tailored to our tastes. Imagine a world where your news feed perfectly aligns with your interests, introducing you to relevant content. But this is just the beginning.
+
+When AI combines with big data and personal data from biometric sensors in wearable devices—like the step counter in the Apple Watch or iPhone—it can recommend diet and health options, tailor optimal workouts, create psychological profiles, assist with dating and partner match recommendations, and so much more.
+
+B. Targeted Advertising
+
+E-commerce platforms use AI to display ads relevant to individual users. These algorithms consider browsing history, demographics, and purchase behavior. While sometimes controversial, personalized ads can enhance user engagement and drive sales, especially when they are timely and accurately targeted.
+
+Transforming Industries
+
+1. Finance, Manufacturing, and Logistics
+
+A. Process Automation
+
+AI streamlines repetitive tasks, reducing human error. In the financial, manufacturing, and logistics sectors, automation improves efficiency and accuracy, leading to cost savings and improved productivity.
+
+B. Fraud Detection
+
+AI algorithms can detect patterns and anomalies in financial transactions, helping to prevent fraud and protect consumer interests. These advanced systems analyze vast amounts of data, identifying potential risks and enabling timely interventions.
+
+C. Supply Chain Optimization
+
+AI optimizes supply chains by analyzing data on inventory, demand, and transportation. It helps businesses make informed decisions, improving efficiency and reducing costs.
+
+In conclusion, Artificial Intelligence has revolutionized our world, offering endless possibilities for creativity, personalization, and efficiency. As we continue to harness its power, it's crucial to explore its ethical implications and ensure that AI serves humanity's best interests. The journey into the realm of AI is just beginning, and there's so much more to discover and explore.",https://imageio.forbes.com/specials-images/imageserve/65ea11353d6585b589312b5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:47:27,Innovation,Innovation
+https://www.zdnet.com/education/professional-development/want-to-be-a-devops-engineer-heres-the-good-the-bad-and-the-ugly/,"Want to be a DevOps engineer? Here's the good, the bad, and the ugly","DevOps engineering is a highly sought-after job in today's economy, but it requires a combination of technological expertise and business acumen. It's a constantly evolving field that demands continuous learning to stay relevant. DevOps engineers are responsible for automating and collaborating on both cloud and on-premises environments to ensure efficient software development and deployment. The demand for these professionals is high, resulting in attractive salaries, such as an average of $134,000 per year in the US.
+
+According to Brad Morgan, a seasoned DevOps engineer, there are several key skills that are crucial for success in this role. First and foremost, a strong understanding of Linux is essential. Linux is at the core of most modern DevOps roles, so having a solid foundation in Linux and being familiar with the terminal and basic commands is a must. Additionally, bash scripting, which automates Linux commands, is another vital skill in the DevOps world. Many pipelines used in DevOps rely on bash scripting.
+
+Cloud skills are also highly valuable in this field. Morgan suggests focusing on one mainstream cloud provider, such as AWS, Google Cloud, or Microsoft Azure, rather than trying to become an expert in all of them. Becoming a master of one cloud platform makes it easier to learn others in the future.
+
+Becoming a DevOps engineer doesn't require a formal course of study. Self-learning is often the best path as the DevOps ecosystem is vast and constantly evolving. Homebrew Henry, another experienced DevOps engineer, emphasizes the importance of continuous learning and staying up to date with new tools and frameworks. DevOps engineers must be willing to invest their time in studying, even outside of their regular job responsibilities.
+
+Infrastructure management is a significant part of the DevOps engineer's role. If you're not interested in managing infrastructure, you may struggle in this field. DevOps engineers spend a considerable amount of time setting up, configuring, and maintaining the cloud infrastructure that supports various applications. This involves dealing with servers, databases, networks, and security on a daily basis. If you find this aspect exciting, then DevOps engineering might be the perfect fit for you. However, if you're more inclined towards software engineering, writing infrastructure code and automation scripts may not provide the same level of satisfaction as building customer-facing applications.
+
+It's important to note that transitioning between software engineering and DevOps is possible. Many professionals have successfully made the switch, so don't feel locked into one particular path.
+
+Finally, it's crucial to consider the business side of DevOps. Unrealistic expectations are common, with businesses hoping that hiring a few DevOps engineers will solve all their problems. However, DevOps is not a magic solution. It requires a deep understanding of the business goals and collaboration with various stakeholders to achieve success.
+
+In conclusion, DevOps engineering is a highly rewarding and in-demand field. To excel in this role, you need a strong foundation in Linux, proficiency in bash scripting, and cloud skills. Continuous learning is essential to stay up to date with new tools and technologies. Managing infrastructure is a significant part of the job, so a passion for this aspect is crucial. Transitioning between software engineering and DevOps is possible, and it's important to understand the business side of DevOps to set realistic expectations.",https://www.zdnet.com/a/img/resize/e4d3d8d263eb00323161fcf2566ad35a3fe52282/2024/03/25/1b8b924e-2629-43c2-b416-1b990e262786/gettyimages-1319039490.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/,Can you hear me now? AI-coustics to fight noisy audio with generative AI,"Can you hear me now? AI-coustics to fight noisy audio with generative AI
+
+Noisy recordings can be a nightmare for audio engineers. But one German startup, AI-coustics, is aiming to solve this problem using generative AI technology. With a recent funding of €1.9 million, AI-coustics is ready to revolutionize the way we enhance the clarity of voices in videos.
+
+Unlike standard noise suppression methods, AI-coustics' technology works seamlessly across any device and speaker. The goal is to make every digital interaction, whether it's a conference call, a consumer device, or a casual social media video, as clear as a professional studio broadcast.
+
+Co-founder and CEO Fabian Seipel, who is an audio engineer himself, started AI-coustics in partnership with Corvin Jaedicke, a machine learning lecturer at the Technical University of Berlin. The inspiration behind their venture came from encountering poor audio quality in online courses and tutorials during their time at TU Berlin.
+
+Their personal mission is to overcome the challenge of poor audio quality in digital communications. Seipel explains, ""While my hearing is slightly impaired from music production in my early twenties, I've always struggled with online content and lectures, which led us to work on speech quality and intelligibility.""
+
+AI-coustics faces competition from companies like Insoundz and Veed.io, which also use AI technology to enhance speech quality in recordings. However, AI-coustics believes it has a unique approach to noise reduction.
+
+The startup trains its AI model using speech samples recorded in its Berlin studio. People are paid to record these samples, which are then added to the training data set. But what sets AI-coustics apart is its ability to simulate various audio artifacts and problems during the training process. These include noise, reverberation, compression, band-limited microphones, distortion, and clipping.
+
+While some may have concerns about AI-coustics' compensation scheme for creators, the startup is focusing on recruiting diverse speech sample contributors to combat bias. Seipel emphasizes the importance of size and diversity in eliminating bias and making the technology inclusive for all languages, speaker identities, ages, accents, and genders.
+
+To test the effectiveness of AI-coustics' technology, three video clips were uploaded to its platform: an interview with an 18th-century farmer, a car driving demo, and an Israel-Palestine conflict protest. The processed clips had significantly reduced ambient background noise, fulfilling AI-coustics' promise of boosting clarity.
+
+Seipel envisions AI-coustics' technology being used for real-time speech enhancement, as well as being embedded in devices like soundbars, smartphones, and headphones to automatically enhance voice clarity. Currently, AI-coustics offers a web app and API for post-processing audio and video recordings, along with an SDK for integration into existing workflows, apps, and hardware.
+
+With five enterprise customers and 20,000 users (both paying and non-paying), AI-coustics is making strides in the market. The company plans to expand its team and improve its speech-enhancing model in the coming months.
+
+AI-coustics is not just another noise-suppressing software; it's a game-changer in the audio industry. By leveraging the power of generative AI, AI-coustics is set to revolutionize the way we experience and interact with digital audio content.","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1009979808.jpg?resize=1200,801",2024-03-25 18:43:01,Innovation,Innovation
+https://www.forbes.com/sites/jamiecartereurope/2024/03/25/total-eclipse-of-the-chatbot-why-not-to-ask-chatgpt-about-aprils-rare-event/,Total Eclipse Of The Chatbot: Why Not To Ask ChatGPT About April’s Rare Event,"When it comes to the topic of total solar eclipses, it seems that AI chatbots like ChatGPT and Gemini are not as reliable as one might hope. These AI models, while capable in many areas, lack the knowledge and accuracy required to provide correct information about celestial events. In fact, their responses can often be misleading or completely wrong.
+
+For instance, when asked about the timing of the next total solar eclipse, ChatGPT initially provided incorrect information. It claimed that the next one had already occurred three and a half years ago on a different continent. However, after further questioning, it eventually provided the correct date of the next total solar eclipse, which is April 8, 2024. This eclipse will be visible from parts of North America, including Mexico, the United States, and Canada.
+
+Curiously, when asked about subsequent eclipses, ChatGPT continued to provide inaccurate responses. It failed to mention the total solar eclipse set to occur on August 12, 2026, in Greenland, Iceland, and Spain, instead mentioning an eclipse on August 23, 2044. In reality, between April 8, 2024, and August 23, 2044, there will be a total of 13 total solar eclipses, making ChatGPT's response incomplete and misleading.
+
+It's apparent that ChatGPT has a bias towards events happening in the contiguous United States and lacks comprehensive knowledge of total solar eclipses worldwide. This inconsistency and inaccuracy raise concerns about relying on AI chatbots for information regarding celestial phenomena.
+
+However, there is a glimmer of hope with Google's new AI model engine, Gemini. Formerly known as Bard, Gemini seems to provide more reliable answers. It correctly identified the next total solar eclipse as April 8, 2024, and even added a personalized note stating that the eclipse would be visible in the user's location. Subsequent queries yielded consistent and accurate responses from Gemini, indicating a higher level of knowledge and reliability compared to ChatGPT.
+
+In light of this revelation, it is clear that AI chatbots like ChatGPT and Gemini are not suitable sources for eclipse chasers or those seeking accurate information on celestial events. Instead, it is advisable to consult trusted sources such as astronomy websites, experts, or reliable publications for the most up-to-date and accurate information on total solar eclipses.
+
+For the latest updates on total solar eclipses, including travel and lodging options, it is recommended to refer to credible sources rather than relying on AI chatbots. Stay informed and enjoy the awe-inspiring beauty of total solar eclipses with clear skies and wide eyes.
+
+Please note that the information provided in this blog post is accurate at the time of writing, but it is always advisable to double-check with trusted sources for the most current and precise details regarding total solar eclipses.","https://imageio.forbes.com/specials-images/imageserve/66016f04433add21d5071fb4/0x0.jpg?format=jpg&crop=2004,1128,x10,y411,safe&height=900&width=1600&fit=bounds",2024-03-25 13:00:51,Innovation,Innovation
+https://www.forbes.com/sites/webroot/2024/03/25/9-tips-to-protect-your-family-against-identity-theft-and-credit-and-bank-fraud/,9 Tips To Protect Your Family Against Identity Theft And Credit And Bank Fraud,"Did you know that identity theft affects more than nine million Americans every year? Your personal information is stored in various databases, making it an attractive target for criminals. They can use this information to drain your bank account, damage your credit, and even create criminal records in your name. However, there are steps you can take to protect yourself and your family from identity theft and fraud.
+
+Here are nine tips to enable family protection and prevent identity theft, credit fraud, and bank fraud:
+
+1. Safeguard your personal information: Protect your name, address, date of birth, and social security number. Shred documents containing personal information and avoid sharing it over the phone or via email.
+
+2. Use strong and unique passwords: Create passwords that are at least eight characters long and include a combination of uppercase and lowercase letters, numbers, and symbols. Avoid using the same password for multiple accounts to prevent hackers from gaining access to all your accounts.
+
+3. Regularly monitor your accounts: Check your bank and credit card statements frequently to detect any unauthorized transactions. If you notice any suspicious activity, report it immediately to your bank or credit card company.
+
+4. Beware of phishing scams: Be cautious of emails or text messages that appear to be from legitimate sources, such as your bank or credit card company. These phishing scams often ask for personal information or contain malicious links. Verify the source of the message before clicking on any links or providing personal information.
+
+5. Implement two-factor authentication: Enable two-factor authentication for your online accounts. This adds an extra layer of security by requiring a second form of identification, such as a code sent to your phone, in addition to your password.
+
+6. Secure your devices and connections: Keep your computers, smartphones, and other devices secure by updating them with antivirus software and setting strong passwords. Avoid using public Wi-Fi networks to access sensitive information or use a VPN to protect your identity.
+
+7. Monitor your credit reports: Take advantage of the free annual credit reports offered by the three major credit bureaus. Regularly check your credit report for any suspicious activity, such as unauthorized accounts or loans. Consider using a reputable credit monitoring service for real-time alerts and protection.
+
+8. Stay informed about the latest scams: Criminals are constantly developing new scam tactics, especially with the advancements in AI technology. Stay updated on the latest scam techniques by following reputable cybersecurity experts and checking reliable news outlets. Be cautious of unsolicited emails or messages and always verify a person's identity before sharing personal information.
+
+9. Invest in an identity protection package: To ensure comprehensive protection, consider investing in an identity protection plan. For example, Webroot Premium offers protection against viruses, malware, scams, and other cyber threats, as well as password management. It covers up to 10 family members, including you, your partner, children, and seniors aged 65+.
+
+By following these tips and taking proactive measures, you can protect yourself and your loved ones from identity theft and fraud. Stay vigilant, stay informed, and prioritize the security of your personal information.",https://imageio.forbes.com/specials-images/imageserve/65ea0c800c8aac72387356ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:48:19,Innovation,Innovation
+https://techxplore.com/news/2024-03-deep-geothermal-renewable-powerhouse.html,Dig deep: US bets on geothermal to become renewable powerhouse,"Geothermal energy has the potential to become a significant source of clean and reliable power in the United States. While it currently only represents a small fraction of the country's energy production, both businesses and the Biden administration are investing in technological advancements to make geothermal energy a key player in the green transition.
+
+Energy Secretary Jennifer Granholm highlighted the benefits of geothermal energy at a recent conference, stating that if the heat beneath our feet can be harnessed, it can provide clean and scalable power for industries and households alike. The Department of Energy estimates that geothermal energy could surpass hydroelectric and solar power in the US by 2050.
+
+Geothermal energy utilizes naturally high temperatures underground to generate electricity and heat buildings. In 2022, it accounted for only 1.6 percent of US energy consumption. To increase production, the US government has invested over $200 million since 2018 in an experimental site in Utah. This site focuses on Enhanced Geothermal Systems (EGS), a technology that involves injecting water into deep rocks to generate geothermal power.
+
+EGS technology differs from traditional geothermal energy extraction methods as it does not rely on hot springs or underground reservoirs. This approach allows geothermal energy to be produced almost anywhere, reducing the upfront risk for investors. Furthermore, the US government is streamlining the permitting process, allowing companies to convert permits for oil or gas exploration into geothermal licenses.
+
+Compared to hydraulic fracturing (fracking), which is used to extract oil and gas, EGS uses fewer chemical additives and does not release hydrocarbons. Geothermal energy also offers a steady flow of power regardless of weather conditions or time of day, distinguishing it from solar or wind power.
+
+In terms of cost, the US government predicts that geothermal energy will become more affordable, dropping from a range of $70 to $100 per megawatt hour (MWh) to $45 by 2035. The use of existing drilling technology makes geothermal development quicker and more cost-effective.
+
+The United States has been at the forefront of developing EGS technology, while other countries, such as France, have experimental sites. However, one potential risk associated with geothermal drilling is induced seismic activity, similar to the concerns surrounding fracking. The US Energy Department requires all funded projects to follow a mitigation protocol to address this issue.
+
+Despite the challenges, several US and Canadian start-ups have raised significant investments and are competing in the growing geothermal market. These companies are attracting the attention of major corporations like Google, Microsoft, and Nucor, which have expressed interest in purchasing geothermal energy.
+
+As the geothermal sector continues to expand, it is crucial to prioritize responsible and sustainable growth. The development of the first commercial facility will pave the way for other companies to follow suit. With the potential for geothermal energy to become a leading source of clean power, the future looks promising for this emerging industry.",https://scx2.b-cdn.net/gfx/news/2024/a-worker-operates-a-dr.jpg,2024-03-25 04:59:03,Innovation,Innovation
+https://techxplore.com/news/2024-03-household-robots-common.html,Engineering household robots to have a little common sense,"Robots are becoming increasingly capable of performing complex household tasks, thanks to their ability to imitate human actions. However, when faced with unexpected disruptions or obstacles, robots often struggle to adapt and continue their tasks. MIT engineers are now working on a solution to this problem by combining robot motion data with the knowledge of large language models (LLMs).
+
+The engineers have developed a method that allows robots to logically break down household tasks into subtasks and adjust their actions to handle disruptions without starting from scratch. This approach eliminates the need for engineers to explicitly program fixes for every potential failure.
+
+Imitation learning is a popular method for training household robots. However, blindly mimicking human motion trajectories can lead to errors that accumulate and derail the robot's execution. The MIT team's method allows robots to self-correct errors and improve overall task success.
+
+The researchers presented their new approach in a study at the International Conference on Learning Representations. The study's authors include graduate students Yanwei Wang, Tsun-Hsuan Wang, and Jiayuan Mao, postdoc Michael Hagenow, and Professor Julie Shah.
+
+To demonstrate their approach, the researchers used the example of scooping marbles from one bowl and pouring them into another. Typically, engineers would guide the robot through the entire motion trajectory in one continuous movement. However, the researchers realized that tasks consist of a sequence of subtasks. For example, the robot must first reach into the bowl, then scoop, and finally pour the marbles.
+
+If the robot encounters a disruption during any of these subtasks, it would usually have to start from the beginning. The alternative would be for engineers to explicitly label each subtask and provide new demonstrations for the robot to recover from the failure. However, this level of planning is time-consuming and tedious.
+
+Instead, the researchers found that LLMs could automate some of this work. These deep learning models process large amounts of text and can generate new sentences based on what they have learned. The researchers discovered that LLMs can also produce a logical list of subtasks for a given task. For example, when asked to list the actions involved in scooping marbles, an LLM might generate words like ""reach,"" ""scoop,"" ""transport,"" and ""pour.""
+
+By connecting the LLM's natural language labels for subtasks with the robot's physical position or state, the researchers created an algorithm that enables the robot to understand its progress in a task and replan accordingly. This process, known as ""grounding,"" allows the robot to automatically know what stage it is in and recover on its own.
+
+The MIT engineers have developed a promising approach that combines the strengths of robots and language models to enhance their ability to handle disruptions during tasks. By enabling robots to self-correct errors and continue their tasks, this method brings them one step closer to being efficient and reliable household assistants.
+
+The researchers' work represents a significant advancement in the field of robotics and opens up new possibilities for training robots to perform complex tasks in real-world environments. With further development, this approach could revolutionize the way robots are programmed and improve their overall performance and adaptability.
+
+In conclusion, the MIT engineers have developed a method that allows robots to adjust their actions and handle disruptions during tasks. By combining robot motion data with the knowledge of large language models, the researchers enable robots to self-correct errors and continue their tasks without starting from scratch. This approach represents a significant advancement in the field of robotics and brings us closer to a future where robots are efficient and reliable household assistants.",https://scx2.b-cdn.net/gfx/news/2024/engineering-household.jpg,2024-03-25 09:48:20,Innovation,Innovation
+https://techcrunch.com/2024/03/24/non-sexy-industries-can-appeal-to-investors-too/,Non-sexy industries can appeal to investors too,"Welcome to TechCrunch Fintech! In this edition, we'll be exploring some exciting fintech startups in Africa, discussing how Mint's closure has benefited Copilot, and delving into why VCs are investing heavily in a specific expense management startup.
+
+Africa's fintech ecosystem has seen a decline in venture funding recently, much like the rest of the world. However, there were some positive developments in the region this week. Uber led a $100 million investment into Moove, a mobility fintech startup in Africa. This investment boosted Moove's valuation to $750 million. Additionally, Zone raised $8.5 million to expand its decentralized payment infrastructure. Tanzanian payments company Nala successfully pivoted to offer remittance services in 2021 and also developed a B2B payment platform.
+
+In other news, the closure of Intuit's budgeting app Mint has created opportunities for startups in the same space. Copilot, for example, has experienced significant growth in the past four months, surpassing its growth in the previous four years. This growth led to a successful $6 million Series A funding round led by Nico Wittenborn's Adjacent. Copilot initially launched with $250,000 in angel funding and later added support for Apple Card. Monarch Money co-founder Ozzie Osman also highlighted how Mint's closure benefited their company.
+
+While some may consider non-sexy industries less appealing to investors, expense management startup Coast has proven otherwise. It focuses on businesses with real-world field personnel and fleets to manage. Coast claims to have achieved 550% revenue growth last year and recently secured an additional $25 million in equity funding. Onyx Private, a digital bank backed by Y Combinator, pivoted to B2B operations. After raising $4.1 million to serve high-earning millennials and Gen Zers, the startup decided to terminate its bank operations and close customer accounts.
+
+Swiss fintech nsave aims to make banking accessible to individuals in countries with unstable banking sectors or high inflation. It recently raised $4 million in seed funding to support its mission.
+
+In other articles, Eric Glyman, co-founder and CEO of Ramp, expressed his belief that the fintech industry, including his own company, is just scratching the surface of its potential. Glyman noted that despite Ramp's significant growth, it has only captured 1% of its potential market share. Additionally, the U.S. Justice Department's antitrust complaint against Apple specifically targets the company's extensive financial business.
+
+Here are some other notable headlines in the fintech industry:
+
+- Bolt and Checkout.com collaborate to facilitate frictionless commerce.
+- Rewards startup Fetch raises $50 million from Morgan Stanley to tap into the private credit boom.
+- Wealthfront delays its IPO plans.
+- Affirm Holdings director Keith Rabois sells over $318K worth of shares.
+- Cloud banking tech provider nCino acquires DocFox.
+- Marco secures $12 million to support trade finance in Latin America.
+- PayPal-backed NX Technologies raises $24 million to streamline automotive payments.
+- Prizepool receives a cease and desist order from FDIC for false and misleading statements.
+- DLocal appoints Pedro Arnt as CEO, with Sebastián Kanovich stepping back.
+- Ryan Zauk joins OMERS Ventures as a fintech investor.
+- Klarna challenges Visa and Mastercard with an open banking push.
+
+If you have any tips or suggestions, feel free to email me at maryann@techcrunch.com or send me a message on Signal at 408.204.3036. You can also reach out to the entire TechCrunch team at tips@techcrunch.com. For secure communications, click here to contact us, which includes SecureDrop and links to encrypted messaging apps.","https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-835896464.jpg?resize=1200,800",2024-03-24 14:15:51,Innovation,Innovation
+https://techcrunch.com/2024/03/25/lucid-motors-1-billion-saudi-arabia-gravity-suv/,Lucid Motors raises another $1 billion from Saudi Arabia as it searches for luxury EV buyers,"Lucid Motors, the luxury electric vehicle manufacturer, is receiving an additional $1 billion in funding from its major investor, Saudi Arabia. The investment comes as Lucid aims to address the high costs associated with producing and selling its high-end electric sedan.
+
+In a regulatory filing on Monday, Lucid announced that Ayar Third Investment, an affiliate of Saudi Arabia's Public Investment Fund, will purchase $1 billion worth of Lucid's stock. This investment will increase Saudi Arabia's ownership stake to approximately 60%.
+
+This funding injection follows Lucid's recent disclosure to investors that it plans to manufacture around 9,000 units of its Air electric vehicles this year, a slight increase from the previous year. However, the company experienced significant financial losses in 2023, totaling $2.8 billion, and ended the year with approximately $1.4 billion in cash and equivalents.
+
+One of Lucid's ongoing challenges has been finding buyers for its expensive Air sedan. To stimulate sales, the company has repeatedly reduced prices in recent months. Additionally, Lucid has announced plans to commence production of its electric Gravity SUV by the end of this year.
+
+Interestingly, Lucid's announcement of the Saudi investment comes shortly after CEO Peter Rawlinson expressed caution about depending too heavily on Saudi Arabia for financial support. Rawlinson emphasized the importance of not assuming that the Public Investment Fund has limitless resources, as he deeply respects the fund and its role in the company's growth.
+
+This new funding from Saudi Arabia marks a significant development for Lucid Motors. As the company strives to make a name for itself in the competitive electric vehicle market, the financial boost will undoubtedly contribute to its ongoing efforts.
+
+It is worth noting that Lucid's Air sedan has garnered attention for its cutting-edge technology, luxurious features, and impressive performance. However, the high price point has deterred some potential buyers. With the recent price reductions and the upcoming launch of the Gravity SUV, Lucid hopes to attract a broader customer base.
+
+The partnership between Lucid Motors and Saudi Arabia's Public Investment Fund dates back to 2018 when the fund invested $1 billion in the company. Since then, the fund has been a crucial source of financial support for Lucid, enabling it to develop and produce its innovative electric vehicles.
+
+In conclusion, Lucid Motors' latest funding announcement highlights the ongoing commitment of Saudi Arabia's Public Investment Fund to the company's success. As Lucid works to overcome financial challenges and expand its product lineup, this injection of funds will undoubtedly bolster its efforts. With the support of its major investor, Lucid aims to establish itself as a prominent player in the luxury electric vehicle market.","https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?resize=1200,675",2024-03-25 14:31:52,Innovation,Innovation
+https://www.forbes.com/sites/webroot/2024/03/25/7-cyber-safety-tips-to-outsmart-scammers/,7 Cyber Safety Tips To Outsmart Scammers,"Welcome to the wild west of the digital world, where cyber scammers are lurking around every corner. Cybercrime is no longer just a plotline in Hollywood movies; it's a real threat that targets people of all ages. From young kids to seasoned adults and wise grandparents, no one is safe. And guess what? It's on the rise faster than your Wi-Fi connection during peak hours. So, buckle up and get ready as we embark on a journey through the seven seas of cyber safety.
+
+Before we dive into the tips on how to stay safe online, let's equip ourselves with the ultimate weapon: knowledge. Scams are like snake oil salespeople in the digital world. They come in all shapes and sizes, lurking in the shadowy corners of the internet. The golden rule of scam detection is skepticism. Whether it's a promise of untold riches, a once-in-a-lifetime opportunity, or a free Caribbean cruise courtesy of a Nigerian prince, approach with caution and a healthy dose of skepticism.
+
+Now, let's take a quick tour of the common cyber scams you should be aware of:
+
+1. Phishing scams: Ah, phishing scams, the bane of our digital existence. These sneaky scams involve fake emails posing as messages from familiar faces or reputable companies. They'll try to sweet-talk you into clicking on suspicious links or divulging sensitive information like passwords or credit card details. Remember: real companies don't ask for your personal data via email.
+
+2. Sweepstakes and awards scams: Congratulations! You've just won a brand new car, a tropical vacation, and a lifetime supply of unicorn-shaped cookies. All you need to do is pay a small processing fee. Sound too good to be true? That's because it is! These scams offer you instant wealth but are really just clever ruses to empty your wallet faster than you can say ""jackpot.""
+
+3. Investment scams: Picture this: a golden opportunity to double your money with zero risk. Investment scams lure unsuspecting victims with the promise of sky-high profits. Don't let these offers cloud your judgment. Always do your due diligence before investing your hard-earned cash.
+
+4. Lawsuit or tax scams: Lawsuit and tax scams thrive on instilling fear and panic, claiming you owe urgent payments. When in doubt, verify the legitimacy of any claims before reaching for your wallet.
+
+5. Romance scams: These scams prey on the trusting hearts of hopeful romantics, weaving elaborate tales of love and devotion before swooping in for the financial kill. Remember: anyone who asks for money online is more likely to break your heart than mend it.
+
+6. Tech support scams: These imposters offer remote assistance to fix nonexistent problems with your laptop or devices while gaining access to your sensitive data. Remember: legitimate tech support doesn't come knocking unsolicited. If in doubt, just delete the email and seek help from trusted sources.
+
+Armed with this knowledge, you're ready to navigate the digital minefield with confidence. You can also be a good internet citizen by forwarding these scams to the U.S. government's Cybersecurity & Infrastructure Security Agency (CISA) at phishing-report@us-cert.gov.
+
+Now, let's move on to the 7 tips to stay safe online:
+
+1. Use strong passwords: Your password is the digital key to your castle, so make sure it's not something as flimsy as '123456' or 'password.' Get creative! Mix uppercase, lowercase, numbers, and special characters like a mad scientist concocting a secret potion. And don't reuse passwords across multiple accounts unless you want to throw a welcome party for cybercriminals.
+
+2. Enable two-factor authentication: Adding an extra layer of security to your accounts can make a world of difference. Two-factor authentication requires you to provide a second form of identification, such as a code sent to your phone, in addition to your password. This means even if someone manages to crack your password, they won't be able to access your account without the second factor.
+
+3. Keep your software up to date: Software updates are not just annoying pop-ups that interrupt your workflow; they're essential for your online safety. These updates often contain security patches and bug fixes that protect your devices from the latest threats. So, embrace the updates and keep your software up to date.
+
+4. Be cautious with public Wi-Fi: Public Wi-Fi networks are a breeding ground for cybercriminals. Avoid accessing sensitive information or making online transactions when connected to public Wi-Fi. If you must use public Wi-Fi, consider using a virtual private network (VPN) to encrypt your data and protect your privacy.
+
+5. Think before you click: Clicking on random links is like playing Russian roulette with your online security. Be cautious and think before you click. Hover over a link to see its destination before actually clicking on it. If something seems suspicious or too good to be true, it probably is.
+
+6. Use antivirus software: Protect your devices with reputable antivirus software. These programs can detect and remove malware, viruses, and other digital threats. Make sure to keep your antivirus software updated to stay one step ahead of cybercriminals.
+
+7. Educate yourself and others: Knowledge is power when it comes to staying safe online. Stay informed about the latest scams and share your knowledge with your friends and family. By educating yourself and others, you can create a safer online environment for everyone.
+
+In conclusion, the digital world may be filled with cyber scammers, but with the right knowledge and precautions, you can navigate through it safely. Remember to stay skeptical, use strong passwords, enable two-factor authentication, keep your software up to date, be cautious with public Wi-Fi, think before you click, use antivirus software, and educate yourself and others. By following these tips, you'll be well-equipped to protect yourself from the dangers of the wild west of the digital world. Stay safe out there!",https://imageio.forbes.com/specials-images/imageserve/65ea0ea426a7cb96ff0f5cde/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:48:40,Innovation,Innovation
+https://www.zdnet.com/article/upgrade-to-windows-11-pro-for-just-25-right-now/,Upgrade to Windows 11 Pro for just $25 right now,"'ZDNET Recommends': What exactly does it mean?
+
+When you see the 'ZDNET Recommends' label on our articles, it means that our team of experts has put in extensive time and effort to provide you with the best recommendations. We pride ourselves on delivering accurate and reliable information to help you make informed buying decisions.
+
+To ensure the highest quality recommendations, we rely on a rigorous process. Our team conducts thorough testing, research, and comparison shopping. We gather data from reputable sources, including vendor and retailer listings, as well as independent review sites. Additionally, we carefully analyze customer reviews to understand the real-life experiences of people who have already purchased and used the products and services we are assessing.
+
+It's important to note that when you click on a link from our site to a retailer and make a purchase, we may earn affiliate commissions. These commissions help support our work, but they do not influence the content we cover or how we cover it. They also do not impact the price you pay. We are committed to maintaining the integrity of our editorial content, and our strict guidelines ensure that our recommendations are never influenced by advertisers.
+
+At ZDNET, our editorial team works on your behalf, the reader. Our ultimate goal is to provide you with the most accurate information and the most knowledgeable advice possible. Whether you're looking for tech gear or a wide range of other products and services, we strive to help you make smarter buying decisions.
+
+To ensure the highest standards, our editors thoroughly review and fact-check every article. We take great care to ensure the accuracy and reliability of our content. If we do make an error or publish misleading information, we are committed to correcting or clarifying the article promptly.
+
+We also value your feedback. If you come across any inaccuracies in our content, please let us know by reporting the mistake through the provided form. Your input helps us maintain the quality and accuracy of our articles.
+
+Thank you for trusting ZDNET Recommends. We are here to assist you in making confident and informed purchasing choices.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 10:30:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","The European Union has announced a series of investigations on Big Tech companies under the Digital Markets Act (DMA). Alphabet/Google, Apple, and Meta are facing the first formal non-compliance investigations under the bloc's updated competition rulebook. The investigations will focus on various areas, including Alphabet/Google's rules on steering in Google Play and self-preferencing in search results, Apple's rules on steering in the App Store and the design of choice screens for alternatives to its Safari web browser, and Meta's ""pay or consent"" model. These investigations come less than three weeks after the compliance deadline for the companies.
+
+The three gatekeepers, which were designated under the pan-EU market power and contestability regulation last fall, are being formally investigated to determine if they are breaching the rulebook. Violations of the DMA can result in fines of up to 10% of global annual turnover, or even 20% for repeat offenses. The EU will have up to 12 months to conclude the investigations, with a preliminary report possible within six months.
+
+This enforcement action by the EU is happening while antitrust scrutiny on these three US firms continues to increase in their home country as well. Since the companies unveiled their DMA compliance plans, there has been criticism that the proposals do not comply with the new EU law. Google has been accused of trying to avoid the regulation's ban on self-preferencing by launching new rich features in search results that unfairly compete with rivals. Apple's use of notifications to warn users of risks outside its ecosystem has been criticized by developers, and Meta's ""pay or be tracked"" tactic has been condemned by privacy and consumer rights groups.
+
+The EU is concerned that Alphabet and Apple may not be fully compliant with the DMA's requirements pertaining to app stores. Alphabet's measures to comply with the DMA will be investigated to ensure that third-party services featured on Google's search results page are treated fairly and non-discriminatorily compared to Alphabet's own services. The EU will also examine whether Apple is complying with user choice obligations on iOS, including enabling easy uninstallation of apps, changing default settings, and providing effective and easy choice screens for alternative default services. Regarding Meta, the EU will investigate whether its ""pay or consent"" model for EU users complies with the DMA's requirement for obtaining consent from users when combining or cross-using their personal data across different core platform services.
+
+These investigations highlight the EU's commitment to ensuring fair competition and compliance with the DMA. Gatekeepers are required to offer a free, non-discriminatory choice to users, and any restrictions or limitations on developers' ability to communicate and promote offers will be thoroughly examined. The EU aims to prevent the accumulation of personal data by gatekeepers and ensure that users have genuine alternatives and the ability to exercise their choice of services within these tech ecosystems.
+
+In conclusion, the European Union has initiated investigations on Alphabet/Google, Apple, and Meta under the Digital Markets Act. These investigations will assess compliance with the DMA's requirements and determine if any breaches have occurred. The EU's actions demonstrate its commitment to fair competition and protecting user choice within the digital market.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/,London regtech GSS raises $47M to help banks screen for global sanctions,"Global Screening Services (GSS), a London-based regulatory compliance platform, has successfully raised $47 million in funding. The company aims to assist financial institutions in meeting their global sanctions obligations. This funding comes at a time when economic sanctions are on the rise, with the United States imposing trade restrictions and asset-blocking against countries such as Russia, China, and Iran.
+
+GSS was initially incubated within consulting firm AlixPartner, where its co-founder and CEO, Tom Scampion, served as the head of financial crime for Deloitte's EMEA arm. In 2021, GSS became a standalone entity after being spun out from AlixPartner. Last year, the company secured a similar amount of funding from notable investors, including Mitsubishi UFJ Financial Group (MUFG), one of the world's largest banks. For this latest funding round, GSS has attracted support from financial powerhouse the Commonwealth Bank of Australia (CBA), along with Cynosure Group and AlixPartner.
+
+The main challenge that GSS aims to address is the difficulty banks face in enforcing sanctions due to their pivotal role in regulating global money flows. Determining the parties involved in money transfers is not always straightforward. In 2019, Standard Chartered was fined $1.1 billion by U.K. and U.S. regulators for inadequate money-laundering controls, including breaches of sanctions against countries like Iran. Similarly, BNP Paribas was fined a staggering $8.9 billion for processing financial transactions on behalf of sanctioned countries by the U.S., five years prior to that incident.
+
+In recent years, investors have shown significant interest in supporting regulatory compliance businesses. Companies like Droit in New York raised $23 million last year, while London-based SteelEye secured $21 million in financing. GSS offers a sanctions-screening platform that assists banks and other financial institutions in complying with regulations. These institutions input transaction data into GSS's cloud-based platform, which then alerts them if any matches are found against a standardized set of sanctions lists from around the world. GSS also enriches these lists with additional data points, such as dates of birth and International Maritime Organization (IMO) numbers for ships. Moreover, GSS provides enhanced lists for screening, which include companies that are partly owned by individuals, companies, or governments that have been sanctioned by organizations like OFAC, the E.U., or U.K.
+
+With the additional $47 million in funding, GSS is transitioning from the development phase to becoming fully operational. The company is now preparing to go live with its first customers, offering them a comprehensive solution for meeting their global sanctions obligations.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1770041999-e1711386339681.jpg?resize=1200,677",2024-03-25 18:36:37,Innovation,Innovation
+https://www.zdnet.com/article/i-switched-to-this-300-motorola-phone-for-two-weeks-and-was-pleasantly-surprised/,I switched to this $300 Motorola phone for two weeks and was pleasantly surprised,"The Moto G Power 5G is a phone that offers a lot of value for its price. With a large display, a vegan leather back panel, and Motorola's software enhancements, it's a device that stands out in its price range. While the LCD display may not be as vibrant as an OLED, it's a minor tradeoff considering all the other features this phone has to offer.
+
+One of the standout aspects of the Moto G Power 5G is its design. The fingerprint sensor is integrated into the side power button, making it convenient to unlock the phone as you pick it up. The phone is made with plastic, which helps keep it lightweight at just 201 grams. The Pale Lilac color option, along with the vegan leather back, adds a touch of elegance to the phone and provides extra grip.
+
+The 6.7-inch LCD display supports a 120Hz refresh rate and has an 85% screen-to-body ratio. With a resolution of 391 ppi, it offers a great viewing experience for media content. The stereo speakers perform decently well, and there's also a 3.5mm audio port for wired listening.
+
+In terms of performance, the Moto G Power 5G is powered by a MediaTek Dimensity 7020 processor with 8GB of RAM and 128GB of internal storage. While there may be some stuttering and lag when navigating between apps and games, Motorola's software optimizations help mitigate these issues. The phone also supports expandable storage via a microSD card.
+
+The camera setup on the Moto G Power 5G includes a 50MP main camera and an 8MP ultra-wide camera. While the hardware may not be as powerful as flagship phones, Motorola's custom camera software enhances the overall photography experience. With features like macro shooting and easy-to-use settings, capturing great photos is effortless.
+
+One of the standout features of the Moto G Power 5G is its large 5,000mAh battery. With heavy usage, the phone can easily last for two full days. Motorola also includes a fast 30W TurboPower charger in the box, and the phone supports wireless charging, which is typically not found in phones at this price range. Additionally, the Moto G Power 5G supports 5G connectivity, ensuring a reliable and fast network connection.
+
+In conclusion, the Moto G Power 5G is an impressive phone that offers a lot of value for its price. With its large display, sleek design, impressive battery life, and Motorola's software enhancements, it's a device that can compete with more expensive flagship phones. Whether you're a first-time smartphone buyer or someone looking for an affordable option with great features, the Moto G Power 5G is definitely worth considering.",https://www.zdnet.com/a/img/resize/32aa07ddf6226336c47ed03b859ff3c4e46a8471/2024/03/24/63400535-0c15-459c-aca0-c0cc32986912/moto-g-power-5g-20245.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-24 00:00:00,Innovation,Innovation
