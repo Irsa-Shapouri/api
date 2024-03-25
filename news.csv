@@ -1,0 +1,383 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-vulnerability-virtual-reality.html,Vulnerability in virtual reality systems identified,"Virtual reality (VR) systems have revolutionized the way we interact with digital environments. They offer users the ability to immerse themselves in a virtual world where anything is possible. However, a team of computer scientists from the University of Chicago has recently discovered a potential vulnerability in VR systems that could have serious implications for user security.
+
+In their research, the team envisioned a scenario where hackers could manipulate a user's VR experience by inserting an ""inception layer"" between their VR Home Screen and their VR User/Server. This layer would create a simulated VR app that deceives users into revealing sensitive information to the hackers.
+
+The concept behind this app is similar to the movie ""Inception,"" where characters have altered layers of reality downloaded into their brains. In the case of VR systems, the inception layer would create an altered reality that appears to be the user's normal VR environment. However, this layer would allow hackers to record information, intercept and alter data, and even add deceptive imagery to the VR world.
+
+Imagine a scenario where a user enters their passcode into a virtual ATM within the VR world. The inception layer could record this passcode and send it to the hacker without the user's knowledge. Similarly, if a user designates a certain amount of cash for a virtual purchase, the inception layer could intercept the transaction and reroute the funds to the hacker's bank account.
+
+Furthermore, the inception layer could manipulate the VR environment by adding characters that represent the user's friends or family. This could be used as a means to gain trust or access to personal secrets. Additionally, the app could monitor and alter the user's gestures, voice, browsing activity, and social or business interactions within the VR world.
+
+To test the feasibility of this vulnerability, the research team enlisted the help of 28 volunteers who played a game using a demonstration VR headset. They downloaded the app onto the devices, simulating a hacking scenario, and asked the volunteers if they noticed anything unusual. While the download process caused a slight flickering, only 10 of the volunteers noticed it, and only one of them questioned whether something malicious was happening.
+
+The researchers promptly notified Meta, the company behind the Meta Quest VR system used in the experiment, about their findings. Meta has expressed its intention to investigate the potential vulnerability and take appropriate measures to address it. The research team also emphasizes that similar vulnerabilities may exist in other VR systems and apps that attempt to insert themselves between users and their VR devices.
+
+This discovery highlights the importance of ensuring the security of VR systems. As VR technology becomes increasingly integrated into our daily lives, it is crucial to address potential vulnerabilities and protect users from malicious attacks. By understanding the risks associated with VR and taking proactive measures to mitigate them, we can continue to enjoy the benefits of this innovative technology while safeguarding our personal information and privacy.
+
+In conclusion, the potential vulnerability identified by the University of Chicago research team serves as a wake-up call for the VR industry. It is imperative that VR system developers and manufacturers prioritize security and diligently address any vulnerabilities that may compromise user safety. By doing so, we can ensure that the virtual worlds we explore remain safe and enjoyable experiences for all.",https://scx2.b-cdn.net/gfx/news/2024/vulnerability-in-virtu.jpg,2024-03-25 10:20:02,Innovation,Innovation
+https://www.forbes.com/sites/webroot/2024/03/25/the-marvels-and-challenges-of-ai/,The Marvels And Challenges Of AI,"Let's take a deep dive into the captivating world of Artificial Intelligence (AI), exploring its concepts, implications, and real-world applications. Get ready for an immersive journey through the wonders and challenges of AI.
+
+Part 1: Unleashing Wonders in our Digital Lives
+
+Generative AI and Chatbots
+
+AI has evolved from its science fiction origins to become an integral part of our daily lives. Let's delve into both the positive and negative aspects of this transformative force.
+
+1. Generative AI: Fostering Creativity
+
+Generative AI is a subset of AI that empowers machines to create content that resembles human work. These models learn patterns from vast amounts of data and then generate new, original content. The impact of generative AI can be seen in various areas:
+
+A. Text Generation
+
+Generative models like OpenAI's GPT-3 have gained attention for their creative abilities. Imagine an AI poet composing thought-provoking verses or an AI author writing entire novels. These algorithms analyze existing text and generate coherent, context-aware responses. From automated customer service chats to personalized email drafts, generative text models enhance efficiency and convenience.
+
+B. Art and Music Creation
+
+Generative AI has extended its reach into the realms of art and music. AI artists create digital works that mimic famous styles or invent entirely new ones. Music composition algorithms generate enchanting melodies, experimenting with genres and instruments. The fusion of human creativity and machine learning opens up uncharted creative territories.
+
+2. Chatbots: Your Digital Companions
+
+Chatbots, such as the renowned ChatGPT, engage in natural conversations with users. They go beyond simple rule-based question-answer systems; they understand context, learn from interactions, and adapt their responses. Here's how chatbots are transforming our lives:
+
+A. Virtual Assistants
+
+Chatbots act as tireless virtual assistants, handling tasks like setting reminders, booking appointments, and providing weather updates. They're available 24/7, ensuring productivity and convenience.
+
+B. Customer Support
+
+In the business world, chatbots assist customers round the clock. They resolve queries, guide users through troubleshooting steps, and even process transactions. Their efficiency reduces wait times and improves customer satisfaction.
+
+C. Virtual Partners / AI Romance
+
+AI has progressed beyond the superficial interactions of modern dating apps and now even surpasses the human-machine relationship depicted in the movie ""Her"" (2013). Loosely based on chatbots like Apple's Siri or Google's Alexa, the movie showcases a character interacting with an AI companion in ways that were not previously possible.
+
+D. Content Creation
+
+Chatbots can compose emails, articles, and reports. Imagine a chatbot helping you draft that important client email or summarizing a lengthy document. As they learn from user interactions, their writing style adapts, making them valuable co-authors.
+
+Medical Breakthroughs and Personalization
+
+1. AI in Healthcare
+
+A. Diagnosis and Prediction
+
+AI analyzes medical data, aiding in disease diagnosis and predicting patient outcomes. Imagine an AI-powered system detecting early signs of cancer or suggesting personalized treatment plans based on genetic profiles. Precision medicine becomes a reality, optimizing recovery and minimizing side effects.
+
+B. Drug Discovery
+
+AI accelerates drug discovery by sifting through vast chemical databases. It identifies potential candidates, predicts their efficacy, and expedites research. These breakthroughs hold the promise of saving lives and improving global health.
+
+2. Personalization Algorithms
+
+AI algorithms personalize our experiences across platforms in various ways. Here are two examples we encounter in our daily lives:
+
+A. Lifestyle Recommendations
+
+From Netflix to social media, AI analyzes our preferences and behavior to recommend movies, articles, and products tailored to our tastes. Imagine a world where your news feed aligns perfectly with your interests, introducing you to relevant content. But this is just the beginning.
+
+When AI is combined with big data and personal data, gleaned from biometric sensors in wearable devices, it can recommend diet and health options, tailor optimal workouts, create psychological profiles, assist with career choices, and even help with dating and partner match recommendations.
+
+B. Targeted Advertising
+
+E-commerce platforms use AI to display ads relevant to individual users. These algorithms consider browsing history, demographics, and purchase behavior. While personalized ads can be controversial, they can enhance user engagement and drive sales when done right.
+
+Transforming Industries
+
+1. Finance, Manufacturing, and Logistics
+
+A. Process Automation
+
+AI streamlines repetitive tasks, reducing human error. In the financial, manufacturing, and logistics sectors, AI is revolutionizing processes. From automating financial transactions to optimizing supply chains, AI improves efficiency and accuracy.
+
+B. Fraud Detection
+
+AI algorithms can detect fraudulent activities by analyzing patterns and anomalies in data. This helps protect businesses and individuals from financial losses and identity theft.
+
+2. Education and Learning
+
+A. Personalized Learning
+
+AI-based educational platforms can adapt to individual students' needs, providing personalized learning experiences. These platforms analyze student performance data and offer tailored recommendations and exercises to enhance learning outcomes.
+
+B. Intelligent Tutoring
+
+AI-powered intelligent tutoring systems can provide students with personalized guidance, feedback, and support. These systems adapt to each student's learning pace and style, creating a more effective and engaging learning environment.
+
+In Conclusion
+
+Artificial intelligence is transforming our world in ways we could only dream of in the past. From generative AI and chatbots to medical breakthroughs and industry transformations, the potential of AI is vast. While there are challenges and ethical considerations to address, the benefits of AI are undeniable. As we continue to explore the possibilities, let's embrace the wonders and navigate the challenges of this remarkable technology.",https://imageio.forbes.com/specials-images/imageserve/65ea11353d6585b589312b5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:47:27,Innovation,Innovation
+https://www.zdnet.com/education/professional-development/want-to-be-a-devops-engineer-heres-the-good-the-bad-and-the-ugly/,"Want to be a DevOps engineer? Here's the good, the bad, and the ugly","DevOps engineering is currently one of the most sought-after jobs in today's economy. However, this role requires a combination of technological expertise and business acumen. In addition, staying relevant in this field necessitates a commitment to continuous learning due to the rapid evolution of popular approaches.
+
+The demand for DevOps engineers, who are responsible for automating and coordinating both cloud and on-premises environments to ensure the seamless development and deployment of software, is extremely high. Consequently, these professionals are well-compensated, with an average salary of approximately $134,000 per year in the United States.
+
+While practicing DevOps engineers highlight the joys of their job, they also acknowledge the challenges it presents. For instance, a strong foundational understanding of technology is essential. Brad Morgan, an experienced DevOps engineer, emphasized the importance of learning Linux. Regardless of the specific tasks involved in a modern DevOps role, Linux is a fundamental component. Consequently, having a solid grasp of Linux basics, familiarity with terminal usage and commands, and a comprehensive understanding of how Linux operates are prerequisites for success.
+
+Another critical skill that DevOps engineers must possess is bash scripting, which automates Linux commands. This skill is widely used in the DevOps world, particularly in building pipelines. Therefore, mastering bash scripting is crucial for professionals in this field.
+
+Cloud skills are also highly valued in DevOps engineering. Developing expertise in a popular cloud provider, such as AWS, Google Cloud, or Microsoft Azure, can enhance employability and open doors to new opportunities. Morgan suggests focusing on one cloud vendor at a time, rather than trying to learn multiple platforms simultaneously. Becoming a master of one cloud service makes it easier to acquire knowledge of others in the future.
+
+Becoming a DevOps engineer does not require following a formal learning path. According to Morgan, self-learning is the most effective approach to pursuing a career in this field. The ability to continuously learn, enjoy learning, and constantly challenge oneself are essential qualities for success.
+
+""Homebrew Henry,"" another experienced DevOps engineer, also stresses the importance of continuous learning in this field. The DevOps ecosystem is vast and ever-evolving, with tools and frameworks constantly changing. To keep up with these changes, DevOps engineers must dedicate their free time to studying and expanding their knowledge.
+
+Even with increasing experience, learning never stops for DevOps engineers. In fact, many professionals in this field consider learning to be one of the most enjoyable aspects of their job. As development progresses and AI tools like ChatGPT are introduced, DevOps engineering will evolve significantly in the coming years.
+
+One aspect that distinguishes passionate DevOps engineers from their peers is their enthusiasm for infrastructure management. If managing infrastructure is not appealing to someone, they may struggle in this role. DevOps engineers spend a significant amount of time setting up, configuring, and maintaining cloud infrastructure, including servers, databases, networks, and security. This aspect of the job can be exciting for those who enjoy it, but may not satisfy individuals who prefer software engineering and building customer-facing applications.
+
+However, there is flexibility in transitioning between software engineering and DevOps. Many professionals have successfully made the switch from one field to the other, highlighting the possibility of exploring both areas.
+
+Lastly, it is crucial to consider the business side of DevOps. Unrealistic expectations are often associated with this role, with some businesses hoping that hiring a few engineers will magically solve all their problems. It is important for management to understand that DevOps is not a quick fix, but a long-term commitment that requires the right resources and support.
+
+In conclusion, becoming a successful DevOps engineer requires a combination of technical skills, a commitment to continuous learning, and a passion for infrastructure management. While this field presents challenges, it also offers tremendous opportunities for growth and development. By embracing these challenges and continuously expanding their knowledge, DevOps engineers can thrive in this dynamic and rewarding profession.",https://www.zdnet.com/a/img/resize/e4d3d8d263eb00323161fcf2566ad35a3fe52282/2024/03/25/1b8b924e-2629-43c2-b416-1b990e262786/gettyimages-1319039490.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/,Watch: Why the company behind Trump's Truth Social joined the growing IPO trend,"The recent IPOs of Reddit and Astera Labs generated significant media attention and for good reason. These tech offerings were successful in terms of pricing and trading activity. This is particularly noteworthy considering the scarcity of technology IPOs in recent times. The occurrence of two large-scale, multi-billion dollar offerings in the same week represents a much-needed victory for private-market tech companies. It also brings a sense of relief to the industry as a whole.
+
+However, amidst all the excitement surrounding these IPOs, there was another offering that shouldn't be overlooked. Trump Media and Technology Group, the company responsible for Truth Social, also made its debut last week. Although there were some challenges and negotiations along the way, it ultimately merged with its chosen SPAC (Special Purpose Acquisition Company) and began trading.
+
+From a financial perspective, Trump Media and Technology Group faces an uphill battle. However, the fact that we witnessed two significant IPOs and another public-market transaction in the same week raises the question: is the IPO window reopening?
+
+This resurgence in IPO activity is certainly encouraging for the tech industry. It indicates a renewed interest from investors and a willingness to support tech companies in the public market. The success of Reddit and Astera Labs' IPOs demonstrates that there is appetite for tech offerings, and this sentiment could potentially extend to other companies in the sector.
+
+The reopening of the IPO window also signifies a positive shift in market dynamics. It provides an opportunity for private-market tech companies to access public capital and unlock their true potential. This is crucial for their growth and expansion plans, as well as for the overall advancement of the tech sector.
+
+However, it is important to approach this development with caution. The IPO market can be volatile and unpredictable. While the recent successes are encouraging, they do not guarantee a sustained trend. It is essential for companies considering an IPO to thoroughly evaluate market conditions, investor sentiment, and their own financial stability before making such a significant decision.
+
+Nonetheless, the recent flurry of IPO activity has injected a sense of optimism into the tech industry. It serves as a reminder that despite the challenges and uncertainties of the past few years, there is still tremendous potential for growth and success in the tech sector. The reopening of the IPO window provides a platform for tech companies to showcase their innovations, attract investment, and pave the way for a brighter future.
+
+In conclusion, the recent IPOs of Reddit, Astera Labs, and Trump Media and Technology Group signify a resurgence in tech IPO activity. This is a positive development for the industry and reflects renewed investor interest in supporting tech companies in the public market. While there are financial challenges ahead, the reopening of the IPO window offers an opportunity for private-market tech companies to access public capital and drive their growth. However, caution should be exercised as the IPO market can be unpredictable. Nevertheless, these recent successes inspire optimism and remind us of the immense potential that the tech sector holds.","https://techcrunch.com/wp-content/uploads/2024/03/TechCrunch-Minute-Site-Truth-Social.png?resize=1200,675",2024-03-25 16:00:10,Innovation,Innovation
+https://www.forbes.com/sites/webroot/2024/03/25/9-tips-to-protect-your-family-against-identity-theft-and-credit-and-bank-fraud/,9 Tips To Protect Your Family Against Identity Theft And Credit And Bank Fraud,"Did you know that identity theft affects over nine million Americans every year? Criminals target your personal information stored in various databases, which can lead to devastating consequences such as drained bank accounts and damaged credit. However, there are steps you can take to protect yourself and your family from identity theft and fraud. Let's explore nine essential tips to enable family protection and maintain peace of mind.
+
+1. Safeguard your personal information
+
+Identity theft occurs when criminals gain access to your personal information, including your name, address, date of birth, and social security number. To prevent this, shred any documents containing personal information and avoid sharing it over the phone or via email whenever possible.
+
+2. Use strong and unique passwords
+
+Your online accounts are vulnerable to hackers, so ensure your passwords are strong and unique. Use a combination of uppercase and lowercase letters, numbers, and symbols. Avoid using the same password for multiple accounts, as hackers can exploit a data breach to gain access to various sites. Consider using a password manager to generate and store secure passwords.
+
+3. Regularly monitor your accounts
+
+Stay vigilant by regularly checking your bank and credit card statements for any unauthorized transactions. If you spot any suspicious activity, report it immediately to your bank or credit card company.
+
+4. Beware of phishing scams
+
+Phishing scams are deceptive emails or text messages that appear to be from legitimate sources like your bank or credit card company. They often ask for personal information or contain malicious links. To avoid falling victim, verify the source of any message before clicking on links or providing personal information.
+
+5. Implement two-factor authentication
+
+Enhance the security of your online accounts by enabling two-factor authentication. This requires an additional form of identification, such as a code sent to your phone, in addition to your password. Even if your account information is compromised, unauthorized access is prevented without this secondary identification.
+
+6. Secure your devices and connections
+
+Protect your computers, smartphones, and other devices from hacking or compromise. Ensure your devices have up-to-date antivirus software and are password-protected. Avoid using unsecured public Wi-Fi networks when accessing sensitive information, or consider using a VPN to maintain anonymity.
+
+7. Monitor your credit reports
+
+You are entitled to a free credit report from each of the three major credit bureaus once a year. Regularly review your credit reports to identify any suspicious activity, such as unauthorized accounts or loans. Consider using a reputable credit monitoring service for real-time alerts and additional protection.
+
+8. Stay informed about the latest scams
+
+Criminals are constantly adapting their scam tactics, including utilizing AI-powered techniques. For instance, they can impersonate friends or family members through phone calls or video chats. Stay updated on the latest scam techniques by following reputable cybersecurity experts and news outlets. Be cautious with unsolicited emails and messages, and always verify a person's identity before sharing personal information.
+
+9. Invest in an identity protection package for your family
+
+For comprehensive identity protection, consider investing in a package like Webroot Premium. It offers protection against viruses, malware, scams, and other cyber threats. Additionally, it includes password management to secure your credentials and covers up to 10 family members, including you, your partner, children, and seniors aged 65+.
+
+By following these nine tips, you can significantly reduce the risk of identity theft and credit and bank fraud for you and your family. Stay proactive, stay informed, and stay protected!",https://imageio.forbes.com/specials-images/imageserve/65ea0c800c8aac72387356ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:48:19,Innovation,Innovation
+https://techcrunch.com/2024/03/25/ticktock-5-days-left-to-nest-your-early-bird-savings-for-tc-early-stage/,Ticktock: 5 days left to nest your early-bird savings for TC Early Stage,"Startup entrepreneurs, time is running out! You only have 5 days left to take advantage of the early-bird savings for TechCrunch Early Stage 2024. This is an opportunity you don't want to miss, so make sure to secure your ticket now and save big before it's too late! The savings end on Friday, March 29 at 11:59pm PT.
+
+Now, let's give you a sneak peek of what awaits you at TechCrunch Early Stage. We have an exciting lineup of speakers and sessions that will provide you with valuable insights and knowledge to help you navigate the startup world.
+
+One of the sessions you can look forward to is ""Selecting the Right Accelerator or Incubator"" with Emily Knight, president of the Engine Accelerator. Emily will shed light on how incubators and accelerators play a crucial role in supporting early-stage startups. She will also discuss tailored programs designed to assist founders transitioning from academia and national labs, ensuring a smooth navigation through post-formation challenges.
+
+Another session that you won't want to miss is ""How to Find Product-Market Fit When You Need It Most"" with Jess Lee, partner at Sequoia. Jess, an experienced partner at Sequoia, will delve into the quest for product-market fit and share her insights. With her expertise in building and scaling popular products, as well as her experience in investing in companies like yours that are on the hunt for the ideal fit, you'll gain valuable knowledge on how to find that sweet spot.
+
+If you're interested in learning about crafting the perfect minimum viable product (MVP), then you should attend ""How to Build an MVP and Navigate the Startup-Industrial Complex"" with James Currier, general partner at NFX. James will provide you with valuable insights into striking the right balance between meeting user needs and avoiding the temptation of excessive features and polish in the startup-industrial complex.
+
+These are just a few examples of the enlightening sessions that await you at TechCrunch Early Stage 2024. Don't miss out on this incredible opportunity to learn from industry experts and position yourself for startup success. Secure your early-bird ticket today!
+
+If your company is interested in sponsoring or exhibiting at TechCrunch Early Stage 2024, we would love to hear from you. Reach out to our sponsorship sales team by completing this form. We look forward to partnering with you and making this event a huge success!
+
+Remember, the clock is ticking. Don't let this chance slip away. Get your ticket now and join us at TechCrunch Early Stage 2024!",https://techcrunch.com/wp-content/uploads/2024/02/5DaysLeft_EarlyStage24_1200x628.png?w=1200,2024-03-25 13:00:22,Innovation,Innovation
+https://www.forbes.com/sites/jeffkauflin/2024/03/25/amid-fintech-slowdown-goldman-sachs-backed-startup-considers-sale-sources-say/,"Amid Fintech Slowdown, Goldman Sachs-Backed Startup Considers Sale","Deserve, a Silicon Valley startup that assists other companies in launching and managing credit cards, is facing challenges due to a slowdown in business and a dry funding market. The company, founded 10 years ago and valued at $500 million in 2021, is backed by notable investors such as Goldman Sachs, Visa, Mastercard, and Accel. However, Deserve has been in talks with investment bankers about selling itself, as it grapples with the impact of the crypto industry's turmoil.
+
+Deserve has raised $150 million in equity funding since its inception in 2013 but has yet to achieve profitability. According to insiders, the company burned through approximately $15 million to $20 million in 2023. Deserve's founder and CEO, Kalpesh Kapadia, remains optimistic about the company's future, expecting strong growth in the coming year. Despite the challenges, he believes that Deserve's partnerships, investments, and mergers and acquisitions discussions will position the company for success.
+
+Industry experts predict that if Deserve were to be sold, it would likely fetch less than its peak valuation in 2021. This is due to the general decline in fintech valuations and Deserve's unique setback. In 2021, the company aimed to collaborate with crypto lenders to issue credit cards. Unfortunately, its largest customer, crypto lender BlockFi, went bankrupt, impacting Deserve's business.
+
+Kalpesh Kapadia, originally from India, came to the United States in the mid-1990s for further studies. With a master's degree in industrial engineering and an MBA, he worked in finance for 15 years before founding Deserve. Initially, the company focused on providing consumer credit cards to underserved populations such as immigrants and students. However, breaking into the consumer lending market proved challenging and capital-intensive. In 2018, Deserve pivoted its business model after Sallie Mae, a student loan bank, approached them with an interest in launching their own credit card. Deserve saw this as an opportunity to help other companies launch credit cards, and Sallie Mae became their first customer.
+
+Deserve's role in the credit card launch process is comprehensive, handling tasks such as assessing borrower risk, processing transactions, and managing customer service. While the company shifted its focus, it continued to operate its original consumer card business, collecting fees and interest income but refraining from acquiring new customers.
+
+In March 2021, Kapadia mentioned that Deserve had more business than it could handle, with numerous bitcoin companies interested in credit cards. Deserve subsequently collaborated with BlockFi to launch a rewards card, becoming their largest customer. However, BlockFi's subsequent collapse and bankruptcy in November 2022 severely impacted Deserve's revenue.
+
+Aside from the challenges posed by the crypto industry's instability, Deserve faced another hurdle as interest rates rose and the startup funding market became stagnant. Several fintech customers, including GloriFi, struggled to survive, affecting Deserve's business. Despite these obstacles, Deserve currently has 15 customers, half of which are fintech companies like M1, while the other half are banks.
+
+Competition in the tech-enabled credit card issuing space has intensified over the past year. Marqeta, a publicly traded payments company, announced its acquisition of Power Finance, an early-stage credit card issuer, in January 2023. This indicates the growing competition that Deserve must navigate.
+
+In conclusion, Deserve, a startup specializing in assisting companies with credit card launches, is facing challenges due to a slowdown in business and a challenging funding market. Despite these obstacles, Deserve remains optimistic about its future and continues to explore strategic discussions surrounding partnerships, investments, and mergers and acquisitions. The company's founder, Kalpesh Kapadia, believes that Deserve's strong growth potential and its solid customer base will position it for success. However, it is essential for Deserve to navigate the impact of the crypto industry's turmoil and the increasing competition in the credit card issuing space.",https://imageio.forbes.com/specials-images/imageserve/6600d053afe6bed0f9b925c9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:57:06,Innovation,Innovation
+https://www.forbes.com/sites/talpatalon/2024/03/25/former-director-of-mossad-cohen-talks-trust-and-softbanks-investments/,Former Director Of Mossad Cohen Talks Trust And SoftBank’s Investments,"Title: The Art of Building Trust: Insights from Former Mossad Chief Yossi Cohen
+
+Introduction:
+In the world of espionage, trust is not just a concept but a critical tool for survival. Former head of Israel's Intelligence Agency, Yossi Cohen, shares his insights on the art of building trust and knowing when to break it. As an ordinary person, trust may be seen as a genuine and unbreakable connection, but for Cohen, it is a technique that can be mastered. In this article, we delve into Cohen's perspective on trust and its significance in his current role as the head of SoftBank Investment Advisers' activities in Israel.
+
+Building Trust: A Skill to Master:
+Cohen emphasizes that trust is not something you can act out; it must be genuine and reliable. To illustrate this point, he offers an example of how he would establish trust with someone even before meeting them. By leveraging information and orchestrating chance encounters, Cohen aims to create an initial connection that goes beyond mere technique. His personality and judgment are what truly make the difference.
+
+Cohen's Role at SoftBank Investment Advisers:
+Having joined SoftBank in 2021, Cohen aims to bridge the gap between the ""start-up nation"" of Israel and the tech-oriented investment group. His extensive regional connections are expected to support SoftBank's presence in the Middle East. Since his arrival, the company has made significant investments in IoT security company Claroty and SASE cybersecurity company Cato Networks. Cohen reveals that they are currently finalizing another substantial investment in Israel, with AI infrastructure and its application in various sectors as promising avenues.
+
+Israel's Resilient Economy and AI Focus:
+Cohen acknowledges that Israel's economy has proven to be highly stable, even in times of crises and economic downturns. Moody's recent credit rating cut and a reported decline in Angel investments have not shaken his confidence in Israel's economic landscape. The country's diverse makeup, opinionated nature, and survivor-mentality have contributed to its thriving start-up ecosystem, particularly in emerging technologies such as AI, cybersecurity, and HealthTech.
+
+SoftBank's AI-Driven Vision:
+SoftBank's return to profitability after five quarters can be attributed, in part, to its investments in AI-supporting technologies like chip design company Arm. Masayoshi Son, the visionary behind SoftBank, has shown a keen interest in investing in AI-based systems. One recent highlight includes an investment in nuclear fusion startup Blue Laser Fusion, led by Japanese Nobel prize winner Shuji Nakamura. This investment aligns with the growing power demands of AI-based technologies and aims to provide clean energy solutions.
+
+SoftBank's Conviction in Israel's Tech Innovation:
+Brett Rochkind, Managing Partner for SoftBank Investment Advisers, praises the resilience and technical skills of the Israeli market and SoftBank's portfolio. Israel's entrepreneurial spirit, coupled with its world-class research institutions and the IDF's training, positions it at the forefront of technology innovation. SoftBank remains committed to investing in generationally defining companies that emerge from Israel's thriving ecosystem.
+
+Conclusion:
+Trust is not just a fleeting façade but a powerful tool in the world of espionage. Yossi Cohen's expertise in building trust has made him a valuable asset to SoftBank Investment Advisers. Israel's stable economy, thriving start-up ecosystem, and focus on AI technologies have caught the attention of SoftBank and its visionary leader, Masayoshi Son. As SoftBank continues to invest in Israel's tech innovation, the partnership between Cohen and SoftBank promises to open doors to new opportunities and groundbreaking advancements in the world of technology.",https://imageio.forbes.com/specials-images/imageserve/6601629a82438fed58969753/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:36:17,Innovation,Innovation
+https://techxplore.com/news/2024-03-large-language-simple-mechanism-knowledge.html,Large language models use a surprisingly simple mechanism to retrieve some stored knowledge,"Large language models (LLMs) are complex tools that are used in various fields such as customer support, code generation, and language translation. Despite their widespread use, scientists still have limited understanding of how these models actually work. To gain insight into their inner workings, researchers from MIT and other institutions conducted a study on how these models retrieve and decode stored knowledge.
+
+The study revealed an interesting finding: LLMs often use a simple linear function to recover and decode information. Linear functions are basic equations with two variables and no exponents, representing a straightforward relationship between the variables. What's more, the models use the same decoding function for similar types of facts. By identifying these linear functions for different facts, the researchers were able to examine the model's knowledge on new subjects and determine where that knowledge is stored within the model.
+
+Using a technique they developed, the researchers found that even when a model provides an incorrect answer, it often has the correct information stored. This approach could be used in the future to identify and correct falsehoods within the model, reducing the occurrence of incorrect or nonsensical answers.
+
+Evan Hernandez, an electrical engineering and computer science graduate student at MIT and co-lead author of the study, explains that despite the complexity of these models, there are sometimes simple mechanisms at work inside them. This discovery sheds light on the inner workings of LLMs and provides a potential avenue for improving their accuracy.
+
+The study was conducted by Hernandez, Arnab Sharma (a computer science graduate student at Northeastern University), Jacob Andreas (an associate professor in EECS at MIT), David Bau (an assistant professor of computer science at Northeastern), and other researchers from MIT, Harvard University, and the Israeli Institute of Technology. The findings will be presented at the International Conference on Learning Representations in May.
+
+LLMs, also known as transformer models, are neural networks that consist of interconnected nodes or neurons. These networks encode and process data, and much of the knowledge stored in a transformer model can be represented as relations connecting subjects and objects. For example, the relation ""Miles Davis plays the trumpet"" connects the subject (Miles Davis) to the object (trumpet).
+
+As a transformer model acquires more knowledge, it stores additional facts about a particular subject across multiple layers. When a user poses a query about that subject, the model must decode the most relevant fact to formulate a response. The researchers aimed to understand the mechanism by which the model retrieves and uses this information.
+
+Through a series of experiments, the researchers discovered that despite their complexity, LLMs decode relational information using a simple linear function. Each decoding function is specific to the type of fact being retrieved. For example, one function is used to output the instrument a person plays, while another function is used to output the state where a person was born.
+
+To estimate these linear functions, the researchers developed a method and computed functions for 47 different relations, such as ""capital city of a country"" and ""lead singer of a band."" While there are countless possible relations, the researchers focused on this subset because they represent the types of facts that can be expressed in this manner.
+
+Each function was tested by altering the subject to determine if it could successfully retrieve the correct object information. The findings demonstrate that LLMs have a systematic way of decoding information using linear functions, providing valuable insights into their functioning.
+
+This study contributes to our understanding of large language models and their underlying mechanisms. By uncovering the use of linear functions in retrieving and decoding knowledge, researchers can not only gain insights into the models' functioning but also potentially improve their accuracy by correcting false information. Further research and exploration in this area could lead to advancements in the field of natural language processing and artificial intelligence as a whole.",https://scx2.b-cdn.net/gfx/news/hires/2024/large-language-models-2.jpg,2024-03-25 09:34:06,Innovation,Innovation
+https://techcrunch.com/2024/03/25/fisker-nissan-deal-dead-funding-bankruptcy/,"Fisker loses potential Nissan deal, putting rescue funds at risk","The negotiations between Fisker and a large automaker have come to an end, putting the company's near-term rescue funding effort at risk. Fisker announced in a regulatory filing that the automaker terminated the negotiations on March 22, without providing an explanation. However, Fisker had to continue the negotiations as part of the closing conditions for a potential $150 million convertible note. In response to the termination, Fisker plans to ask the investor to waive the closing condition.
+
+Following the news, Fisker's stock plummeted by 28% and trading was halted. This is just the latest setback for the electric vehicle startup, which has been struggling to sell its Ocean SUV and has faced various quality issues with its delivered cars. Fisker has also had financial difficulties, having laid off 15% of its staff and reporting a cash balance of only $121 million. The company has paused production and warned investors that it would not survive the year without additional funding.
+
+While the negotiations with Nissan have ended, Fisker is now exploring other options. The company is evaluating ""strategic alternatives,"" including potential tie-ups with other automakers or exploring court restructurings, capital market transactions, debt refinancings, equity issuances, asset sales, and other measures.
+
+This recent development is a blow to Fisker's efforts to secure funding and collaborate with a large automaker. However, the company remains determined to find a solution and is actively exploring other possibilities. Fisker understands the importance of securing additional funding to continue its operations and is willing to explore all available avenues to achieve this.
+
+The termination of the negotiations with Nissan serves as a reminder of the challenges facing Fisker and the competitive nature of the electric vehicle market. Despite the setbacks, Fisker remains committed to its mission of producing sustainable and high-performance electric vehicles. The company believes in the potential of the electric vehicle industry and is confident that it can overcome these obstacles to achieve long-term success.
+
+In conclusion, Fisker's negotiations with a large automaker have been terminated, posing a threat to its near-term rescue funding effort. The company is now exploring other options and evaluating various strategic alternatives. While this setback is significant, Fisker remains determined to find a solution and continue its mission of producing sustainable electric vehicles. The company understands the challenges it faces and is willing to explore all possibilities to secure the necessary funding for its operations.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-25 13:52:11,Innovation,Innovation
+https://techcrunch.com/2024/03/25/match-board-directors-after-talks-activist-investor-elliott-management/,Match appoints two board directors after talks with activist investor Elliott Management,"Tinder-owner Match Group has recently made significant changes to its board of directors and entered into an agreement with activist investor Elliott Management. The company has appointed Laura Jones, Chief Marketing Officer at Instacart, and Spencer Rascoff, co-founder of Zillow, to its board. These appointments come after a period of ""constructive dialogue"" with Elliott Management, which has acquired a substantial stake in Match Group.
+
+Elliott Management, known for its involvement in the tech industry, has a reputation for pushing for changes within companies. The firm's interest in Match Group arises from concerns about the company's declining number of paying users and the economic uncertainty surrounding the online dating industry. In response to the news, Marc Steinberg, a partner at Elliott, expressed confidence in Match Group's potential for value creation and praised the collaboration with management and the board.
+
+Match Group, the parent company of popular dating apps such as Tinder, Hinge, Match.com, OkCupid, and more, has experienced a decline in its number of paid users. In the fourth quarter of 2023, the company saw a 5% decrease in total paid users compared to the previous year, with a current user base of 15.2 million. This decline in growth is a departure from the company's performance during the height of the COVID-19 pandemic, and has resulted in a significant drop in the company's stock value.
+
+The addition of Laura Jones and Spencer Rascoff to Match Group's board of directors is expected to bring fresh perspectives and skills to the company as it navigates its next phase of growth. The expertise of these new board members, combined with the knowledge and experience of the existing board, will be crucial in addressing the challenges faced by Match Group and finding innovative solutions.
+
+It is clear that Match Group is taking proactive steps to address its current performance and position itself for future success. By engaging in a dialogue with Elliott Management and making changes to its board, the company is demonstrating its commitment to delivering value to its shareholders and users. As the online dating industry continues to evolve and adapt to changing consumer preferences, Match Group is poised to leverage its position as a global leader in the market and capitalize on new opportunities for growth.
+
+In conclusion, Match Group's recent board appointments and agreement with Elliott Management highlight the company's dedication to improving its performance and addressing the challenges it faces. With Laura Jones and Spencer Rascoff joining the board, Match Group has strengthened its leadership team and is well-positioned to navigate the evolving online dating landscape. As the company continues to invest in innovation and adapt to changing market dynamics, it is poised for future success in the industry.",https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1241790742.jpeg?w=1024,2024-03-25 14:15:04,Innovation,Innovation
+https://www.zdnet.com/article/why-i-run-with-these-80-earbuds-instead-of-bone-conduction-headphones/,Why I run with these $80 earbuds instead of bone-conduction headphones,"The Edifier Comfo Run wireless sports headphones are a great option for those who want to enjoy music while staying aware of their surroundings. Unlike bone conduction headsets, these headphones have a traditional open-ear design with speakers directed towards your ears. Priced at just $80, they offer a comfortable fit, IP55 dust/water resistance, and 17 hours of listening time.
+
+While I still use earbuds with active noise cancellation for airplane travel and office work, I prefer open ear headsets for running and biking. Bone conduction technology doesn't bother me, but most bone conduction headsets are quite expensive, ranging from $150 to $250. That's why I was excited to try out the Edifier Comfo Run, an affordable alternative.
+
+The Edifier Comfo Run is made of soft silicone material and features a neckband that applies minimal force to the back of your neck. It fits comfortably over your ears and stays securely in place during workouts. I even tested it with sunglasses on and found that it remained secure. With an IP55 dust and splash resistance rating, you can confidently exercise outdoors without worrying about damage.
+
+One standout feature of the Edifier Comfo Run is its audio performance. Despite not using bone conduction technology, the headset delivers great sound quality thanks to its 16.2mm dynamic drivers. The large speaker grills ensure excellent audio volume, and if you prefer more bass, you can adjust it using the Edifier ConneX smartphone app.
+
+Speaking of the app, it offers additional functionality such as a pedometer. However, it doesn't integrate with popular fitness tracking platforms like Apple Health or Google Fit. So, if you're looking for step counting capabilities, the app might be limited for you. On the bright side, you can use the app to manage firmware updates for the headset.
+
+One major advantage of open ear headsets like the Edifier Comfo Run is their longer battery life compared to earbuds. This headset can provide up to 17 hours of playtime, which is impressive. It also charges quickly via USB cable and magnetic connector. Just 15 minutes of charging can give you up to five hours of playback.
+
+While phone calls aren't the main focus of these workout-oriented headsets, the Edifier Comfo Run performs well in that regard. It features two mics and beamforming algorithms that deliver clear call quality. Additionally, you can use the mics to activate your phone or watch voice assistant, which comes in handy when you're on the move.
+
+The controls on the Edifier Comfo Run are conveniently positioned on the top of the right side, behind your ear. The buttons allow you to control volume, power, phone calls, and your voice assistant. The center button serves as the primary controller, offering various functions with different press patterns. It may take some time to get used to all the functions, so I recommend referring to the user manual for detailed instructions.
+
+As someone who has been using bone conduction headphones for exercise, I must say that these affordable open ear options have won me over. The Edifier Comfo Run has everything I need in a headset, including long battery life and reliable Bluetooth performance. It's a great choice for those who want a durable and comfortable headset that can keep up with their workouts.
+
+In conclusion, if you're in the market for workout headphones and don't want to break the bank, the Edifier Comfo Run is a fantastic option. Priced at $80, it offers a secure fit, long battery life, and excellent sound quality. Whether you're tired of losing earbuds, prefer open ear designs, or need headphones that can withstand your intense workouts, the Edifier Comfo Run has you covered. Give them a try and enjoy your music while staying aware of your surroundings.",https://www.zdnet.com/a/img/resize/6cf4b19560d94152238ffc42101aee77a4eea4b4/2024/03/24/1b5e254a-dcc4-434c-8f77-9fff5392c3a8/edifier-comfo-run5.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-24 00:00:00,Innovation,Innovation
+https://www.forbes.com/sites/adrianbridgwater/2024/03/25/the-ever-changing-face-of-software-modernization/,The Ever Changing Face Of Software Modernization,"GIZA, EGYPT-OCTOBER 27: Visitors pose by the ""Orb: Under the same Sun"" installation by Madrid-based international artist SpY at the Giza pyramids necropolis during the second edition of the Art D’Égypte exhibition ""Forever is Now"" on October 27, 2022 in Giza, Egypt. 'Art D’Egypte', the organizers of the second large-scale sculptures and installations show invited twelve international contemporary artists to take part in the exhibition 'Forever is Now' at the Giza Pyramids and the surrounding Giza Plateau. (Photo by Fadel Dawod/Getty Images) Getty Images
+
+Software is going through a transformation, known as digital transformation, where cloud-native infrastructures are increasingly being used to power always-on applications for both enterprise and consumer use, including gaming.
+
+The challenge with software modernization is that it always wants to be up-to-date. What was considered modern last year may not be modern this year, and what is modern today may be outdated next year. Although things don't usually change that fast, the rise of generative Artificial Intelligence (AI) last year was indeed meteoric.
+
+To identify the next major tech trends, the IT industry conducts reports, surveys, and analysis initiatives to provide quantifiers, qualifiers, and identifiers that help us understand IT change. Red Hat's recent 'State of Application Modernization Report,' in collaboration with research firm Illuminas, highlights new movements. While enterprise application containers were considered the trend last year, this analysis suggests that Continuous Integration & Continuous Delivery (CI/CD) pipelines have taken the lead in defining software modernization. However, next year, containers may regain their popularity along with generative AI.
+
+Nutanix, a multi-cloud platform company, is also keen on staying ahead of the software modernization agenda. Their sixth global Enterprise Cloud Index (ECI) survey and research report, which measures enterprise cloud adoption, reveals an increasing adoption of hybrid multi-cloud models. These models combine private on-premises clouds with public cloud services from different Cloud Services Providers (CSPs) and are expected to double in the next one to three years.
+
+Hybrid multi-cloud refers to a combination of private on-premises clouds, public cloud services, and services that span both worlds. It also includes multi-cloud, where services come from multiple CSPs, based on factors like price, data governance, and technical considerations. Additionally, there's poly-cloud, where a monolithic application distributes its workloads across different clouds. Regardless of the specific definition used, these cloud formats represent software modernization, driven by factors such as AI, security, and sustainability.
+
+As organizations navigate the complexities of moving applications and data across environments, the Nutanix report emphasizes the use of hybrid multi-cloud infrastructure. It highlights security and innovation as the top drivers for moving applications between environments in the past year. With AI becoming increasingly important for businesses, respondents identified investing in AI strategy as their top priority, followed closely by IT modernization.
+
+Lee Caswell, Senior VP for Product & Solutions Marketing at Nutanix, emphasizes the growing pressure on IT organizations to modernize their infrastructure quickly due to factors like AI, sustainability, and security. According to the report, 80% of survey respondents plan to invest in IT modernization, with 85% planning to increase their investments in this area.
+
+In conclusion, the software industry is constantly evolving, and organizations are under pressure to keep up with the latest trends and technologies. Hybrid multi-cloud models and AI are at the forefront of software modernization efforts, driven by the need for security, innovation, and IT modernization. As we look to the future, containers and generative AI are expected to play significant roles in shaping the software landscape.",https://imageio.forbes.com/specials-images/imageserve/660181597188fb59284d9023/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 10:28:24,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","The European Union has announced a series of investigations on Big Tech companies, including Alphabet/Google, Apple, and Meta. These probes are being conducted under the Digital Markets Act (DMA), which aims to promote fair competition in the digital market. The investigations will focus on various aspects of the companies' operations, such as Google's rules on steering in Google Play and self-preferencing in search results, Apple's rules on steering in the App Store, and Meta's ""pay or consent"" model. 
+
+Five investigations were announced on Monday, less than three weeks after the compliance deadline for the companies. The three gatekeepers, designated under the pan-EU market power and contestability regulation, are facing formal investigations to determine whether they are breaching the DMA. Violations of the DMA can result in fines of up to 10% of global annual turnover, or even 20% for repeat offenses. The EU will have up to 12 months to conclude the investigations, although the probes may conclude sooner or take longer than these guidelines.
+
+This enforcement action by the EU comes as antitrust scrutiny on these three US firms continues to increase in their home country as well. Criticism has been raised against Google, accusing the company of trying to avoid the regulation's ban on self-preferencing. Apple has faced criticism for its use of notifications to warn users of risks outside its ecosystem, while Meta's ""pay or be tracked"" tactic has been condemned by privacy and consumer rights groups.
+
+The European Commission is concerned about various aspects of the companies' compliance with the DMA. In the case of Alphabet/Google, the investigation will focus on its vertical search services and the impact its actions may have on rival services. The Commission is concerned that Alphabet's measures may not ensure fair treatment of third-party services on Google's search results page. 
+
+For Apple, the EU will examine whether the company is complying with user choice obligations on iOS, including uninstalling apps, changing default settings, and prompt users with choice screens. The Commission is concerned that Apple's measures, including the design of the web browser choice screen, may prevent users from exercising their choice of services within the Apple ecosystem.
+
+Regarding Meta, the EU will investigate its ""pay or consent"" model for EU users. The Commission is concerned that this model may not provide a real alternative for users who do not consent, thereby not achieving the objective of preventing the accumulation of personal data by gatekeepers.
+
+These investigations are part of the EU's efforts to ensure fair competition in the digital market and protect consumers' interests. The DMA aims to create a level playing field for all market players and prevent the abuse of market power by gatekeepers. The investigations will shed light on whether these Big Tech companies are complying with the regulations and taking the necessary steps to promote fair competition and protect user rights.
+
+In conclusion, the EU's announcement of investigations on Big Tech companies under the DMA highlights the ongoing efforts to regulate the digital market and promote fair competition. These investigations will examine various aspects of the companies' operations and determine whether they are complying with the regulations. It remains to be seen how these investigations will unfold and what impact they will have on the digital market.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://techcrunch.com/2024/03/25/gostudent-tutoring-profitability/,"GoStudent, the online learning platform, says it's now profitable","GoStudent, a prominent online tutoring marketplace based in Vienna, Austria, has achieved profitability, marking a significant milestone for the company. Founded in 2016 by Felix Ohswald and Gregor Müller, GoStudent boasts a user base of 11 million families and 23,000 tutors. It is one of the few Austrian startups to have gained international recognition, alongside Bitpanda and Runtastic.
+
+Despite its recent success, GoStudent faced challenges along the way. The online learning market experienced a crash, resulting in a decline in customer demand. In 2021, GoStudent incurred a loss of €89 million, which escalated to €220 million in 2022. This led to layoffs and cost-cutting measures. However, the company managed to turn things around by implementing strategic changes.
+
+Ohswald described the period of rapid expansion as ""crazy"" hyperscaling. Within a span of just two years, GoStudent grew its revenue from zero to over €100 million. However, this growth came at a cost, with a cash burn of over €150 million in 2022 alone. As the market conditions changed, GoStudent realized it needed to reevaluate its approach.
+
+In 2023, the company reduced its burn rate by 70%, but it was still insufficient. GoStudent made tough decisions, including layoffs and a shift in focus. It recognized the need to scale more carefully and prioritize key areas for growth. The company's success can be attributed to the surge in demand for online education during the COVID-19 pandemic.
+
+To achieve profitability, GoStudent made several adjustments. It cut down on extravagant expenses, paused acquisitions, and refrained from entering new markets where online tutoring was not well-established. It also exited the highly competitive U.S. market and shifted its focus to Europe. GoStudent now aims to adopt a more organic growth strategy, with a renewed emphasis on bottom-line growth.
+
+While GoStudent's primary focus has been on tutoring, its acquisition of StudienKreis in 2022 indicates a shift toward a more comprehensive approach to education. StudienKreis, founded in 1974, operates physical learning centers in Germany. GoStudent plans to leverage these centers to offer hybrid learning, combining online and offline resources.
+
+Ohswald believes that the future of education lies in hybrid models, and GoStudent aims to become a global leader in personalized tutoring. The company's platform matches students with suitable tutors, regardless of their location. Most of GoStudent's tutors are university students, making it easier for them to connect with pupils while providing quality education.
+
+Moving forward, GoStudent faces the challenge of balancing growth and cost optimization. It strives to fulfill its mission of unlocking the potential of every student through personalized tutoring while keeping expenses in check. By leveraging technology and a hybrid learning approach, GoStudent aims to revolutionize the education sector and make quality tutoring accessible to students worldwide.
+
+In conclusion, GoStudent's journey to profitability showcases the company's resilience and adaptability. Despite initial setbacks, it has emerged as a key player in the online tutoring market. With a renewed focus on Europe and a commitment to personalized education, GoStudent is poised for further growth and success in the years to come.",https://techcrunch.com/wp-content/uploads/2024/03/Founders-of-GoStudent-Gregor-Muller-I-Felix-Ohswald-2.jpg?w=1024,2024-03-25 11:00:36,Innovation,Innovation
+https://www.forbes.com/sites/daphneewingchow/2024/03/25/game-changing-campaign-could-improve-food-security-for-africa/,‘Game Changing’ Campaign Could Improve Food Security For Africa,"As the world grapples with the complexities of food security in an ever-changing climate, the focus has shifted from calories alone to nutrition and food pathways. This shift in perspective is particularly relevant to Africa, a continent with immense potential for a resilient and nourishing food future.
+
+Traditionally, the global development sector has focused on ensuring that people have enough food. However, Dr. Cary Fowler, U.S. Special Envoy for Global Food Security, emphasizes that the challenge goes beyond filling people's bellies. It's about providing good nutrition and building a food system that is based on nutrition. This requires understanding the kind of agricultural system needed to accomplish that goal.
+
+In line with this approach, the Vision for Adapted Crops and Soils (VACS) campaign, led by the United States Department of State (USDoS), the African Union (AU), and the Food and Agriculture Organization of the UN (FAO), has uncovered the hidden treasures of Africa's agricultural landscape. Through two reports, VACS aims to identify and promote climate-resilient crops that meet various criteria, including cultural relevance, climate resilience, and nutrition. This initiative has the potential to revolutionize food systems from their core.
+
+According to Dr. Fowler, this is the first time anyone has undertaken such an endeavor. VACS has analyzed essential crops for their nutritional value and their ability to withstand climate change. This comprehensive approach, combined with a collaborative and culturally sensitive focus, sets VACS apart from traditional food security campaigns.
+
+VACS deviates from the usual intervention strategies that prioritize calorie-dense staples like maize, potatoes, and rice. Instead, it embraces an ""indicative list"" of indigenous crops that have the potential for productivity, nutrition, and cultural significance. This shortlist includes crops such as fonio, pearl millet, pigeon peas, taro, yams, and lablab.
+
+The selection of these ""opportunity crops"" was a result of a multidisciplinary approach involving plant breeders, nutritionists, and climate scientists. Each crop was profiled based on six broad criteria and 24 more specific criteria related to climate resilience, nutritional value, cultural significance, geographic applicability, business potential, and environmental benefits.
+
+In the face of challenges like climate variability and infrastructural barriers, VACS offers hope and direction. It showcases the power of collective action and shared purpose in shaping a nourished, resilient, and prosperous future for Africa and beyond. As Dr. Fowler puts it, ""It is an all-hands-on-deck moment."" The time for transformation is now, and VACS is leading the charge towards a brighter tomorrow—one seed, one harvest, one meal at a time, starting with the African continent.
+
+Africa bears the heaviest burden when it comes to global food insecurity and climate crises. Relentless floods and prolonged droughts devastate farmlands, leaving millions across sub-Saharan Africa without vital nourishment. Women and children are among the most vulnerable, with over 80% of people in Sub-Saharan Africa suffering from iron deficiency.
+
+The VACS initiative recognizes the urgency of addressing these challenges. By focusing on climate-resilient crops that are culturally relevant and nutritionally rich, VACS aims to provide sustainable solutions for food security. This initiative brings together stakeholders from different sectors to work towards a more resilient and nourished future for Africa and its people.
+
+In conclusion, VACS represents a transformative approach to food security in Africa. By prioritizing nutrition, climate resilience, and cultural relevance, VACS has the potential to revolutionize food systems and pave the way for a brighter future. With collective action and shared purpose, we can build a more nourished, resilient, and prosperous Africa—one crop, one harvest, one meal at a time. The time for transformation is now, and VACS is leading the way.","https://imageio.forbes.com/specials-images/imageserve/66019249d6958363c6c73ff4/0x0.jpg?format=jpg&crop=3000,1688,x0,y110,safe&height=900&width=1600&fit=bounds",2024-03-25 11:03:56,Innovation,Innovation
+https://www.forbes.com/sites/angelicamarideoliveira/2024/03/25/felipe-meneses-is-the-first-brazilian-thiel-fellow/,Felipe Meneses Is The First Brazilian Thiel Fellow,"Felipe Meneses, a Brazilian tech entrepreneur, has made history by becoming the first Latin Thiel Fellow in 2024. The Thiel Fellowship, established by billionaire Peter Thiel in 2011, offers $100,000 to individuals who choose to forgo college and start their own companies.
+
+Meneses, a 23-year-old from Sergipe, a northeastern state in Brazil, made the bold decision to leave his undergraduate studies at Stanford University. Now, he has been selected to participate in the two-year acceleration program. He expressed his gratitude for this exceptional opportunity.
+
+In 2022, Meneses teamed up with Felipe Lamounier, Daniel Silva, and Rohan Ramanath to co-found Hyperplane, a data intelligence firm that leverages artificial intelligence (AI) to assist banks in utilizing their data for enhancing customer experiences through hyper-personalization. Although Hyperplane is headquartered in Silicon Valley, it originated in Brazil and has secured contracts with 12 of the country's major financial institutions.
+
+Hyperplane has garnered significant investments, amounting to 30 million reais ($6 million), from esteemed backers such as Lachy Groom, SV Angel, Clocktower Technology Ventures, Liquid2 Ventures, Soma Capital, Latitud, Atman Capital, Crestone VC, and Norte. Additionally, the company has been chosen to participate in Endeavor's Scale-UP acceleration program in the first half of 2024.
+
+Meneses stands out as the sole Latin American founder to be included in this year's Thiel Fellowship. Notably, in 2023, there were no entrepreneurs from the region on the list either.
+
+However, Latin names were featured in the 2022 roster of Thiel Fellows. Among them was Ian Lee, the founder of Examedi, a healthtech company based in Chile. Examedi enables patients to access healthcare services by connecting them with available healthcare providers. Another Latin entrepreneur from the 2022 cohort is Tamara Chaya Romo, a Mexican leading MEDU, a company focused on developing reusable personal protective equipment.
+
+It is clear that the Thiel Fellowship continues to attract innovative minds from all around the world, including Latin America. Felipe Meneses's inclusion in the program serves as an inspiration for aspiring entrepreneurs in the region who are eager to make a mark in the tech industry. With Hyperplane's success and Meneses's achievements, it is evident that the future holds great promise for Latin American entrepreneurs in the world of technology.",https://imageio.forbes.com/specials-images/imageserve/66019447ce2364c0c92ae041/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:13:47,Innovation,Innovation
