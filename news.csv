@@ -1,0 +1,419 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://www.forbes.com/sites/webroot/2024/03/25/the-marvels-and-challenges-of-ai/,The Marvels And Challenges Of AI,"Let's dive into the captivating world of Artificial Intelligence (AI), exploring its concepts, implications, and real-world applications. Get ready for an exciting journey through the wonders and challenges of AI.
+
+Part 1: Unleashing Wonders in Our Digital Lives
+
+Generative AI and Chatbots
+
+AI has evolved from its science fiction origins to become an integral part of our daily lives. Let's delve into both the positive and negative aspects of this transformative force.
+
+1. Generative AI: Fueling Creativity
+
+Generative AI is a branch of AI that enables machines to create content that resembles human work. These models learn patterns from massive amounts of data and generate new, unique content.
+
+Here are some ways generative AI is shaping our world:
+
+A. Text Generation
+
+Generative models like OpenAI's GPT-3 have gained attention with their creative abilities. Imagine an AI poet composing thought-provoking verses or an AI author writing entire novels. These algorithms analyze existing text and generate coherent, context-aware responses. From automated customer service chats to personalized email drafts, generative text models enhance efficiency and convenience.
+
+B. Art and Music Creation
+
+Beyond text, generative AI ventures into the realms of art and music. AI artists create digital works that mimic famous styles or invent entirely new ones. Music composition algorithms generate enchanting melodies, experimenting with genres and instruments. The fusion of human creativity and machine learning opens up unexplored creative territories.
+
+2. Chatbots: Your Digital Companions
+
+Chatbots, like the renowned ChatGPT, engage in natural conversations with users. They go beyond simple question-answer systems by understanding context, learning from interactions, and adapting their responses.
+
+Here's how chatbots are transforming our lives:
+
+A. Virtual Assistants
+
+Chatbots act as tireless virtual assistants, handling tasks like setting reminders, booking appointments, and providing weather updates. They're available 24/7, ensuring productivity and convenience.
+
+B. Customer Support
+
+In the business world, chatbots assist customers round the clock. They resolve queries, guide users through troubleshooting steps, and even process transactions. Their efficiency reduces wait times and improves customer satisfaction.
+
+C. Virtual Partners / AI Romance
+
+AI has evolved beyond the swipe-right-left paradigm of modern dating apps and has even surpassed the human-machine relationship depicted in the movie ""Her"" (2013). Inspired by chatbots like Apple's Siri or Google's Alexa, Scarlett Johansson's character interacts with Joaquim Phoenix's character in ways that were previously unimaginable.
+
+D. Content Creation
+
+Chatbots can compose emails, articles, and reports. Imagine a chatbot helping you draft an important client email or summarizing a lengthy document. As they learn from user interactions, their writing style adapts, making them valuable co-authors.
+
+Medical Breakthroughs and Personalization
+
+1. AI in Healthcare
+
+A. Diagnosis and Prediction
+
+AI analyzes medical data, aiding in disease diagnosis and predicting patient outcomes. Imagine an AI-powered system detecting early signs of cancer or suggesting personalized treatment plans based on genetic profiles. Precision medicine becomes a reality, optimizing recovery and minimizing side effects.
+
+B. Drug Discovery
+
+AI accelerates drug discovery by sifting through vast chemical databases. It identifies potential candidates, predicts their efficacy, and expedites research. These breakthroughs hold the promise of saving lives and improving global health.
+
+2. Personalization Algorithms
+
+AI algorithms can personalize our experiences across platforms in various ways. Here are two examples we encounter in our daily lives:
+
+A. Lifestyle Recommendations
+
+From Netflix to social media, AI analyzes our preferences and behavior to recommend movies, articles, and products tailored to our tastes. Imagine a world where your news feed perfectly aligns with your interests, introducing you to relevant content. But this is just the beginning.
+
+When AI combines with big data and personal data from wearable devices, it can recommend diet and health options, tailor optimal workouts, create psychological profiles, assist with career choices, dating, and so much more.
+
+B. Targeted Advertising
+
+E-commerce platforms use AI to display ads relevant to individual users. These algorithms consider browsing history, demographics, and purchase behavior. While sometimes controversial, personalized ads can enhance user engagement and drive sales, especially when timing and targeting are right.
+
+Transforming Industries
+
+1. Finance, Manufacturing, and Logistics
+
+A. Process Automation
+
+AI streamlines repetitive tasks, reducing human error. In the finance, manufacturing, and logistics industries, automation improves efficiency, accuracy, and productivity. From automating financial transactions to optimizing supply chains, AI revolutionizes these sectors.
+
+B. Fraud Detection
+
+AI algorithms can detect patterns and anomalies, helping detect and prevent fraud. In the finance industry, this technology safeguards transactions and protects against cyber threats.
+
+2. Education and Learning
+
+A. Personalized Education
+
+AI can provide personalized learning experiences tailored to individual students. Adaptive learning platforms analyze student performance data to create customized lesson plans and provide targeted feedback. This approach enhances engagement and improves educational outcomes.
+
+B. Language Learning
+
+AI-powered language learning platforms offer interactive experiences that adapt to individual learners' needs. These platforms use speech recognition, language processing, and machine learning to provide tailored language instruction.
+
+Conclusion
+
+Artificial intelligence is a transformative force that has revolutionized various aspects of our lives. From generative AI and chatbots to medical breakthroughs and industry transformations, AI continues to shape our world. Embracing the potential of AI while addressing its challenges is crucial as we navigate the fascinating world of artificial intelligence.",https://imageio.forbes.com/specials-images/imageserve/65ea11353d6585b589312b5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:47:27,Innovation,Innovation
+https://www.zdnet.com/education/professional-development/want-to-be-a-devops-engineer-heres-the-good-the-bad-and-the-ugly/,"Want to be a DevOps engineer? Here's the good, the bad, and the ugly","DevOps engineering is a highly coveted profession in today's job market. However, excelling in this role requires a combination of technical expertise and business acumen. Moreover, it demands a continuous commitment to learning due to the ever-evolving nature of popular methodologies and approaches.
+
+The demand for DevOps engineers, who are responsible for automating and coordinating cloud and on-premises environments to ensure seamless software development and deployment, is on the rise. Not only is it a highly sought-after job, but it also offers a lucrative salary. In the United States, for example, the average annual salary for a DevOps engineer is around $134,000, according to estimates from Talent.com.
+
+However, seasoned DevOps engineers are quick to point out that the role comes with its fair share of challenges and rewards. To begin with, a solid understanding of foundational technologies is essential. Brad Morgan, an experienced DevOps engineer, emphasized the importance of learning Linux. He stressed that regardless of the specific tasks undertaken in a DevOps role, interacting with Linux is unavoidable. Therefore, having a strong background in Linux is crucial. Morgan advised aspiring DevOps engineers to familiarize themselves with the basics of Linux, gain a good understanding of how it works, and become comfortable using the terminal and basic commands.
+
+In addition to Linux, Morgan highlighted the significance of bash scripting in the DevOps world. Bash scripting, which automates Linux commands, is widely used in building pipelines. Therefore, having proficiency in bash scripting is an essential skill for DevOps engineers.
+
+Cloud skills are another foundational requirement for DevOps engineers. Morgan recommended focusing on learning the intricacies of one mainstream cloud provider, such as AWS, Google Cloud, or Microsoft Azure, before exploring others. Becoming a master of one cloud platform simplifies the process of acquiring knowledge about others.
+
+Becoming a DevOps engineer does not follow a specific formal course of study. Morgan emphasized that self-learning is the most effective path for pursuing a career in this field. He stressed the importance of continuous learning, deriving enjoyment from learning, and constantly challenging oneself.
+
+This need for perpetual learning and skill enhancement was reiterated by ""Homebrew Henry,"" another experienced DevOps engineer, in a recent YouTube presentation. He stated that pursuing a career in DevOps engineering requires individuals to embrace the constant acquisition of new knowledge. The DevOps ecosystem is vast and continually evolving, with tools and frameworks that were popular yesterday potentially being replaced by new alternatives. Henry emphasized that studying and dedicating free time to learning are often necessary for DevOps engineers.
+
+Even as DevOps engineers gain more experience, the learning process does not cease. In fact, constant learning is considered one of the most enjoyable aspects of the job. The rapid pace of development, coupled with the introduction of AI tools like ChatGPT, ensures that DevOps engineering today will be distinct from DevOps engineering two or three years from now.
+
+One significant aspect that distinguishes passionate DevOps engineers from their colleagues is their involvement in infrastructure management. Henry cautioned that individuals who are not fond of managing infrastructure may struggle in this role. DevOps engineers spend a significant amount of time setting up, configuring, and maintaining the cloud infrastructure that supports various applications. This involves dealing with servers, databases, networks, and security on a daily basis. While this aspect may excite some, it may not satisfy those who are more inclined towards software engineering. Writing Terraforms, CI/CD pipelines, and automation scripts may not provide the same level of satisfaction as building customer-facing applications and fully utilizing coding skills.
+
+However, it is worth noting that transitioning between software engineering and DevOps is not uncommon. Many individuals have successfully made the switch from one field to the other. Therefore, choosing one path does not necessarily mean being locked into it forever.
+
+Another critical consideration is the business aspect of DevOps. This starts with acknowledging the unrealistic expectations that businesses often have for the role. DevOps is currently in high demand, and companies may believe that hiring a few engineers will magically solve all their problems. Therefore, it is essential to manage expectations and communicate the limitations and challenges that come with the role.
+
+In conclusion, DevOps engineering is a highly rewarding profession that requires a combination of technical expertise, continuous learning, and a passion for managing infrastructure. It offers excellent career prospects and attractive salaries. However, individuals pursuing this path must be prepared to adapt to the ever-changing landscape of tools, frameworks, and methodologies. They must also be willing to dedicate time and effort to learning and stay open to transitioning between roles if desired. With the right skills and mindset, a career in DevOps engineering can be fulfilling and provide ample opportunities for growth and development.",https://www.zdnet.com/a/img/resize/e4d3d8d263eb00323161fcf2566ad35a3fe52282/2024/03/25/1b8b924e-2629-43c2-b416-1b990e262786/gettyimages-1319039490.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/,Watch: Why the company behind Trump's Truth Social joined the growing IPO trend,"Last week, the IPO market was buzzing with the highly anticipated debuts of Reddit and Astera Labs. These two tech IPOs not only priced well but also traded with great enthusiasm. This surge in activity comes after a long period of scarcity in the technology offerings space. The fact that we witnessed two large, multibillion-dollar IPOs in the same week was a much-needed victory for private-market tech companies and a sigh of relief for many.
+
+However, amidst the excitement surrounding these IPOs, there was another offering with a tech angle that shouldn't be overlooked: Trump Media and Technology Group, the company behind Truth Social. While there has been some back-and-forth, it eventually merged with its chosen SPAC and commenced trading.
+
+Financially, Trump Media and Technology Group may face challenges ahead, but the mere existence of this offering, alongside the two major IPOs, suggests that the IPO window is once again open for business.
+
+The resurgence of IPO activity is a positive sign for the tech industry. It demonstrates investors' renewed confidence in the market and their willingness to support promising tech companies. This renewed interest in IPOs is a notable shift from the previous dry spell, where technology offerings seemed few and far between.
+
+The success of Reddit and Astera Labs' IPOs has likely paved the way for other tech companies to consider going public. The positive reception and strong performance of these offerings serve as a testament to the market's appetite for technology stocks. It also indicates that investors are willing to embrace tech companies, even those that may face financial challenges in the short term.
+
+The return of the IPO window is significant for both tech companies and investors. For tech companies, it provides an opportunity to access much-needed capital for growth and expansion. Going public not only allows them to raise funds but also enhances their visibility and credibility in the market. This can attract further investment and partnerships, propelling their growth even further.
+
+On the other hand, investors benefit from the increased availability of tech IPOs. Technology has proven to be a lucrative sector, with many companies achieving substantial growth and delivering impressive returns. The IPO window reopening means that investors can once again tap into this potential and participate in the early stages of promising tech companies' journeys.
+
+However, it's important to approach the revived IPO market with caution. While the recent successes are encouraging, not all tech IPOs will be winners. Investors should conduct thorough due diligence and carefully assess a company's financials, market position, and growth prospects before making any investment decisions.
+
+In conclusion, the recent flurry of IPO activity, including the highly anticipated debuts of Reddit and Astera Labs, signals the reopening of the IPO window for the tech industry. This is a positive development for both tech companies seeking capital and investors looking to capitalize on the potential of the technology sector. While the IPO market is showing signs of rejuvenation, it's crucial for both companies and investors to approach it with careful consideration and due diligence. Nevertheless, the return of the IPO window is a promising development that bodes well for the future of the tech industry.","https://techcrunch.com/wp-content/uploads/2024/03/TechCrunch-Minute-Site-Truth-Social.png?resize=1200,675",2024-03-25 16:00:10,Innovation,Innovation
+https://www.zdnet.com/article/saving-hours-of-work-with-ai-how-chatgpt-became-my-virtual-assistant-for-a-data-project/,Saving hours of work with AI: How ChatGPT became my virtual assistant for a data project,"There has been a lot of buzz surrounding generative artificial intelligence (AI) lately, with tools like ChatGPT gaining attention. While these tools are indeed impressive, it's important to remember that they are just that – tools. They can be used to assist with various projects, much like other productivity software.
+
+Today, I want to share a project where ChatGPT proved to be a valuable time-saver. While your own projects may not require the same approach, I hope to inspire you with my thought process and show you how ChatGPT can be a workhorse tool for your own endeavors.
+
+The project I worked on involved creating what I like to call a ""stunt article."" These articles are fun projects that I know readers will find interesting. In this particular case, I wanted to write an article about how much computer gear I could buy from Temu for under $100. I managed to come in at a total of $99.77.
+
+To put this article together, I scoured the Temu website for items to feature. For example, I found an iPad keyboard and mouse that cost around $6. In order to stay within my $100 budget, I needed to add all the Temu links to a spreadsheet, find the price for each item, and rearrange things until I reached my desired budget.
+
+The challenge I faced was converting the Temu links into a more usable format. This is where ChatGPT came in handy.
+
+Phase 1: Gathering the links
+First, I collected all the links from Temu. For each product, I copied the link and pasted it into a Notion page. Notion offers the option to create bookmark blocks when pasting URLs, which not only provide links but also include product names. Here's a snapshot of that page:
+
+[Insert screenshot]
+
+As you can see, I began selecting the blocks. Once all the blocks were selected, I copied them and pasted the entire set into a text editor. While the page may look messy, the result is useful.
+
+Phase 2: Identifying the data
+Let's take a closer look at one of the data blocks. I switched my editor to light mode for better visibility:
+
+[Insert screenshot]
+
+Within each block, there are three key elements. The product name is shown in gold text, surrounded by braces. The base URL is highlighted in green text, surrounded by parentheses. There is also a question mark that separates the main page URL from the random tracking data passed to the Temu page. I only wanted the main URL, so I disregarded the additional data. The purple sections indicate the delimiters – these are the components we will feed into ChatGPT.
+
+Phase 3: Teaching ChatGPT to recognize the data
+To start, I fed ChatGPT the following prompt:
+
+""Accept the following data and await further instructions.""
+
+Then, I copied all the information from the text editor and pasted it into ChatGPT. At this point, ChatGPT knew to expect more details.
+
+The next step was the core of the project. I wanted ChatGPT to extract the titles and links, while discarding the rest. Here's the prompt I used:
+
+""The data above consists of a series of blocks. Each block begins with a section enclosed in [] brackets, which represents the title. Following the brackets is an open parenthesis (followed by a web URL). Extract the URL for each block, omitting everything after the question mark and the question mark itself. Most URLs will end in .html. Display the title, followed by a URL, and separate each block with two newlines.""
+
+This process achieved two things. First, it allowed me to name the data so that I could refer to it later. Second, it served as a test to ensure ChatGPT understood the assignment.
+
+ChatGPT successfully completed the assignment but stopped about two-thirds of the way through due to buffer limitations. I instructed the bot to continue, and it provided me with the remaining data. If I had done this manually, it would have involved a lot of tedious copying and pasting. With ChatGPT, the task was completed in under a minute.
+
+Phase 4: Simplifying Temu's complex titles
+For my project, Temu's titles were too lengthy and complex. Instead of:
+
+""10 Inch LCD Writing Tablet, Electronis Memo With Leather Protective Case, Electronic Drawing Board For Digital Handwriting Pad Doodle Board, Gifts For""
+
+I wanted something more concise like:
+
+""LCD writing tablet with case""
+
+I assigned this task to ChatGPT as well. I reminded the tool that it had already parsed and identified the data. I find that reminding ChatGPT about previous steps helps it more reliably incorporate the instructions.
+
+[Continue with the remaining content and rewrite as per the given instructions]",https://www.zdnet.com/a/img/resize/70d8814af33b190ff84b8faa5f9bafe13d3586e2/2024/03/25/7d1cb1ff-3bb7-4972-a6cd-33d04da76bc1/cover.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://www.forbes.com/sites/jamiecartereurope/2024/03/25/total-eclipse-of-the-chatbot-why-not-to-ask-chatgpt-about-aprils-rare-event/,Total Eclipse Of The Chatbot: Why Not To Ask ChatGPT About April’s Rare Event,"When it comes to the question of when the next total solar eclipse will occur, don't rely on ChatGPT or Gemini. These AI chatbots may be popular, but they are far from accurate when it comes to celestial events. So, let's set the record straight and provide you with the correct information.
+
+The next total solar eclipse will take place on April 8, 2024. This celestial phenomenon will be visible from parts of North America, including Mexico, the United States, and Canada. It's an event that many astronomy enthusiasts are eagerly anticipating.
+
+Now, let's address the peculiar responses from ChatGPT. When asked about the next total solar eclipse, it initially provided incorrect information. It claimed that the next one happened on December 14, 2020, in South America. However, this response is irrelevant and misleading. The correct date is April 8, 2024.
+
+But the inconsistencies don't end there. When asked about the total solar eclipse after April 8, 2024, ChatGPT erroneously stated that it would occur on August 23, 2044. In reality, the next total solar eclipse after April 8, 2024, will take place on August 12, 2026. This eclipse will be visible in Greenland, Iceland, and Spain. Between April 8, 2024, and August 23, 2044, there will be a total of 13 total solar eclipses, a fascinating fact that ChatGPT seems to have overlooked.
+
+To make matters worse, when asked about the total solar eclipse after August 23, 2044, ChatGPT responded with another incorrect date, March 20, 2053. The actual next total solar eclipse after August 23, 2044, will occur on August 12, 2045. This eclipse is often referred to as the ""Greatest American Eclipse"" and will be a remarkable event to witness.
+
+It's evident that ChatGPT is inconsistent, biased toward events in the United States, and, most concerning of all, frequently wrong when it comes to solar eclipses. This lack of accuracy raises concerns about relying on AI for important information.
+
+On the other hand, Google's AI model engine, now called Gemini, provides more reliable answers. When asked about the next total solar eclipse, Gemini correctly states that it will occur on April 8, 2024, visible across parts of North America. It even goes the extra mile by informing you that you will be able to see it from your location.
+
+In conclusion, if you're interested in total solar eclipses, it's best to consult reliable sources and experts rather than relying on AI chatbots. While ChatGPT may be useful for various tasks, it falls short when it comes to celestial events. So, keep an eye on reputable sources for the latest information on total solar eclipses, including travel and lodging options. Here's to clear skies and the wonder of witnessing these awe-inspiring celestial events firsthand.","https://imageio.forbes.com/specials-images/imageserve/66016f04433add21d5071fb4/0x0.jpg?format=jpg&crop=2004,1128,x10,y411,safe&height=900&width=1600&fit=bounds",2024-03-25 13:00:51,Innovation,Innovation
+https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/,TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus,"Welcome to TechCrunch Mobility, your go-to source for all things transportation. In this week's newsletter, we'll be discussing some recent developments in the automotive industry, as well as exciting investments and partnerships in the world of mobility. So buckle up and let's dive in!
+
+First off, let's talk about the new standards proposed by the Biden Administration that will have a significant impact on U.S. automakers and consumers alike. The Department of Energy (DOE) and the Environmental Protection Agency (EPA) have both released regulations that aim to enforce stricter standards for fuel economy and emissions. While these regulations have been slightly softened to accommodate the automotive industry, they still introduce more stringent requirements than before.
+
+The DOE's proposal includes a ""petroleum equivalency factor"" that assigns a score to electric vehicles (EVs) under the corporate average fuel economy (CAFE) standards. This factor would have made it challenging for automakers to meet the CAFE standards, resulting in hefty fines. However, the revised proposal now offers more leeway. On the other hand, the EPA has set tailpipe standards for model year 2027 to 2032 cars and light-duty trucks. These standards place greater demands on automakers but allow for flexibility in meeting them through various powertrain options. This technology-agnostic approach gives automakers the freedom to choose the best solutions for reducing emissions.
+
+What does this mean for EV startups? Well, companies like Rivian, Tesla, and Lucid, which already meet the clean car standards, won't be heavily affected. However, legacy automakers that are investing in EVs while still profiting from internal combustion engine vehicles will face challenges. Interestingly, plug-in hybrids may emerge as winners in this scenario.
+
+Now, let's shift our focus to some exciting news in the industry. Uber, known for its global presence, recently made its first investment in an Africa-founded startup. The company invested in Moove, an African mobility fintech that provides vehicle financing to ride-hailing and delivery app drivers. Moove raised $100 million in a Series B funding round, led by Uber. This investment aligns with Uber's commitment to achieving a fully zero-emission fleet by 2040 and showcases its confidence in Moove's business strategy, which includes a strong emphasis on electric vehicles.
+
+In other news, we have Clevon, a company that has been developing autonomous delivery technology since 2018. Last month, there were rumors that Clevon was struggling and on the verge of shutting down. However, the company's CEO, Sander Sebastian Agur, recently confirmed that Clevon is still operational and has entered into an exclusivity agreement for a merger with an American electric vehicle company. The merger is expected to be completed by the first half of June, indicating that Clevon is on a path to recovery.
+
+Lastly, we have some noteworthy funding rounds. Amber, a Bay Area startup founded in early 2023, raised $3.18 million in a seed round for its aftermarket Tesla extended warranty product. This round was co-led by Era and Primer Sazze, with participation from various other investors. Candela, an electric boat maker, secured $25 million in a funding round led by Groupe Beneteau. This investment will help Candela further develop its electric boat technology. Additionally, Pelikan Mobility, a French startup, raised an undisclosed amount in funding to support its innovative mobility solutions.
+
+And that wraps up this week's edition of TechCrunch Mobility. We hope you found these insights and updates informative and exciting. Stay tuned for more news and developments in the ever-evolving world of transportation.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1363022906.jpg?resize=1200,730",2024-03-24 19:00:33,Innovation,Innovation
+https://techxplore.com/news/2024-03-deep-geothermal-renewable-powerhouse.html,Dig deep: US bets on geothermal to become renewable powerhouse,"Geothermal energy is gaining attention as a potential source of clean and reliable power in the United States. While it currently represents a small percentage of the country's energy production, businesses and the Biden administration are investing in technological advancements to make geothermal energy a key component of the green transition.
+
+Energy Secretary Jennifer Granholm spoke about the potential of geothermal energy at the CERAWeek conference in Houston, highlighting its ability to provide clean and scalable power for industries and households. The Department of Energy estimates that geothermal energy could surpass hydroelectric and solar power by 2050.
+
+Geothermal energy harnesses the high temperatures underground to generate electricity and heat buildings. In 2022, it accounted for only 1.6 percent of US energy consumption. To increase production, the US government has invested over $200 million since 2018 in an experimental site in Utah. The approach involves drilling exceptionally deep wells, utilizing a technology called Enhanced Geothermal Systems (EGS).
+
+EGS involves injecting water into naturally hot rocks, even at depths of over two miles. This technique does not require a nearby hot spring or underground reservoir. It offers the advantage of reducing the upfront risk associated with drilling and the potential for not finding any resources, which has deterred investors in the past.
+
+In addition, the US government is streamlining the permit process by allowing companies to convert permits for oil or gas exploration into geothermal licenses. This reduces paperwork and delays, encouraging more companies to invest in geothermal energy.
+
+Compared to traditional fracking techniques used in the extraction of oil and natural gas, EGS uses fewer chemical additives and does not release hydrocarbons. Geothermal energy also provides a consistent flow of energy regardless of weather conditions or time of day, distinguishing it from solar or wind power.
+
+Regarding cost, the US government predicts that geothermal energy will become more affordable, dropping from the current range of $70 to $100 per megawatt hour (MWh) to $45 by 2035. The use of existing drilling technology makes geothermal development faster and less expensive.
+
+The United States has been at the forefront of adopting this new geothermal technology. However, there are experimental EGS sites in other countries, such as France. One concern associated with geothermal drilling is the potential for inducing seismic activity, similar to fracking. The US Energy Department has implemented a mitigation protocol to address induced seismicity and is funding research on the issue.
+
+In the emerging geothermal market, several start-ups in the US and Canada have attracted significant investments. Fervo Energy, for example, collaborated with Google to connect its Nevada site to the electric grid. However, the site currently generates only 3.5 megawatts.
+
+As the geothermal industry continues to grow, companies like Google, Microsoft, and Nucor are showing interest in purchasing geothermal energy. These large corporations are willing to pay a premium for clean energy, which excites the private sector and encourages further investment.
+
+Cindy Taff, CEO of Sage Geosystems, believes that the geothermal market is still open for new players. The industry needs a successful commercial facility to set an example for others to follow. With the sector being relatively small, the focus should be on sustainable growth.
+
+Geothermal energy has the potential to become a significant contributor to the US energy mix. With advancements in technology and increased investments, geothermal can provide a clean and reliable source of power, supporting the transition to a greener future.",https://scx2.b-cdn.net/gfx/news/2024/a-worker-operates-a-dr.jpg,2024-03-25 04:59:03,Innovation,Innovation
+https://www.forbes.com/sites/jeffkauflin/2024/03/25/amid-fintech-slowdown-goldman-sachs-backed-startup-considers-sale-sources-say/,"Amid Fintech Slowdown, Goldman Sachs-Backed Startup Considers Sale","Deserve, a fintech startup based in Silicon Valley, is facing challenges due to a slowdown in business and a dry funding market. The company, which helps other businesses launch and manage credit cards, has seen its valuation drop since its peak in 2021. Despite this, Deserve remains optimistic about its future growth and profitability.
+
+Founded in 2013, Deserve has raised $150 million in equity funding but has yet to become profitable. It burned through approximately $15 million to $20 million in 2023. However, Deserve's founder and CEO, Kalpesh Kapadia, expects strong growth in the coming year and believes the company is on a solid trajectory to becoming a self-sustaining and profitable business.
+
+Deserve's challenges are not unique to the company. The fintech industry as a whole has seen a decline in valuations, and Deserve has faced specific difficulties. In 2021, the company planned to work with crypto lenders to issue credit cards, with crypto lender BlockFi as its largest customer. However, BlockFi went bankrupt, resulting in a significant loss of revenue for Deserve.
+
+Kalpesh Kapadia, an Indian immigrant who came to the U.S. in the mid-1990s for graduate study, founded Deserve after working in finance for 15 years. He originally envisioned Deserve as a consumer credit card company targeting underserved populations such as immigrants and students. However, he later pivoted the company to help other businesses launch credit cards, a decision that proved beneficial.
+
+Deserve's services include assessing borrower risk, processing transactions, handling customer service calls, and managing disputes. The company has worked with various clients, including student loan bank Sallie Mae and the University of Notre Dame. Despite its pivot, Deserve has maintained its original consumer card business and continues to collect fees and interest income.
+
+Deserve's success in the past was evident when Kapadia stated in 2021 that the company had more business than it could handle, with numerous bitcoin companies approaching them for credit cards. However, the collapse of BlockFi and the struggles of other fintech customers have had a significant impact on Deserve's revenue.
+
+Competition in the tech-enabled credit card issuing space has also intensified in recent years. Deserve now faces competition from companies like Marqeta, which announced plans to acquire Power Finance in January 2023.
+
+Despite these challenges, Deserve remains committed to its mission of providing financial infrastructure and powering card programs for companies and banks. While rumors of a potential sale have circulated, Kapadia has stated that the company is not for sale. Instead, Deserve is focused on strategic partnerships, investments, and mergers and acquisitions that can contribute to its growth and profitability.
+
+In conclusion, Deserve, a fintech startup specializing in helping businesses launch and manage credit cards, is facing challenges due to a slowdown in business and a dry funding market. Despite these difficulties, the company remains optimistic about its future growth and profitability. Deserve has pivoted its business model to work with other companies and banks, providing financial infrastructure and powering card programs. While competition in the industry has intensified, Deserve is determined to continue its mission and build a self-sustaining and profitable business.",https://imageio.forbes.com/specials-images/imageserve/6600d053afe6bed0f9b925c9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 11:57:06,Innovation,Innovation
+https://techxplore.com/news/2024-03-household-robots-common.html,Engineering household robots to have a little common sense,"Robots are becoming increasingly adept at performing household tasks, thanks to their ability to imitate human movements. However, they often struggle to handle unexpected situations or disruptions. To address this challenge, engineers at MIT have developed a method that combines robot motion data with the ""common sense knowledge"" of large language models, or LLMs. This approach allows robots to break down complex tasks into subtasks and adjust their movements when faced with disruptions. The researchers' findings will be presented at the International Conference on Learning Representations in May.
+
+Traditionally, engineers would guide a robot through a task, such as scooping marbles from one bowl and pouring them into another, to teach it the necessary motions. However, if the robot encounters a disruption during the task, it has to start from scratch. The MIT team realized that tasks are composed of a sequence of subtasks, and disruptions can occur at any of these subtask stages. Rather than manually labeling each subtask and collecting new demonstrations to account for failures, the researchers turned to LLMs for a more efficient solution.
+
+LLMs are deep learning models that process vast amounts of text to establish connections between words, sentences, and paragraphs. By leveraging these connections, LLMs can generate new sentences based on what they have learned about the likely sequence of words. The researchers discovered that LLMs can also produce a logical list of subtasks for a given task. For example, when asked to list the actions involved in scooping marbles, an LLM might generate a sequence of verbs like ""reach,"" ""scoop,"" ""transport,"" and ""pour.""
+
+To connect the LLM's natural language labels with the robot's physical position or state, the team developed an algorithm for ""grounding."" This algorithm maps the robot's physical coordinates or an image of its state to the corresponding natural language label for a subtask. By doing so, the robot can automatically determine its progress in a task and adjust its movements accordingly.
+
+The researchers' new approach allows robots to self-correct execution errors and improve overall task success. Instead of relying on explicit programming for every possible failure scenario, the robot can use the knowledge from LLMs to replan and recover on its own. This eliminates the need for tedious planning and programming, making the process more efficient and adaptable.
+
+The implications of this research are significant for the advancement of household robots. By equipping robots with common sense knowledge and the ability to adapt to disruptions, they can become more reliable and efficient in completing tasks. The researchers' method opens up possibilities for further exploration in the field of robot learning and autonomy.
+
+In conclusion, MIT engineers have developed a method that combines robot motion data with the knowledge of large language models to enable self-correction and adaptation in household robots. By breaking down tasks into subtasks and leveraging the natural language labels generated by LLMs, robots can adjust their movements in response to disruptions. This approach eliminates the need for explicit programming for every failure scenario and improves overall task success. The research opens up new possibilities for the development of advanced household robots that are more efficient and adaptable.",https://scx2.b-cdn.net/gfx/news/2024/engineering-household.jpg,2024-03-25 09:48:20,Innovation,Innovation
+https://www.zdnet.com/article/five-linux-file-and-folder-management-commands-you-need-to-know/,Five Linux file and folder management commands you need to know,"Linux: 5 Essential Commands for File and Folder Management
+
+Linux, with its vast array of commands, can be overwhelming for new users. With over 1,000 basic commands and even more on the desktop, it's crucial to know which ones are essential. In this article, we'll explore five fundamental Linux commands for file and folder management that every user should learn. Let's dive in!
+
+1. mkdir: Creating Directories with Ease
+
+The first command on our list is mkdir, short for ""make directory."" As the name suggests, this command allows you to create new directories or folders. It's a simple yet powerful tool for organizing your files.
+
+To create a new directory, use the following command:
+```
+mkdir FOLDER
+```
+Replace FOLDER with the desired name of the directory you want to create.
+
+For example, if you're currently working in the ~/Documents folder and want to create a new directory called TEST in the root of your home directory, you can run the following command:
+```
+mkdir ~/TEST
+```
+But what if you want to create a directory within a directory that doesn't exist yet? No worries! Just use the -p option to create parent directories as needed. For instance, to create ~/TEST/project1, you can use the following command:
+```
+mkdir -p ~/TEST/project1
+```
+With mkdir, you have the flexibility to organize your files and folders efficiently.
+
+2. less: Viewing Files with Ease
+
+The next command on our list is less. This command allows you to view the contents of a file without the need for any complex text editors. It's a handy tool when you want to read files quickly.
+
+To view a file using less, use the following command:
+```
+less FILENAME
+```
+Replace FILENAME with the path and name of the file you want to view.
+
+What makes less great is its ability to display the file one page at a time. This feature allows you to scroll through the file and view it line by line easily. Whether you need to read configuration files or check log files, less is there to simplify the process.
+
+3. cat: Combining and Printing Files
+
+The third command on our list is cat, short for ""concatenate."" This command allows you to combine files or display their contents in the terminal window. It's a versatile tool for various file operations.
+
+To display the contents of a file using cat, use the following command:
+```
+cat FILENAME
+```
+Replace FILENAME with the path and name of the file you want to view.
+
+Unlike less, cat displays the entire file content in one go. It's perfect when you need to quickly check the contents of a file or concatenate multiple files together.
+
+For example, let's say you have two files, file1.txt and file2.txt, located in the TEST/project1 directory. To append the contents of file1.txt to the end of file2.txt, you can use the following command:
+```
+cat TEST/project1/file1.txt >> TEST/project1/file2.txt
+```
+This command appends the content of file1.txt to file2.txt, ensuring that the original content remains intact.
+
+4. touch: Creating Empty Files with a Single Command
+
+The next command on our list is touch. This simple yet powerful command allows you to create empty files effortlessly. Though its primary purpose is to modify file timestamps, most users employ it to create new files quickly.
+
+To create an empty file using touch, use the following command:
+```
+touch FILENAME
+```
+Replace FILENAME with the desired name of the file you want to create.
+
+Here's a practical example:
+
+1. Create an empty file:
+```
+touch ~/test
+```
+2. Add content to the new file:
+```
+echo ""New Content"" > ~/test
+```
+3. Append more content to the file:
+```
+echo ""More Content"" >> ~/test
+```
+
+In the above example, the > operator overwrites the file's content, while the >> operator appends the new text to the end of the file. With touch, you can create and modify files efficiently.
+
+5. pwd: Knowing Your Current Location
+
+The last command on our list is pwd, short for ""print working directory."" This command allows you to know your current location within the Linux filesystem hierarchy. It's a handy tool when you need to navigate through your directories effectively.
+
+To print the current working directory, use the following command:
+```
+pwd
+```
+
+For instance, if you're currently in the /var/www/html/site1 directory, running the pwd command will display /var/www/html/site1. While you may not need to use pwd frequently, it's incredibly useful when you want to quickly check your current location.
+
+In conclusion, these five essential Linux commands for file and folder management will undoubtedly enhance your productivity and efficiency. By mastering these commands, you'll be well-equipped to navigate and organize your files effectively. Combine them with the previously mentioned commands, and you'll have a solid foundation for your Linux journey.
+
+So go ahead, explore these commands, and unlock the true potential of your Linux experience!",https://www.zdnet.com/a/img/resize/73a6f654a7f5dd5cfc8e3389ab98f6a3dc1aafce/2024/03/25/49237a5b-9c57-4f0a-b810-21a85165bfeb/5penguinsflyinggettyimages-520459992.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://www.forbes.com/sites/jamiecartereurope/2024/03/25/in-photos-worm-moon-lunar-eclipse-sets-up-total-solar-eclipse/,In Photos: ‘Worm Moon Lunar Eclipse’ Sets Up Total Solar Eclipse,"March 24, 2024, marked the rise of the ""Worm Moon,"" the full moon of the month. This celestial event was accompanied by a partial lunar eclipse that lasted for nearly five hours, extending into Monday. Although the lunar eclipse was only visible from certain parts of the world, it set the stage for a total solar eclipse in North America on April 8, coinciding with the next new moon.
+
+The Worm Moon, the third full moon of 2024 and the first of spring in the northern hemisphere, could be seen across the globe. However, the partial lunar eclipse was only visible from the night side of the planet at the appropriate time, including North and South America, Europe, East Asia, Australia, and New Zealand. During this event, Earth partially obscured the sun when viewed from the moon.
+
+Here, we present a collection of the most stunning images captured during the full moon and partial lunar eclipse:
+
+During a lunar eclipse, which occurs only during a full moon, the moon enters Earth's shadow. This can only happen when the moon is on the opposite side of the Earth from the sun. The result is a breathtaking phenomenon that dazzles skygazers worldwide.
+
+On Monday morning, a penumbral lunar eclipse took place, where the moon passed through Earth's penumbra—a fainter shadow compared to its dark umbra. The moon's journey through the penumbra lasted precisely 4 hours and 39 minutes. Here is a glimpse of what it looked like.
+
+As the moon traveled through Earth's shadow, the massive shadow gradually moved across the lunar surface, causing the sunlight to diminish. This is different from a ""Blood Moon,"" where the moon traverses through the umbra, and the only light that reaches its surface is refracted by Earth's atmosphere, giving it a reddish hue. During this penumbral lunar eclipse, the moon shared the night sky with the stars of the Virgo constellation, with Spica, the brightest star, shining to its lower left and Antares, the brightest star in Scorpius, appearing high to its upper right. Over the next two nights, the moon will appear even closer to Spica.
+
+Like all full moons, the Worm Moon was visible throughout the night, rising in the east at sunset and setting in the west at sunrise. It earned its name from the emergence of beetle larvae from the thawing bark of trees, a common occurrence in spring, according to the Almanac.
+
+The upcoming new moon on April 8 will be a ""supermoon,"" appearing larger than usual and seemingly crossing the sun's path, thus causing a partial solar eclipse visible in North America. The total solar eclipse on April 8 will last up to 4 minutes and 26 seconds but can only be observed within a 115-mile wide path of totality.
+
+This path of totality stretches from the Pacific coast of northwestern Mexico to Atlantic Canada, passing through 15 U.S. states, including Texas, Oklahoma, Arkansas, Missouri, Illinois, Kentucky, Tennessee, Michigan, Indiana, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine. Those outside this path will witness only a partial solar eclipse. It is worth noting that total solar eclipses occur, on average, once every 366 years, making North America fortunate to experience two of them in just seven years, with the previous one taking place on August 21, 2017.
+
+Following the Worm Moon and the total solar eclipse, the next full moon will be the Pink Moon, which will appear at 23:48 UTC/7:48 p.m. EDT on Tuesday, April 23. This will be the fourth full moon of 2024.
+
+We hope you have warm eyes and clear skies for all your stargazing adventures.","https://imageio.forbes.com/specials-images/imageserve/6601aa9bc397763ceaf0c79a/0x0.jpg?format=jpg&crop=1566,881,x217,y217,safe&height=900&width=1600&fit=bounds",2024-03-25 12:57:41,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-throws-its-hat-in-the-edtech-ring/,Spotify throws its hat in the edtech ring,"Welcome back to Equity, the podcast where we delve into the world of startups and dissect the numbers and nuances behind the headlines. In today's episode, we have a lot to cover, from the global stock market downturn to the promising gains in the crypto industry. But first, let's talk about the big news in Startup Land: the departure of Stability AI's CEO. This move is significant considering the discussions surrounding the company's revenue growth and burn rate.
+
+Across the pond in the EU, several US-based tech companies are facing inquiries due to the implementation of the new Digital Markets Act. It begs the question of whether tech giants will be able to establish a more harmonious relationship with the bloc.
+
+Turning our attention to Europe, Spotify is making another foray into non-musical endeavors, and I have some thoughts on that. We also have some interesting updates from China, where the Vision Pro is set to take center stage, and there is a push to replace Intel and AMD chips in state computers. And finally, we wrap up with a report on how beverage startups are fiercely competing with industry giants like Coke and Pepsi for market share.
+
+If you're interested in episode transcripts and more, you can find them on Equity's Simplecast website. And don't forget, new episodes of Equity drop every Monday, Wednesday, and Friday at 7 a.m. PT. Be sure to subscribe to us on Apple Podcasts, Overcast, Spotify, and all major podcast platforms. And if you're craving more startup content, TechCrunch also has an excellent show on crypto, featuring interviews with founders and more!
+
+Stay tuned for an insightful and engaging discussion on the latest happenings in the startup world.","https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop.jpg?resize=1200,675",2024-03-25 14:22:20,Innovation,Innovation
+https://techcrunch.com/2024/03/25/match-board-directors-after-talks-activist-investor-elliott-management/,Match appoints two board directors after talks with activist investor Elliott Management,"Tinder-owner Match Group has made some significant changes to its board of directors and has entered into an agreement with activist investor Elliott Management. The company has brought on Laura Jones, the chief marketing officer at Instacart, and Spencer Rascoff, co-founder of Zillow, as new board members. These appointments come after a period of ""constructive dialogue"" between Match and Elliott Management, during which the two companies have been sharing information. This move follows a report from The Wall Street Journal stating that Elliott has acquired a stake of around $1 billion in Match Group.
+
+The reason for Elliott's interest in Match Group is the company's declining number of paying users, which has been attributed to the economic uncertainty caused by the ongoing pandemic. In the fourth quarter of 2023, Match saw a 5% decrease in its total paid users compared to the previous year, with a total of 15.2 million. Match's growth has also slowed down since the height of the pandemic, leading to a significant decline in its stock value.
+
+Marc Steinberg, a partner at Elliott, expressed confidence in Match Group's potential for value creation as the global leader in online dating. He praised the collaboration between Elliott, Match's management, and the board, and believes that the addition of Laura Jones and Spencer Rascoff to the board will support the company in its next phase of growth. Elliott Management has a track record of investing in tech companies and pushing for changes, as seen in its involvement with Crown Castle and Etsy.
+
+Match Group is the parent company of various popular dating apps, including Tinder, Hinge, Match.com, Meetic, OkCupid, and Plenty of Fish. These apps have gained significant popularity in recent years, but Match Group is now facing the challenge of retaining and attracting paying users in a competitive market. The company will rely on the expertise and fresh perspectives of its new board members to navigate this phase of growth and overcome the obstacles it currently faces.",https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1241790742.jpeg?w=1024,2024-03-25 14:15:04,Innovation,Innovation
+https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/,London regtech GSS raises $47M to help banks screen for global sanctions,"Global Screening Services (GSS), a London-based regulatory compliance platform, has recently secured $47 million in funding. The company specializes in helping financial institutions meet their global sanctions requirements, which have become increasingly important due to a surge in economic sanctions. The United States has imposed trade restrictions and asset-blocking measures on countries such as Russia, China, and Iran.
+
+GSS was initially incubated within consulting firm AlixPartner before becoming an independent entity in 2021. The CEO and co-founder, Tom Scampion, formerly served as the head of financial crime for Deloitte's EMEA arm. He left Deloitte in 2020 to join AlixPartner as a general partner.
+
+Last year, GSS raised a similar amount of funding from prominent investors, including Mitsubishi UFJ Financial Group (MUFG), one of the world's largest banks. In this latest funding round, GSS has attracted the Commonwealth Bank of Australia (CBA), Cynosure Group, and AlixPartner as backers.
+
+Financial institutions often find themselves at the forefront of sanctions enforcement due to their role in facilitating global money transfers. However, it can be challenging for banks to determine the parties involved in these transactions. In 2019, Standard Chartered was fined $1.1 billion by regulators in the UK and the US for inadequate money-laundering controls, including violating sanctions against countries like Iran. Similarly, BNP Paribas was fined a staggering $8.9 billion in 2014 for processing financial transactions for US-sanctioned countries.
+
+In response to these challenges, investors have shown increased support for regulatory compliance businesses. Last year, New York-based Droit raised $23 million, while London's SteelEye secured $21 million in financing.
+
+GSS offers a sanctions-screening platform that enables banks and other financial institutions to comply with regulations. Users input transaction data into the cloud-based platform, and GSS's system compares it against a standardized set of sanctions lists from around the world. The platform also incorporates additional data points, such as dates of birth, International Maritime Organization (IMO) numbers for ships, and information from the local financial transfer systems of sanctioned countries like Russia and China.
+
+Furthermore, GSS provides ""enhanced"" lists for screening purposes, including companies that are partially owned by individuals, companies, or governments subject to sanctions by OFAC, the EU, or the UK.
+
+With the recent funding, GSS is transitioning from its development phase to becoming fully operational. The company is preparing to launch its services to its first customers.
+
+Overall, GSS's innovative platform addresses a critical need in the financial industry, helping institutions navigate complex and ever-changing sanctions requirements. With its latest funding round, the company is poised to make a significant impact and become a leader in regulatory compliance.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1770041999-e1711386339681.jpg?resize=1200,677",2024-03-25 18:36:37,Innovation,Innovation
