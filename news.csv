@@ -1,0 +1,273 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-vulnerability-virtual-reality.html,Vulnerability in virtual reality systems identified,"Virtual reality (VR) systems have revolutionized the way we interact with technology, allowing us to immerse ourselves in virtual worlds where anything is possible. However, a team of computer scientists from the University of Chicago has recently discovered a potential vulnerability in VR systems that could have serious implications for user security.
+
+In a paper posted on the arXiv preprint server, the research team describes an ""inception layer"" that could be inserted between a user's VR Home Screen and their VR User/Server. This layer, if exploited by hackers, could deceive users into revealing sensitive information or manipulate their actions within the virtual world.
+
+Drawing inspiration from the movie ""Inception,"" where a character has an altered reality downloaded into their brain, the researchers propose an app that adds a layer of deception between the user and the virtual world they see through their VR device. This inception layer could record passcodes entered into virtual ATMs, intercept and modify transaction details, or even create virtual representations of friends and family to gain the user's trust.
+
+The potential consequences of such an app are alarming. It could monitor and alter user gestures, voice commands, browsing activity, and social or business interactions. By exploiting vulnerabilities in a user's WiFi network or gaining physical access to their VR device, hackers could install this app without the user's knowledge and carry out their malicious activities undetected.
+
+To test the effectiveness of their proposed inception layer, the research team enlisted the help of 28 volunteers who played a game using a demonstration VR headset. They downloaded the app onto the devices, simulating a hack, and then asked the volunteers if they noticed anything unusual. While only 10 volunteers noticed a slight flickering during the download and activation process, only one of them questioned the potential nefarious intent behind it.
+
+Upon discovering these vulnerabilities, the research team promptly informed Meta, the makers of the Meta Quest VR system used in the experiment. Meta has acknowledged the findings and expressed their intention to investigate and address the issue. The researchers also caution that similar vulnerabilities may exist in other VR systems and apps that attempt to insert themselves between users and their VR devices.
+
+This discovery serves as a wake-up call for the VR industry and highlights the importance of robust security measures in virtual reality systems. As the popularity of VR continues to grow, it is crucial for manufacturers and developers to prioritize user safety and privacy. By addressing these vulnerabilities proactively, we can ensure that the potential of VR technology is fully realized without compromising user trust and security.
+
+In conclusion, the potential for inception attacks in VR systems poses a significant threat to user security. As technology continues to advance, so do the tactics employed by hackers. It is essential for both researchers and industry professionals to collaborate in identifying and addressing these vulnerabilities to protect users and maintain the integrity of virtual reality experiences.",https://scx2.b-cdn.net/gfx/news/2024/vulnerability-in-virtu.jpg,2024-03-25 10:20:02,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/,Watch: Why the company behind Trump's Truth Social joined the growing IPO trend,"Last week, the media was buzzing with the Reddit and Astera Labs IPOs, and for good reason. These two tech IPOs not only priced well but also traded with great enthusiasm. It was a refreshing change after a long period of limited technology offerings. Witnessing two large, multibillion-dollar offerings in the same week was a much-needed victory for private-market tech companies and a sigh of relief for many.
+
+However, amidst all the attention on these IPOs, there was another offering that shouldn't be overlooked. Trump Media and Technology Group, the company behind Truth Social, also made its debut last week. While it may not be the typical tech company we think of, it does have a tech angle to it. After going through a series of negotiations and discussions, it finally merged with its chosen SPAC and commenced trading.
+
+Financially, Trump Media and Technology Group may have an uphill battle ahead of it. But the fact that we witnessed not only two significant debuts but also another public-market transaction in the same week suggests that the IPO window is indeed back.
+
+The resurgence of the IPO market is an exciting development for both investors and tech companies. It signifies renewed confidence in the public markets and presents opportunities for companies looking to raise capital and expand their reach. The successful pricing and trading of the Reddit and Astera Labs IPOs serve as a testament to this renewed vigor.
+
+However, it's important to note that the IPO market can be fickle. While recent events indicate a favorable environment, there are no guarantees. Companies considering going public must carefully evaluate their readiness, market conditions, and investor appetite before taking the plunge.
+
+In the case of Trump Media and Technology Group, its IPO represents a unique blend of politics and technology. Truth Social, the social media platform backed by the company, aims to provide an alternative to mainstream social media platforms. With a focus on free speech and conservative values, it has already garnered significant attention and support from like-minded individuals.
+
+The success of Truth Social and Trump Media and Technology Group will largely depend on their ability to differentiate themselves from existing social media giants and attract a dedicated user base. While it may face challenges in a crowded market, the company's unique positioning and strong backing could give it a fighting chance.
+
+As we look ahead, it's evident that the IPO window is open once again. This presents a wealth of opportunities for tech companies, both established players and up-and-coming startups. The recent flurry of IPO activity showcases the resilience of the tech industry and its ability to adapt to changing market dynamics.
+
+Investors and industry observers are eagerly watching the IPO market, waiting to see what exciting offerings will emerge next. Will we see more tech companies go public? Only time will tell. But for now, the revival of the IPO window is a promising sign for the tech ecosystem, signaling renewed optimism and a thirst for innovation.
+
+In conclusion, the IPO market is back in action, with recent offerings such as the Reddit and Astera Labs IPOs capturing the spotlight. However, amidst all the excitement, we must not overlook the unique case of Trump Media and Technology Group and its Truth Social platform. The resurgence of the IPO market presents a world of opportunities for tech companies, but success is not guaranteed. Companies must carefully evaluate their readiness and market conditions before embarking on the IPO journey. Nonetheless, the revival of the IPO window is a positive development, showcasing the resilience and adaptability of the tech industry.","https://techcrunch.com/wp-content/uploads/2024/03/TechCrunch-Minute-Site-Truth-Social.png?resize=1200,675",2024-03-25 16:00:10,Innovation,Innovation
+https://www.zdnet.com/article/saving-hours-of-work-with-ai-how-chatgpt-became-my-virtual-assistant-for-a-data-project/,Saving hours of work with AI: How ChatGPT became my virtual assistant for a data project,"In recent times, generative artificial intelligence (AI) has received a lot of attention and hype. As someone who has contributed to this hype, I must admit that tools like ChatGPT are indeed remarkable, but they should be viewed as just tools. They can be utilized to assist in various projects, much like other productivity software.
+
+Today, I want to share a project where ChatGPT proved to be a valuable asset, saving me hours of tedious work. While the specific project may not be applicable to your needs, I hope that my thought process and approach will inspire you to consider using ChatGPT as a workhorse tool for your own projects.
+
+Let's dive into the details!
+
+The Project
+In the coming month, I plan to publish a ""stunt article"" that I believe will be both entertaining and captivating for readers. This particular project revolves around exploring how much computer gear I can purchase from Temu for under $100. To be precise, I managed to spend only $99.77.
+
+To complete this article, I needed to browse the Temu website and identify noteworthy items. For example, I stumbled upon an iPad keyboard and mouse combo priced at around $6.
+
+To ensure that I stayed within my $100 budget, I decided to compile all the Temu links in a spreadsheet, determine the price of each item, and rearrange things until I achieved the desired total.
+
+The Challenge
+The challenge I faced was converting the Temu links into a more usable format. This is where ChatGPT came to the rescue.
+
+Phase 1: Gathering the Links
+To kick off the project, I began by collecting all the relevant links. For each product, I copied the link from the Temu website and pasted it into a Notion page. Notion provides a handy feature that allows you to create bookmark blocks, which not only contain links but also crucially include product names. Here's a snapshot of the page:
+
+[Insert Screenshot Here]
+
+As you can see, I've started selecting the blocks. Once you've selected all the blocks, you can simply copy them. I pasted the entire set into a text editor, resulting in the following:
+
+[Insert Screenshot Here]
+
+The appearance may be unattractive, but the result is highly useful.
+
+Phase 2: Identifying the Data
+Let's take a closer look at one of the data blocks. I've switched my editor to a light mode for better visibility:
+
+[Insert Screenshot Here]
+
+Within each block, we can identify three key elements. The product name is represented by gold text enclosed in braces. The base URL of the product is shown in green text, surrounded by parentheses. There's also a question mark that separates the main page URL from additional tracking data passed to the Temu page. For our purposes, we only need the main URL. The purple sections highlight the delimiters, which will be fed into ChatGPT.
+
+Phase 3: Teaching ChatGPT to Recognize the Data
+Next, I introduced ChatGPT to the following prompt:
+
+""Accept the following data and await further instructions.""
+
+Then, I copied all the information from the text editor and pasted it into ChatGPT. At this point, ChatGPT was aware that there would be more instructions to follow.
+
+The subsequent step was the crux of the project. I wanted ChatGPT to extract the titles and links while discarding the remaining information. Here's the prompt I used:
+
+""The data above consists of a series of blocks of data. Each block begins with a section enclosed in [] brackets, which represents the title. Following the [] brackets is an open parenthesis (followed by a web URL), which we will designate as the URL. For each block, extract the URL, excluding everything after the question mark, and remove the question mark itself. Most URLs will end in .html. Display the TITLE, followed by a carriage return, the URL, and then two newlines.""
+
+This process served two purposes. Firstly, it allowed me to label the data so that I could refer to it later. Secondly, it acted as a test to verify whether ChatGPT understood the assignment.
+
+Also: Check out our guide on how to use ChatGPT effectively.
+
+ChatGPT correctly performed the assignment, but it stopped about two-thirds of the way through due to a buffer limitation. I instructed the bot to continue, and it provided the remaining data.
+
+Performing this process manually would have involved a significant amount of tedious cutting and pasting. With ChatGPT, the task was completed in less than a minute.
+
+Phase 4: Simplifying Temu's Complex Titles
+For my project, the titles provided by Temu were overly complex. Instead of:
+
+""10 Inch LCD Writing Tablet, Electronis Memo With Leather Protective Case, Electronic Drawing Board For Digital Handwriting Pad Doodle Board, Gifts For""
+
+I preferred something more concise, such as:
+
+""LCD writing tablet with case""
+
+I assigned this task to ChatGPT as well. I reminded the tool about the previous parsing and identification of data. I find that reminding ChatGPT about prior steps helps it more reliably incorporate the context.
+
+[INSERT A FEW MORE PARAGRAPHS TO REACH 700 WORDS, WHILE PROVIDING ENGAGING AND CREATIVE CONTENT]",https://www.zdnet.com/a/img/resize/70d8814af33b190ff84b8faa5f9bafe13d3586e2/2024/03/25/7d1cb1ff-3bb7-4972-a6cd-33d04da76bc1/cover.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://www.forbes.com/sites/timtreadgold/2024/03/25/us-and-australia-get-cosy-over-critical-metals/,U.S. And Australia Get Cosy Over Critical Metals,"The global competition for critical metals used in innovative technologies and renewable energy is forging closer ties between the U.S. and Australia, while creating a divide with China. Recent deals in the lithium and rare earths sectors highlight this trend. Pilbara Minerals, a prominent Australian lithium miner, expressed interest in strengthening its relationship with the U.S., despite partnering with a Chinese company in an expansion project. The company plans to build a lithium conversion plant outside China and take advantage of the U.S. Government’s Inflation Reduction Act. The goal is to tap into new battery material markets and leverage the subsidies offered by the U.S. market. This move reflects a broader strategy to diversify away from China. Another significant deal involves the Export-Import Bank of the U.S. providing a $600 million letter-of-interest to Australian Strategic Minerals (ASM) for the development of the Dubbo project in New South Wales. This project aims to monetize a geological structure rich in rare earths and critical minerals. ASM has awarded a contract to Bechtel, a major U.S. engineering and construction firm, to provide technical services. This partnership highlights the strategic importance of the Dubbo project in the rare earths and critical mineral sector. The project aims to extract valuable rare earths such as neodymium and praseodymium, as well as other minerals like tantalum, niobium, hafnium, and zirconium. The challenge lies in separating these metals and producing them at a competitive price. The Australia-U.S. Taskforce on Critical Minerals has been instrumental in advancing this project and leveraging Australia's geological resources for the benefit of the U.S. industry. The Dubbo project aligns with the joint objectives of Australia and the U.S. and holds great potential in the global market.",https://imageio.forbes.com/specials-images/imageserve/660204347dcbbcbc0ad19587/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 21:27:14,Innovation,Innovation
+https://www.forbes.com/sites/christianmiller/2024/03/25/getting-more-impatient-when-the-end-is-in-sight-taylor-swifts-new-album-covid-vaccines-and-the-2020-presidential-election/,Getting More Impatient When the End Is in Sight,"Are you eagerly awaiting the release of Taylor Swift's new album, The Tortured Poets Department? As the release date approaches, you may find yourself experiencing different levels of impatience. But have you ever wondered why this impatience fluctuates? A recent study by Annabelle Roberts at the University of Texas and Ayelet Fishbach at the University of Chicago sheds light on this phenomenon.
+
+Typically, one would assume that impatience increases as the waiting period grows longer. After investing a significant amount of time and emotional energy into waiting, it's natural to feel a heightened sense of impatience. However, Roberts and Fishbach's research suggests that this isn't always the case. Instead, they found that people become more impatient as they approach the end of their wait, not necessarily because of the duration of the wait itself.
+
+To understand this further, the researchers conducted several studies. One study focused on the COVID-19 pandemic and the release of vaccines in the United States. They surveyed 161 participants at different intervals, starting from the announcement of the successful Pfizer trial. Participants were asked to rate their impatience to get a coronavirus vaccine and their impatience for the pandemic to end. Surprisingly, while impatience for the vaccine increased over time, impatience for the pandemic to end remained relatively constant. This suggests that the increasing impatience was driven by the proximity to the end of the wait, rather than the distance from the beginning.
+
+Another study examined the 2020 U.S. presidential race between Joe Biden and Donald Trump. The researchers surveyed 215 participants in the days leading up to the election day, including an extra day when the results were still pending. They found that impatience to find out who wins the election increased as the days progressed, regardless of whether participants supported Biden or Trump. This again points to a desire for closure.
+
+In a different study, participants were asked about their impatience while waiting for a bus. Interestingly, impatience grew as the remaining time for the bus to arrive decreased. It wasn't the total waiting time that influenced impatience but rather the amount of time left. Similar results were observed in scenarios involving waiting for a package, tracking a delivery truck's distance, and enduring a traffic delay.
+
+This research has practical implications. One suggestion is for those in charge, such as government officials or customer service representatives, to inform people about delays early on and provide overestimated wait times. Additionally, individuals anticipating a long-awaited event can plan activities in advance to help manage the surge in impatience.
+
+So, for all the Swifties eagerly awaiting Taylor Swift's new album, brace yourselves for increasing impatience as the release date approaches (April 19th!). Don't worry; closure is just around the corner. In the meantime, prepare some engaging activities to help distract yourself during this final stretch.","https://imageio.forbes.com/specials-images/imageserve/65f253e5f8f81a9d16371132/0x0.jpg?format=jpg&crop=1350,759,x0,y0,safe&height=900&width=1600&fit=bounds",2024-03-25 20:53:11,Innovation,Innovation
+https://techxplore.com/news/2024-03-large-language-simple-mechanism-knowledge.html,Large language models use a surprisingly simple mechanism to retrieve some stored knowledge,"Large language models (LLMs), such as ChatGPT, are powerful tools used in various domains, but their inner workings remain a mystery to scientists. To shed light on their mechanisms, researchers from MIT and other institutions conducted a study on how these models retrieve stored knowledge. Surprisingly, they discovered that LLMs often employ a simple linear function to decode and retrieve facts. This linear function captures the straightforward relationship between two variables and is used consistently for similar types of facts. By identifying these linear functions for different facts, researchers can explore the model's knowledge and its storage locations. Additionally, they found that even when a model provides an incorrect answer, it often retains the correct information. This discovery opens up possibilities for identifying and rectifying falsehoods within the model, reducing the occurrence of incorrect or nonsensical answers.
+
+Evan Hernandez, an electrical engineering and computer science graduate student at MIT, explained that despite the complexity of LLMs and their nonlinear functions, simple mechanisms exist within them, as evidenced by this study. Hernandez, along with co-lead author Arnab Sharma and other collaborators, developed a technique to estimate these linear functions and applied it to uncover the model's knowledge. The findings are detailed in a paper that will be presented at the International Conference on Learning Representations (ICLR 2024).
+
+LLMs, also known as transformer models, are neural networks that consist of interconnected nodes or neurons. These models encode and process data across multiple layers. The knowledge stored in a transformer can be represented as relations connecting subjects and objects. For example, the relation ""Miles Davis plays the trumpet"" connects the subject (Miles Davis) to the object (trumpet). As a transformer acquires more knowledge, it stores additional facts about a subject in different layers. When a user poses a query about a particular subject, the model must decode the most relevant fact to generate a response.
+
+To investigate how LLMs decode relational information, the researchers conducted a series of experiments. They discovered that despite their complexity, these models use a simple linear function for decoding. Each function is specific to the type of fact being retrieved. For instance, one decoding function is used to output the instrument played by a person, while another function is used to output the birthplace of a person. The researchers developed a method to estimate these linear functions and computed functions for 47 different relations, including ""capital city of a country"" and ""lead singer of a band.""
+
+While there are countless possible relations, the researchers focused on this specific subset as it represents the types of facts that can be expressed in this manner. They tested each function by altering the subject and observing if the correct object information could still be retrieved.
+
+The implications of this study are significant. It demonstrates that even within complex LLMs, simple mechanisms are at work. This understanding could help researchers identify and correct falsehoods within the model, improving its accuracy. The study also highlights the potential for further exploration of LLMs and their inner workings.
+
+In conclusion, the study conducted by researchers from MIT and other institutions revealed that large language models employ simple linear functions to retrieve stored facts. Despite their complexity, these models rely on straightforward mechanisms to decode relational information. This discovery could lead to improvements in model accuracy and a deeper understanding of how LLMs operate.",https://scx2.b-cdn.net/gfx/news/hires/2024/large-language-models-2.jpg,2024-03-25 09:34:06,Innovation,Innovation
+https://www.forbes.com/sites/traversmark/2024/03/25/3-motivations-behind-cosplaying-according-to-a-psychologist/,"3 Motivations Behind ‘Cosplaying,’ According To A Psychologist","Cosplay: Unleashing Creativity, Escaping Reality, and Building Community
+
+If you've ever donned a costume for Halloween, you know the thrill that comes with temporarily embodying a beloved character. But for some, dressing up goes beyond a yearly tradition. Enter the world of cosplay, a vibrant subculture where individuals transform themselves into their favorite fictional characters, not just once a year, but as a regular passion and art form.
+
+Cosplay, short for ""costume play,"" involves dressing up as characters from various forms of media, such as comic books, anime, manga, video games, movies, and television shows. It's a chance for enthusiasts to immerse themselves in the worlds of their favorite franchises and bring these characters to life.
+
+From Superman and Batman to Harley Quinn and Joker, cosplayers meticulously recreate the costumes, hairstyles, makeup, and accessories of their chosen characters. Their goal is to achieve accuracy and authenticity, not only in appearance but also in embodying the personality, mannerisms, and unique traits of the character.
+
+But why do people cosplay? Research provides insights into the motivations behind this popular hobby.
+
+1. Creative Self-Expression: Celebrating Fandom and Exploring Identity
+
+Cosplaying offers a platform for creative self-expression, allowing individuals to celebrate their favorite fandoms and express their passion for fictional characters and stories. It serves as an outlet for exploring different facets of one's identity, enabling individuals to experiment with personas they may not feel comfortable expressing in their everyday lives.
+
+A study published in the journal Fashion Theory explored the cosplay subculture in Hong Kong and found that the ability to shift identities plays a crucial role in pursuing cosplay. By temporarily becoming someone else, cosplayers create an exciting and extraordinary self, transcending the boundaries of their ordinary lives.
+
+Cosplay also provides an avenue for nostalgia, allowing cosplayers to recapture the innocence and joy of childhood. It empowers individuals to take on new roles, boosting their confidence and allowing them to choose their identities.
+
+2. Escaping Reality: A Temporary Reprieve from Everyday Life
+
+In a world filled with stress and uncertainty, cosplay offers a temporary escape from reality. By stepping into the shoes of a beloved character, cosplayers can experience adventure, excitement, wonder, and popularity that may be lacking in their mundane routines.
+
+A 2018 study found that one of the strongest motivations for engaging in cosplay is the desire to escape everyday life. By immersing themselves in their favorite fantastical worlds, cosplayers can temporarily leave behind their worries and experience the thrill of being someone else. It's a chance to fulfill dreams, pleasures, romances, and fantasies that may be unattainable in their daily lives.
+
+Cosplay is more than just a hobby; it's a form of performance and exhibition. Many cosplayers crave recognition, admiration, and the opportunity to be photographed. For a brief moment, they can feel like stars or celebrities, basking in the limelight of their chosen characters.
+
+3. A Sense of Community: Belongingness and Lasting Friendships
+
+Apart from escaping reality, cosplay fulfills the fundamental human need for belongingness. It brings like-minded individuals together, fostering a sense of community and creating opportunities for lasting friendships.
+
+Conventions and gatherings serve as communal spaces where cosplayers can connect with others who share their passion. These events provide a platform for cosplayers to showcase their costumes, exchange tips and techniques, and immerse themselves in a supportive and accepting environment.
+
+The 2018 study highlighted ""belongingness"" as one of the strongest motivations behind cosplaying. Being part of a community that understands and appreciates the art of cosplay can be incredibly rewarding, offering a sense of acceptance and validation.
+
+In conclusion, cosplay is more than just dressing up as fictional characters. It's a form of creative self-expression, an escape from reality, and a means to build a community. Through cosplay, individuals can unleash their creativity, explore different aspects of their identity, and find solace in a world that celebrates their passion. So, whether you're a cosplayer or an admirer, always remember the power of cosplay to transform lives and bring out the best version of ourselves.","https://imageio.forbes.com/specials-images/imageserve/6601ac3a0b7231e5ced958f7/0x0.jpg?format=jpg&crop=2613,1224,x0,y80,safe&height=900&width=1600&fit=bounds",2024-03-25 19:30:41,Innovation,Innovation
+https://www.zdnet.com/article/my-favorite-linux-text-editors-and-why-you-should-be-using-one/,My favorite Linux text editors (and why you should be using one),"Text editors have come a long way since the early days of the infamous editor wars between emacs and vi. While those editors are still widely used and loved by many, they may not be the best choice for everyday users. In this article, we will explore some simpler and more user-friendly text editors that can be used for various purposes beyond coding and configuration.
+
+One such text editor is nano. Despite its basic interface, nano has been a reliable choice for many users for decades. It offers all the necessary features without overwhelming the user. With nano, you can create and edit simple flat text files without any formatting. It also includes useful features like interactive search-and-replace, undo/redo, syntax coloring, smooth scrolling, auto-indentation, go-to-line-and-column-number, file locking, and internationalization support. Nano is a terminal application, so you can open it by issuing the command ""nano filename"" in the terminal. It comes pre-installed with most Linux distributions and is completely free.
+
+If you prefer a graphical user interface, Gedit is a great option. It is the default text editor for the GNOME desktop and offers a clean and simple interface. Gedit supports features like tabs, internationalized text (UTF-8), syntax highlighting, markdown support, configurable fonts and colors, printing, auto-save, keyboard shortcuts, theming, and full-screen mode. One of the main advantages of Gedit is its simplicity, making it a preferred choice for many users. It is also worth mentioning that Gedit allows you to edit text files directly by clicking on a link, unlike nano. Gedit is free and comes pre-installed with most GNOME-based desktop distributions.
+
+For those looking for something new and upcoming, the COSMIC Text Editor might be worth considering. Although it will be the default text editor for System76's COSMIC desktop in the future, it is already showing great progress. The COSMIC Text Editor offers features like syntax highlighting, standard keyboard shortcuts, find, spellcheck, project support, revert changes, document statistics, and Git management support. It has a sleek and modern interface, and it works well for both basic tasks and more complex ones like coding. While it is not yet officially available, you can get a preview of it by installing it from the Pop Shop if you use Pop!_OS.
+
+Lastly, we have Kate, which is the KDE Plasma equivalent of Gedit. Kate offers a few additional features compared to Gedit, such as multi-cursor and multi-cursor selection, project support, syntax highlighting, standard keyboard shortcuts, and plugins. The plugins feature allows you to add functionalities like SQL query support, GDB debugging, and one-click project build. Kate is a versatile text editor that can handle both simple text files and more complex tasks. If you are using KDE Plasma, Kate is a powerful option that you should consider.
+
+In conclusion, text editors have evolved significantly over the years and are no longer limited to coding and configuration tasks. Whether you prefer a terminal-based editor like nano or a GUI-based editor like Gedit, there are plenty of options available to suit your needs. The COSMIC Text Editor and Kate offer additional features and are worth exploring if you are looking for more advanced functionalities. Ultimately, the choice of a text editor depends on your personal preferences and the tasks you need to accomplish.",https://www.zdnet.com/a/img/resize/feda4ca65eefc13df0e3505780d84330ecd3c713/2024/03/25/d964a97e-9c56-444a-9497-19bc7ca26a56/typingclosegettyimages-1341060766.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://www.zdnet.com/article/upgrade-to-windows-11-pro-for-just-25-right-now/,Upgrade to Windows 11 Pro for just $25 right now,"'ZDNET Recommends': What exactly does it mean?
+
+When you come across the phrase ""ZDNET Recommends,"" you may wonder what it entails. Allow us to clarify. ZDNET's recommendations are not arbitrary; they are based on rigorous testing, extensive research, and thorough comparison shopping. We invest countless hours in gathering data from the best available sources, including vendor and retailer listings, as well as other relevant and independent review sites. Additionally, we carefully scrutinize customer reviews to gain insights from real people who have already purchased and used the products and services we are evaluating.
+
+It's important to note that when you click through from our site to a retailer and make a purchase, we may earn affiliate commissions. However, it's essential to understand that this does not affect what we cover, how we cover it, or the price you pay. Rest assured that neither ZDNET nor the author receive compensation for these independent reviews. We believe in maintaining the utmost integrity and adhere to strict guidelines that ensure our editorial content remains uninfluenced by advertisers.
+
+At ZDNET, our dedicated editorial team is committed to serving you, our reader. Our primary objective is to provide you with the most accurate information and expert advice possible, enabling you to make informed decisions when purchasing technology gear and a diverse range of products and services. To achieve this, our editors meticulously review and fact-check every article, ensuring that our content meets the highest standards. We take responsibility for any errors or misleading information that may arise, and we are dedicated to promptly correcting or clarifying any inaccuracies. If you come across any mistakes in our content, we encourage you to report them via this form.
+
+We understand that making purchasing decisions can be overwhelming, especially in the ever-evolving world of technology. That's why we strive to deliver trustworthy, well-researched, and unbiased recommendations. Our goal is to equip you with the knowledge and insights you need to make smarter choices. Whether you're looking for the latest smartphone, a cutting-edge laptop, or any other tech-related product or service, you can rely on ZDNET to provide you with valuable guidance.
+
+In conclusion, ""ZDNET Recommends"" signifies our genuine commitment to providing you with reliable and informed recommendations. Our team of experts works tirelessly to ensure that our content is accurate, helpful, and tailored to your needs. We appreciate your trust in us and will continue to prioritize delivering the highest quality content to assist you in making well-informed purchasing decisions.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 10:30:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","The European Union has recently announced a series of investigations, or probes, on major tech companies, commonly referred to as gatekeepers, under the Digital Markets Act (DMA). Alphabet/Google, Apple, and Meta are the first to face formal non-compliance investigations under the EU's new competition rulebook.
+
+Alphabet/Google's practices in Google Play and its self-preferencing in search results are being examined. The EU is also investigating Apple's rules in the App Store and the design of choice screens for alternative web browsers. Meta's ""pay or consent"" model is also under scrutiny.
+
+A total of five investigations were announced, less than three weeks after the compliance deadline for these companies. These gatekeepers were designated under the EU's pan-EU market power regulation, and if found to be in violation of the DMA, they may face fines of up to 10% of their global annual turnover.
+
+The EU has up to 12 months to conclude the investigations, with a preliminary report possible within six months. However, the duration of the probes may vary.
+
+This enforcement action by the EU comes as antitrust scrutiny on these three US companies intensifies within their home country as well.
+
+Criticism has been raised regarding the compliance plans of these companies with the new EU law. Google has been accused of launching new features in search results that unfairly compete with rivals to avoid the ban on self-preferencing. Apple's use of notifications to warn users about leaving its ecosystem has been criticized by developers, and Meta's ""pay or be tracked"" approach has been condemned by privacy and consumer rights groups.
+
+The Commission is particularly concerned about Alphabet and Apple's measures related to app stores under the DMA. It questions whether these measures fully comply with the requirement for gatekeepers to allow app developers to steer consumers to offers outside their app stores without any charges. The Commission also focuses on Google's vertical search services and their potential impact on rival services.
+
+Regarding Apple, the EU will examine its compliance with user choice obligations on iOS, including the ability to uninstall apps, change default settings, and choose alternative default services like browsers or search engines.
+
+For Meta, the proceedings will investigate whether its ""pay or consent"" model for EU users complies with the DMA's requirement to obtain user consent when combining or cross-using personal data across different core platform services.
+
+The EU is concerned that these companies' practices may not ensure fair treatment of third-party services and may prevent users from exercising their choice of services within the respective ecosystems.
+
+During a press conference, the EU's internal market commissioner emphasized the DMA's requirement for gatekeepers to offer free, non-preferential treatment to third-party services.
+
+In conclusion, the EU has initiated investigations into major tech companies under the DMA to ensure compliance with competition rules. These investigations will assess whether the practices of Alphabet/Google, Apple, and Meta breach the EU's regulatory framework.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://techcrunch.com/2024/03/25/gostudent-tutoring-profitability/,"GoStudent, the online learning platform, says it's now profitable","GoStudent, the Vienna-based online tutoring marketplace, has achieved profitability, marking a significant milestone for the company. CEO Felix Ohswald announced that GoStudent is not only EBITDA profitable but also has positive operating cashflow across the entire organization. With 11 million families and 23,000 tutors on the platform, GoStudent has established itself as one of the largest and most popular startups in Austria. It has also gained recognition in the international tech scene, alongside companies like Bitpanda and Runtastic.
+
+However, GoStudent's path to profitability has not been without challenges. The online learning market experienced a crash, leading to a decline in customer demand and significant cash burn. In 2021, the company lost €89 million, which increased to €220 million in 2022. As a result, GoStudent had to implement cost-cutting measures and lay off employees.
+
+GoStudent experienced rapid growth in its early years, scaling its core business model to over €100 million in revenue from 2019 to 2022. However, this growth came at a high cost, with a cash burn of over €150 million in 2022 alone. The company realized it needed to change its approach and reduce its burn rate to achieve profitability. Despite raising substantial funding, GoStudent had to make difficult decisions, including multiple rounds of layoffs and restructuring.
+
+The COVID-19 pandemic played a significant role in GoStudent's success, as the digital transformation increased the demand for online education. The company went from having to convince parents about the benefits of online tutoring to becoming a leading choice for students seeking educational support. However, despite this positive trend, GoStudent still needed to address its financial challenges.
+
+To achieve profitability, GoStudent made various adjustments to its business strategy. It ceased extravagant spending, halted acquisitions, and refrained from expanding into new markets where online tutoring was not well-established. The company also made the difficult decision to exit the competitive U.S. market after a short period. Instead of aiming to be present in 20 countries, GoStudent now focuses on Europe and adopts a more organic growth strategy.
+
+The company's recent acquisition of Studienkreis, a physical learning center network in Germany, demonstrates its evolving approach. GoStudent plans to leverage Studienkreis's resources to enhance its hybrid learning model. CEO Felix Ohswald believes that the future of education is hybrid, combining in-person and online elements. GoStudent aims to provide personalized tutoring by leveraging technology to connect students with the right tutors, regardless of their location.
+
+Most of GoStudent's tutors are university students, which facilitates a strong connection with the students they serve. By combining technology and the expertise of these tutors, GoStudent aims to unlock the potential of every student and become the leading global school.
+
+Achieving profitability is a significant milestone for GoStudent, highlighting its ability to overcome challenges and adapt to the evolving market. The company's focus on Europe and hybrid learning, along with its commitment to personalized tutoring, positions it for continued success in the online education space.",https://techcrunch.com/wp-content/uploads/2024/03/Founders-of-GoStudent-Gregor-Muller-I-Felix-Ohswald-2.jpg?w=1024,2024-03-25 11:00:36,Innovation,Innovation
+https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/,London regtech GSS raises $47M to help banks screen for global sanctions,"Global Screening Services (GSS), a London-based regulatory compliance platform, has successfully raised $47 million in funding. This comes at a time when economic sanctions are on the rise, with the United States imposing trade restrictions and asset blocking against countries like Russia, China, and Iran.
+
+GSS was founded by Tom Scampion, who previously served as the head of financial crime for Deloitte’s EMEA arm. In 2020, Scampion left Deloitte to become a general partner at AlixPartner, a consulting firm where GSS was initially incubated. In 2021, GSS spun out as a standalone entity.
+
+Last year, GSS raised a similar amount of funding from prominent investors, including Mitsubishi UFJ Financial Group (MUFG), one of the world's largest banks. For its latest funding round, GSS secured backing from the Commonwealth Bank of Australia (CBA), Cynosure Group, and AlixPartner.
+
+Financial institutions, particularly banks, often find themselves at the forefront of sanctions enforcement due to their role in global money flow. However, determining who is sending money to whom can be challenging. In 2019, Standard Chartered faced $1.1 billion in fines from regulators in the UK and the US for inadequate money-laundering controls and breaching sanctions against countries like Iran. Similarly, BNP Paribas was fined a staggering $8.9 billion in 2014 for processing financial transactions for US-sanctioned countries.
+
+Given these challenges, investors have shown continued interest in regulatory compliance businesses. Companies like New York-based Droit and London's SteelEye have recently secured significant funding to address these compliance needs.
+
+GSS offers a sanctions-screening platform that helps banks and other financial institutions comply with regulations. These institutions input transaction data into GSS's cloud-based platform, which checks for matches against a comprehensive set of sanctions lists from around the world. GSS also enhances these lists with additional data points, such as dates of birth, International Maritime Organization (IMO) numbers for ships, and data from the local financial transfer systems of sanctioned countries.
+
+In addition to standardized lists, GSS provides ""enhanced"" lists for screening, which include companies that are partially owned by individuals, companies, or governments subjected to sanctions by the Office of Foreign Assets Control (OFAC), the European Union, or the United Kingdom.
+
+With the recent funding round, GSS is transitioning from the development phase to becoming fully operational. The company is now preparing to go live with its first customers.
+
+In conclusion, GSS has secured $47 million in funding to support its regulatory compliance platform. With the backing of investors like the Commonwealth Bank of Australia, GSS aims to help financial institutions meet their global sanctions obligations. By providing a comprehensive and enhanced sanctions-screening platform, GSS enables banks to navigate complex regulations and ensure compliance in an increasingly challenging environment.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1770041999-e1711386339681.jpg?resize=1200,677",2024-03-25 18:36:37,Innovation,Innovation
+https://www.forbes.com/sites/erikkain/2024/03/25/todays-wordle-1011-hints-clues-and-answer-for-tuesday-march-26th/,"Today’s ‘Wordle’ 1011 Hints, Clues And Answer For Tuesday, March 26th","How to Solve Today's Wordle
+
+It's almost the end of March, and this month has been quite unusual. Winter has been holding on, not allowing spring to fully emerge. Although it's sunny today and the snow is melting, there's more snow in the forecast for Easter weekend. And to make things worse, the day after Easter is April Fool's Day, which happens to be my least favorite day of the year. It's best to stay offline and avoid any pranks.
+
+Interestingly enough, I got my first Wordle on April Fool's Day. I guessed ""march"" because if I were playing an April Fool's prank in the style of Wordle, I would choose the only other month with five letters that is not just a proper noun. April, being a proper noun, cannot be the answer in Wordle.
+
+Speaking of proper nouns, yesterday's Wordle really threw me off!
+
+Now, let's get to today's Wordle.
+
+Hint: Politician.
+Clue: Today's Wordle ends with a consonant.
+
+Spoiler alert! The answer is:
+
+Today's Wordle Can you solve today's phrase? Play Now Credit: Erik Kain
+
+Wordle Analysis
+
+Every day, I check Wordle Bot to see how I did. You can check your Wordles with Wordle Bot here.
+
+I was so confident with my third guess, only to have my victory taken away when the third box turned grey. Oh well, c'est la vie! My initial guess was almost there, but not quite. I had 196 words remaining and only one yellow 'O'. I narrowed it down to 11 words and got two more yellows. Among the words, I chose ""major"" because it had the letter 'M' in it, which narrowed down my choices. However, it turned out to be ""mayor"" and not ""major"" that was the answer for today's Wordle.
+
+Competitive Wordle Score
+
+I lose 1 point because the Bot solved this one in just three tries (crane / tyros / mayor — tyros? Really?) and I get 0 points for guessing in four tries. So, my total score is -1. Sigh.
+
+Today's Wordle Etymology
+
+The word ""mayor"" comes from the Old French word ""maire,"" which means ""head of a city or town government."" This word has its roots in the Latin word ""maior,"" meaning ""greater"" or ""superior."" In Latin, ""maior"" was used in the title ""maior domus"" or ""major domo,"" which referred to the ""chief steward"" of a noble house, indicating a position of authority and oversight. Over time, ""maior"" evolved into different forms in the Romance languages, eventually leading to the English word ""mayor."" The role of a mayor as the leader of a city or municipal government reflects its historical sense of being a superior or chief official within a local jurisdiction.
+
+Check out today's Strands guide here.
+
+Make sure to visit my blog for daily Wordle and Strands guides, as well as other content about TV shows, streaming guides, movie reviews, video game coverage, and much more. Thanks for reading!","https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?format=jpg&crop=2629,1480,x0,y135,safe&height=900&width=1600&fit=bounds",2024-03-25 19:00:26,Innovation,Innovation
