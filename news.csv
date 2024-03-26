@@ -1,0 +1,150 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-quantum-algorithm-high-quality-solutions.html,Novel quantum algorithm proposed for high-quality solutions to combinatorial optimization problems,"Combinatorial optimization problems (COPs) are complex problems that require finding the optimal solution in various fields such as logistics, supply chain management, machine learning, material design, and drug discovery. Traditionally, solving COPs using classical computers has been computationally intensive. However, the emergence of quantum computers has opened up new possibilities for solving these problems more efficiently.
+
+Quantum computers leverage the quantum property of superposition, where qubits can exist in multiple states simultaneously, to quickly solve large problems. However, when COPs involve constraints, conventional quantum algorithms struggle to find near-optimal solutions within the operation time of quantum computers.
+
+To address this challenge, researchers at Waseda University in Japan have developed a post-processing variationally scheduled quantum algorithm (pVSQA). This algorithm combines variational scheduling with a post-processing method to transform infeasible solutions into feasible ones, allowing for near-optimal solutions in constrained COPs on both quantum annealers and gate-based quantum computers.
+
+The pVSQA algorithm works by first generating a variational quantum state using a quantum device. This state is used to generate a probability distribution function containing feasible and infeasible solutions within the constraints of the COP. The post-processing method then transforms the infeasible solutions into feasible ones, resulting in a probability distribution with only feasible solutions. A classical computer calculates the energy expectation value of the cost function using this new probability distribution, and repeating this calculation leads to a near-optimal solution.
+
+The researchers conducted experiments using a simulator and real quantum devices, such as a quantum annealer and a gate-type quantum device. The results showed that pVSQA achieved near-optimal performance within a predetermined time on the simulator and outperformed conventional quantum algorithms without post-processing on real quantum devices.
+
+This breakthrough has significant implications for solving COPs using quantum computers. It holds promise for addressing complex real-world problems in various domains, contributing to the realization of long-term social transformations. For example, it can help achieve a carbon-neutral society to combat climate change and facilitate sustainable development goals to address issues like increased energy demand and food shortage.
+
+In summary, the pVSQA algorithm developed by the researchers at Waseda University represents a significant advancement in using quantum computers to solve COPs. By combining variational scheduling with post-processing, this algorithm provides near-optimal solutions for constrained problems and has the potential to revolutionize problem-solving across different fields.",https://scx2.b-cdn.net/gfx/news/2024/novel-quantum-algorith.jpg,2024-03-25 12:50:38,Innovation,Innovation
+https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/,Can you hear me now? AI-coustics to fight noisy audio with generative AI,"Can you hear me now? AI-coustics to fight noisy audio with generative AI
+
+Noisy recordings of interviews and speeches can be a real headache for audio engineers. However, a German startup called AI-coustics aims to solve this problem with a unique approach that utilizes generative AI to enhance the clarity of voices in videos.
+
+Recently, AI-coustics emerged from stealth mode with €1.9 million in funding. Co-founder and CEO Fabian Seipel explained that their technology goes beyond traditional noise suppression methods by working seamlessly with any device and speaker.
+
+""Our main goal is to make every digital interaction, whether it's a conference call, a consumer device, or a casual social media video, as clear as a professional studio broadcast,"" Seipel said in an interview with TechCrunch.
+
+Seipel, who has a background in audio engineering, co-founded AI-coustics with Corvin Jaedicke, a machine learning lecturer at the Technical University of Berlin, in 2021. The idea for the startup came about when they encountered poor audio quality during their online courses and tutorials at TU Berlin.
+
+""We've been driven by a personal mission to overcome the pervasive challenge of poor audio quality in digital communications,"" Seipel explained. ""As someone with slightly impaired hearing from my early twenties in music production, I've always struggled with online content and lectures. This led us to focus on improving speech quality and intelligibility.""
+
+The market for AI-powered noise-suppressing and voice-enhancing software is already quite competitive. AI-coustics' rivals include Insoundz, which uses generative AI to enhance streamed and pre-recorded speech clips, and Veed.io, a video editing suite with tools for removing background noise.
+
+However, Seipel believes that AI-coustics stands out due to its unique approach in developing AI mechanisms for noise reduction. The startup trains its model using speech samples recorded in its own studio in Berlin. People are paid to record these samples, which are then added to the training dataset.
+
+""We have developed a unique approach to simulate audio artifacts and problems, such as noise, reverberation, compression, band-limited microphones, distortion, clipping, etc., during the training process,"" Seipel explained.
+
+It's worth noting that some may have concerns about AI-coustics' compensation scheme for creators, as the training model could potentially generate significant profits in the long run. There is an ongoing debate on whether creators of training data for AI models should receive residuals for their contributions. Another concern is bias, as speech recognition algorithms have been known to develop biases that harm users. To address this, AI-coustics is actively recruiting a diverse range of speech sample contributors to eliminate bias and ensure the technology works for all languages, speaker identities, ages, accents, and genders.
+
+To test AI-coustics' performance, I uploaded three video clips to their platform: an interview with an 18th-century farmer, a car driving demo, and an Israel-Palestine conflict protest. The results were impressive, with AI-coustics successfully boosting clarity and reducing ambient background noise in the processed clips.
+
+Seipel envisions AI-coustics' technology being used for real-time speech enhancement as well as recorded speech. It could even be embedded in devices like soundbars, smartphones, and headphones to automatically enhance voice clarity. Currently, AI-coustics offers a web app and API for post-processing audio and video recordings, as well as an SDK for integrating their platform into existing workflows, apps, and hardware.
+
+At present, AI-coustics has five enterprise customers and 20,000 users, although not all of them are paying customers. The startup generates revenue through a combination of subscriptions, on-demand pricing, and licensing. Their plans for the near future include expanding their team and further improving their speech-enhancing model.
+
+""Before our initial investment, AI-coustics operated with a lean operation and a low burn rate to navigate the challenges of the VC investment market,"" Seipel shared. ""Now, AI-coustics has a substantial network of investors and mentors in Germany and the UK to provide guidance and support.""
+
+AI-coustics' innovative use of generative AI to improve audio clarity has the potential to revolutionize the way we experience digital communications. With their unique approach and commitment to addressing bias, AI-coustics is poised to make a significant impact in the field of audio enhancement.","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1009979808.jpg?resize=1200,801",2024-03-25 18:43:01,Innovation,Innovation
+https://www.zdnet.com/article/saving-hours-of-work-with-ai-how-chatgpt-became-my-virtual-assistant-for-a-data-project/,Saving hours of work with AI: How ChatGPT became my virtual assistant for a data project,"Generative artificial intelligence (AI), like ChatGPT, has been receiving a lot of attention lately. As an experienced content editor, I have personally explored the capabilities of AI tools and found them to be valuable productivity aids. In this article, I will share a project where ChatGPT saved me hours of work, and provide insights on how you can use it for your own projects.
+
+The project at hand involved creating an engaging article where I showcased how much computer gear I could purchase from Temu for under $100. To achieve this, I scoured the Temu website for affordable items and compiled a list of their links in a Notion page. This allowed me to keep track of the products and their prices.
+
+However, the challenge was converting the Temu links into a usable format. This is where ChatGPT came to the rescue.
+
+Phase 1: Gathering the links
+To begin, I copied all the Temu links into a Notion page, which conveniently created bookmark blocks containing the links and product names. I then copied the entire set of blocks into a text editor.
+
+Phase 2: Identifying the data
+Each block contained three important elements. The product name was enclosed in braces, the base URL was enclosed in parentheses, and there was unnecessary tracking data after a question mark. I needed ChatGPT to extract the product names and URLs while discarding the unnecessary information.
+
+Phase 3: Teaching ChatGPT to recognize the data
+By providing ChatGPT with a prompt that instructed it to accept the data and await further instructions, I pasted the information from the text editor. This allowed ChatGPT to understand that it needed to extract the product names and URLs.
+
+To clarify the assignment for ChatGPT, I provided a prompt that explained the structure of the data blocks and the desired output format. This step helped me verify if ChatGPT understood the task at hand.
+
+ChatGPT successfully completed the assignment, albeit with a minor interruption due to its buffer running out. I simply prompted it to continue, and it provided me with the remaining data.
+
+This process saved me from the tedious manual work of copying and pasting, completing the task in under a minute.
+
+Phase 4: Cleaning up Temu's titles
+The titles of the products on the Temu website were overly complex for my article. I wanted to simplify them to make them more concise and engaging. For example, I transformed ""10 Inch LCD Writing Tablet, Electronis Memo With Leather Protective Case, Electronic Drawing Board For Digital Handwriting Pad Doodle Board, Gifts For"" into ""LCD writing tablet with case"".
+
+To accomplish this, I assigned ChatGPT the task of simplifying the titles. By reminding ChatGPT of its previous parsing and identification of the data, I ensured that it could incorporate this information into the new assignment.
+
+ChatGPT successfully completed the task, providing me with cleaner and more concise titles.
+
+By utilizing ChatGPT as a workhorse tool, I was able to streamline the process of gathering and organizing product information for my article. It saved me valuable time and effort, making it an invaluable asset for projects like these.
+
+While the specifics of my project may not be applicable to your own work, I hope that my thought process and use of ChatGPT inspires you to leverage AI tools for your own productivity projects.",https://www.zdnet.com/a/img/resize/70d8814af33b190ff84b8faa5f9bafe13d3586e2/2024/03/25/7d1cb1ff-3bb7-4972-a6cd-33d04da76bc1/cover.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/,TechCrunch Space: Returning to the moon,"Welcome back to TechCrunch Space! We have some exciting news for you. Boeing and NASA have announced plans to conduct the first crewed Starliner mission on May 1. This is a significant milestone for both companies and the future of space exploration.
+
+In other space news, SpaceX is making progress in certifying a second pad for astronaut launches. This development will help alleviate launch site congestion and allow SpaceX to increase the number of humans it sends to space. As a preliminary step, SpaceX recently used the second pad to launch an uncrewed Dragon capsule to the International Space Station. The next step is to send a crewed mission.
+
+Rocket Lab is also making waves in the space industry. Last Thursday, the company successfully completed its fourth launch from Virginia. The Electron rocket carried a classified payload for the National Reconnaissance Office. This mission marks the fifth and final one that Rocket Lab has performed for NRO under a contract awarded in 2020. If you missed the launch, you can watch the replay on our website.
+
+In a recent Bloomberg article, the impact of NewSpace companies on hiring and retention at places like NASA was explored. It's a fascinating topic that delves into the complexities of the changing space industry and its effects on traditional space organizations. If you're interested in learning more, be sure to check out the article.
+
+Now, let's take a moment to reflect on an important event in space history. On March 30, 1982, the space shuttle Columbia landed at the White Sands Missile Range in New Mexico. Astronauts Jack R. Lousma and C. Gordon Fullerton successfully completed an eight-day mission and returned home safely. This achievement marked another step forward in human space exploration.
+
+If you have any tips or news to share with us, don't hesitate to reach out. You can email Aria at aria.techcrunch@gmail.com or send a message on Signal to 512-937-3988. For more secure communications, visit our website, where you'll find instructions on how to contact us using SecureDrop or encrypted messaging apps.
+
+Thank you for joining us on this journey through the latest space news. Stay tuned for more updates and exciting developments in the world of space exploration.",https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=941,2024-03-25 22:00:11,Innovation,Innovation
+https://www.forbes.com/sites/traversmark/2024/03/25/3-motivations-behind-cosplaying-according-to-a-psychologist/,"3 Motivations Behind ‘Cosplaying,’ According To A Psychologist","Cosplay: Becoming the Best Version of Yourself by Embodying Someone Else
+
+If you’ve ever dressed up for Halloween, you might have gotten a taste of the excitement of portraying a famous character, if only for a single night. However, there are some individuals who take it a step further, turning it into a lifestyle. These people are part of a vibrant subculture known as cosplay, short for “costume play,” where donning elaborate costumes and embodying fictional personas is not just a once-a-year event but a regular passion and art form.
+
+Cosplay involves individuals dressing up as characters from various forms of media, including comic books, anime, manga, video games, movies, and television shows. It provides an opportunity for fans to immerse themselves in the worlds of their favorite franchises. Whether it's Superman, Batman, Spider-Man, Harley Quinn, Joker, Disney characters, Harry Potter, or Star Wars icons like Darth Vader, Princess Leia, and Luke Skywalker, there is no shortage of options for cosplayers.
+
+Anime and manga also provide a rich source of inspiration for cosplayers. Popular choices include Naruto Uzumaki from “Naruto,” Goku from “Dragon Ball Z,” Sailor Moon from “Sailor Moon,” and Luffy from “One Piece.” With such a vast range of characters to choose from, the possibilities are endless.
+
+Cosplayers often go to great lengths to recreate the costumes, hairstyles, makeup, and accessories of their chosen characters, striving for accuracy and authenticity. But cosplay is about more than just the physical appearance. It also involves embodying the personality, mannerisms, and unique traits of the character being portrayed.
+
+So why do people cosplay? Research has uncovered three main reasons behind this phenomenon.
+
+1. Creative Self-Expression
+
+Authentic self-expression is associated with greater life satisfaction, and cosplay provides a platform for creative expression. It allows individuals to celebrate their favorite fandoms and express their passion for fictional characters and stories. Many cosplayers view it as a means of exploring different facets of their identity. By embodying different characters, they can experiment with various personas and aspects of themselves that they may not feel comfortable expressing in their everyday lives.
+
+A 2015 study published in the journal Fashion Theory examined the cosplay subculture in Hong Kong and found that the ability to shift identities plays a key role in pursuing cosplay. It allows enthusiasts to momentarily change their identity and create an exciting, extraordinary, and contented self. Cosplay is a form of role and identity transformation that allows individuals to become superheroes, performers, and even relive a cute childhood innocence.
+
+One cosplayer interviewed in the study, Po Yin, shared her experience: ""Being a cosplayer, I can transform myself into many different characters—a heroine, a cute little girl, or even a beautiful boy. I’m no longer a passive reader or video game player. I’m a producer and performer."" Cosplaying empowers individuals by giving them the freedom to choose their identity and take on new roles, regardless of societal judgments or expectations.
+
+2. Escaping Reality
+
+In a world filled with stress and uncertainty, stepping into the shoes of a beloved character offers a temporary reprieve from reality. Cosplayers transcend the confines of their everyday lives and appreciate the chance to be anyone or anything they desire. It provides an escape from the mundane routines and allows them to experience a sense of adventure, excitement, wonder, and popularity that may be lacking in their daily lives.
+
+A 2018 study highlighted the escapism aspect of cosplay. It found that one of the strongest motivations to engage in cosplay is the desire to escape from everyday life. By immersing themselves in their favorite fantastical worlds, cosplayers can momentarily fulfill dreams, pleasures, romances, and fantasies that may not be attainable in reality. For a short moment, they can feel like stars or celebrities. Many cosplayers admit that it's not just a hobby they love, but also an outlet for performance and exhibition. They want to be recognized, photographed, and admired for their creations.
+
+3. A Sense of Community
+
+Apart from the ability to escape reality, a sense of belongingness is one of the strongest motivations behind cosplaying. Cosplay fosters a sense of community among like-minded individuals and fulfills the fundamental human need to belong. Conventions and gatherings serve as communal spaces where cosplayers can come together to share their passion and forge lasting friendships. It's a place where they can be themselves without judgment and find acceptance among their peers.
+
+In the same 2018 study, researchers found that belongingness was a significant factor in cosplaying. The sense of community that cosplay provides is invaluable to cosplayers. It allows them to connect with others who share their interests, exchange tips and techniques, and collaborate on group projects. These interactions create a supportive and inclusive environment where everyone feels welcome.
+
+In conclusion, cosplay offers a unique avenue for individuals to become the best version of themselves by embodying someone else. It provides an outlet for creative self-expression, an escape from reality, and a sense of community. Through cosplay, people can explore different facets of their identity, experience moments of excitement and adventure, and find a place where they truly belong. So the next time you see a cosplayer in an elaborate costume, remember that it's not just a hobby or a costume. It's a form of self-expression, a temporary escape, and a celebration of fandom.","https://imageio.forbes.com/specials-images/imageserve/6601ac3a0b7231e5ced958f7/0x0.jpg?format=jpg&crop=2613,1224,x0,y80,safe&height=900&width=1600&fit=bounds",2024-03-25 19:30:41,Innovation,Innovation
+https://techxplore.com/news/2024-03-pairing-crypto-green-hydrogen-energy.html,"Pairing crypto mining with green hydrogen offers clean energy boost, study suggests","Pairing cryptocurrency mining, known for its high carbon emissions, with green hydrogen technology could play a crucial role in promoting renewable energy sources like solar and wind power, according to a recent study conducted by Cornell University. The study, titled ""Climate Sustainability Through a Dynamic Duo: Green Hydrogen and Crypto Driving Energy Transition and Decarbonization,"" was published in the Proceedings of the National Academy of Sciences by Professor Fengqi You and doctoral student Apoorv Lal.
+
+Professor You emphasized the need to explore opportunities for incorporating cryptocurrency into a sustainable and climate-friendly future. Currently, cryptocurrency mining operations contribute significantly to global carbon emissions. By leveraging the enthusiasm for cryptocurrency, the researchers propose the combination of energy-intensive cryptocurrency mining with green hydrogen technology to boost the renewable energy sector.
+
+The researchers refer to this combination as the ""dynamic duo."" They argue that establishing a green hydrogen infrastructure to support cryptocurrency production can accelerate the adoption of renewable energy and create a more sustainable energy landscape. By utilizing clean energy sources for blockchain mining and green hydrogen production, the capacity for wind and solar energy can increase, leading to a substantial expansion of sustainable energy production across the nation.
+
+The report highlights the enormous energy consumption associated with mining blockchain-based cryptocurrency in the United States. According to a 2022 report by the White House Office of Science and Technology, the carbon-based energy used for cryptocurrency mining in the US is equivalent to the energy consumption of the entire country of Argentina. The majority of electricity used for domestic crypto-mining relies on power-hungry consensus mechanisms, known as ""proof of work,"" which are used to verify crypto-assets.
+
+Preliminary estimates from the US Energy Information Administration suggest that cryptocurrency mining consumes between 0.6% to 2.3% of the country's total electricity consumption in 2023. To address this significant energy demand, the researchers propose an innovative solution that combines cryptocurrencies as virtual energy carriers with green hydrogen technology. This approach transforms the environmental challenge posed by cryptocurrency mining into a dynamic force for climate mitigation and sustainability.
+
+The study conducted by You and Lal focuses on the assessment of energy potentials in individual US states. By supporting cryptocurrency, additional energy infrastructure can be developed, leading to the generation of renewable energy. For example, in New Mexico, each Bitcoin mined could potentially create 78.4 megawatt hours of solar power, while in Wyoming, the same Bitcoin could generate 265.8 megawatt hours of wind power. The researchers argue that cryptocurrency, similar to a gift card, holds both monetary and energy value.
+
+To advance a sustainable future for blockchain-based cryptocurrency, the researchers call for stronger federal policies that prioritize climate goals and renewable energy. By coupling cryptocurrency with green hydrogen, this approach not only mitigates the environmental impact of cryptocurrency mining but also pioneers a sustainable path for renewable energy transition.
+
+Professor You is a senior faculty fellow at the Cornell Atkinson Center for Sustainability. The research conducted by You and Lal highlights the potential of combining cryptocurrency mining with green hydrogen technology to drive the transition towards renewable energy and decarbonization. By harnessing the enthusiasm for cryptocurrency and utilizing clean energy sources, this innovative approach can pave the way for a sustainable and climate-friendly future.",https://scx2.b-cdn.net/gfx/news/hires/2023/cryptocurrencies.jpg,2024-03-25 15:00:02,Innovation,Innovation
+https://www.forbes.com/sites/zakdoffman/2024/03/25/google-update-warning-chrome-windows-11-android-iphone/,Google’s New AI Search Goes Horribly Wrong-M Is For Malware,"Be cautious about what you search for because Google's new AI search feature is unexpectedly yielding dangerous results. The transition from traditional search to AI-powered search was intended to be an exciting advancement, but it seems to have encountered some problems right from the start.
+
+Google's aim is to enhance search with generative AI through its Search Generative Experience (SGE). This new mechanism promises to transform mundane search results into a more powerful and contextual experience. However, an SEO consultant recently discovered obvious scams within the results while testing the new technology. Bleeping Computer confirmed these findings, warning that the AI-powered algorithms recommended scam sites that redirected visitors to malicious Chrome extensions, fake iPhone giveaways, browser spam subscriptions, and tech support scams.
+
+The issue with generative AI is that these dangers are disguised in friendly and conversational language, catching users off guard. Many of the fraudulent redirects appeared to be after personal information or aimed at adware and unwanted subscriptions to earn commission payments. However, some of the links posed more serious threats by pushing unwanted browser extensions that hijack search results and potentially engage in other malicious activities.
+
+Google responded to Bleeping Computer, stating that they continuously update their advanced spam-fighting systems to keep spam out of search. They assured that they employ these anti-spam measures to protect the Search Generative Experience as well. They also mentioned that they have taken action to remove the examples shared, which were appearing for uncommon queries. Further comments from Google regarding these issues are yet to be obtained.
+
+Although the Search Generative Experience has been opt-in until now, it is expanding its reach. According to 9to5Google, Google has begun showing AI-powered overviews to users who have not signed up for the feature. This test is being conducted on a small percentage of search traffic in specific categories, limited to users in the United States, including those who are not logged into a Google account.
+
+It's important to note that the examples mentioned were from a user in the Search Labs program, not a general user who would see AI test results. Hopefully, by the time this feature is more widely available, any issues will have been resolved through effective filtering.
+
+However, the larger concern is that this represents an entirely new landscape for potential threats, targeting users who may not yet be aware of these risks. Despite these initial challenges, AI search is undoubtedly the future. Nevertheless, it serves as a reminder to exercise caution as we navigate this new territory and to remember that, despite the conversational language, the same rules for safe searching still apply.
+
+As search becomes more integrated into generative AI chatbots without the ability to view search results, these problems will only escalate. Before that happens, significant improvements need to be made to the filters and defenses in place.","https://imageio.forbes.com/specials-images/imageserve/6602155031526c87ed877205/0x0.jpg?format=jpg&crop=3115,2027,x1040,y734,safe&height=900&width=1600&fit=bounds",2024-03-25 21:15:00,Innovation,Innovation
