@@ -1,0 +1,20 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-large-language-simple-mechanism-knowledge.html,Large language models use a surprisingly simple mechanism to retrieve some stored knowledge,"Large language models (LLMs), such as those powering AI chatbots like ChatGPT, are highly complex and widely used in various applications. However, scientists still have limited understanding of how these models work. To gain insights into their inner workings, researchers from MIT and other institutions examined the mechanisms employed by LLMs to retrieve stored knowledge.
+
+Surprisingly, the researchers discovered that LLMs often employ a simple linear function to decode and recover stored facts. Linear functions, which involve two variables and no exponents, capture a straightforward relationship between the variables. They observed that the model uses the same decoding function for similar types of facts. This finding allows researchers to probe the model and identify where and what it knows about new subjects.
+
+By using their developed technique to estimate these simple functions, the researchers found that even when a model provides an incorrect answer, it often retains the correct information. This approach could potentially be used in the future to identify and rectify falsehoods within the model, reducing its tendency to provide incorrect or nonsensical responses.
+
+According to Evan Hernandez, an electrical engineering and computer science graduate student at MIT and co-lead author of the research paper, ""Even though these models are really complicated, nonlinear functions that are trained on lots of data and are very hard to understand, there are sometimes really simple mechanisms working inside them. This is one instance of that.""
+
+The paper was authored by Evan Hernandez, Arnab Sharma (a computer science graduate student at Northeastern University), Jacob Andreas (an associate professor in EECS and a member of CSAIL), David Bau (an assistant professor of computer science at Northeastern), and other researchers from MIT, Harvard University, and the Israeli Institute of Technology. The findings will be presented at the International Conference on Learning Representations held in May 2024.
+
+LLMs, also known as transformer models, are neural networks that contain billions of interconnected nodes. These networks encode and process data, resembling the structure and functioning of the human brain. The knowledge stored in a transformer can be represented as relations connecting subjects and objects. For instance, the relation ""Miles Davis plays the trumpet"" connects Miles Davis (subject) to the trumpet (object).
+
+As a transformer acquires more knowledge, it stores additional facts about a specific subject across multiple layers. When a user poses a query related to that subject, the model must decode the most relevant fact to provide an accurate response.
+
+To understand the mechanism employed by transformers to retrieve facts, the researchers conducted a series of experiments. Despite their complexity, they found that LLMs decode relational information using a simple linear function. Each function is specific to the type of fact being retrieved. For example, the model would use one decoding function to output the instrument a person plays and a different function to output the state where a person was born.
+
+The researchers developed a method to estimate these simple functions and computed functions for 47 different relations, such as ""capital city of a country"" and ""lead singer of a band."" While there are countless possible relations, the researchers focused on this specific subset as they are representative of the types of facts that can be expressed in this manner.
+
+To test the accuracy of each function, the researchers changed the subject and examined if the correct object information could still be recovered.",https://scx2.b-cdn.net/gfx/news/hires/2024/large-language-models-2.jpg,2024-03-25 09:34:06,Innovation,Innovation
