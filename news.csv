@@ -1,0 +1,18 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techcrunch.com/2024/03/26/yc-backed-sigmaos-browser-turns-to-ai-powered-features-for-monetization/,YC-backed SigmaOS browser turns to AI-powered features for monetization,"Web browsers are evolving to become the go-to platforms for accessing AI tools, and SigmaOS, a startup backed by Y Combinator, is capitalizing on this trend. The company is introducing new features such as link preview summaries, pinch-to-summarize, and ""look it up"" browsing capabilities, all aimed at users who are willing to pay for AI tools.
+
+Some of these features may seem similar to those recently released by rival browser Arc, but SigmaOS claims that its feature delivers better-quality results, although this is difficult to measure objectively. For example, the pinch-to-summarize feature on SigmaOS desktop captures sections like information, ratings, reviews, prices, and photos from an Airbnb listing, but only provides a small paragraph of information for an article, which may not be sufficient. Arc browser's summarize function has also had its own issues in terms of missing key information, but it has worked consistently across different formats.
+
+Mahyad Ghassemibouyaghchi, one of SigmaOS' co-founders, stated that the company plans to adapt to different page types in the future and present summaries in various formats based on the web page.
+
+The standout feature of SigmaOS' latest release is called ""Look it up."" This feature browses the web for a given query and generates a summary page based on the information it finds. This is similar to Arc's ""Browse for me"" function, but on desktop. One key difference is that users can ask follow-up questions to explore the topic further.
+
+In addition to ""Look it up,"" SigmaOS is also introducing link previews on hover and automatic renaming for locked (pinned) pages.
+
+SigmaOS has been focusing on AI-powered features, such as its contextual assistant called Airis, which can answer questions about a web page or the broader web. Initially, the startup attempted to monetize through team-based features, but now it is looking to monetize its AI features. While all users will have access to AI-powered features, those who pay $20 per month will receive better rate limits, and those who pay $30 per month will enjoy unlimited usage and the ability to choose between different AI models.
+
+Looking ahead, SigmaOS has ambitious plans. The company aims to release an AI-agent-like feature that allows users to interact with the browser through voice commands, enabling hands-free use. Additionally, SigmaOS is working on developing ""repeatable flows,"" which are automatic actions triggered by factors like time. Think of it as the If This Then That (IFTTT) of browsers, although this concept is still in the early stages.
+
+Arc, one of SigmaOS' competitors, recently raised $50 million in funding at a $550 million valuation and announced plans to build an AI agent that browses the web on behalf of users.
+
+Ghassemibouyaghchi revealed that over 100,000 users have been using SigmaOS' product. The startup has raised $4 million from investors like LocalGlobe and Y Combinator, and with this launch, it aims to gain traction and prepare for its next round of funding.","https://techcrunch.com/wp-content/uploads/2024/03/SigmaOS.jpg?resize=1200,675",2024-03-26 15:30:36,Innovation,Innovation
