@@ -1,0 +1,231 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/,Watch: Why the company behind Trump's Truth Social joined the growing IPO trend,"Last week, the IPO market was buzzing with the highly anticipated Reddit and Astera Labs offerings. These two tech IPOs not only priced well but also experienced strong trading activity. This was a significant moment for the private-market tech companies that had been waiting for an opportunity to go public, and it brought a sigh of relief to many.
+
+While these IPOs stole the spotlight, there was another offering that shouldn't be overlooked - Trump Media and Technology Group, the company behind Truth Social. TechCrunch has provided more details on this development, but in summary, after much deliberation, the company merged with its chosen SPAC and began trading.
+
+Financially, Trump Media and Technology Group faces an uphill battle. However, the fact that we witnessed two major debuts and another public-market transaction last week suggests that the IPO window is once again open for business.
+
+The resurgence of the IPO market is a positive sign for the technology industry. It indicates renewed investor confidence and a willingness to back promising tech companies. The successful pricing and trading of the Reddit and Astera Labs IPOs demonstrate that there is significant appetite for tech offerings.
+
+For private-market tech companies, this is a much-needed opportunity. Going public allows these companies to access capital, expand their reach, and unlock new growth opportunities. The IPO window reopening means that more tech companies can follow in the footsteps of Reddit and Astera Labs, taking advantage of the favorable market conditions.
+
+However, it's important to note that the success of the IPO market should not be taken for granted. The road to going public is not an easy one, and companies must carefully consider their financials, market positioning, and growth prospects. The IPO window may be open, but it's crucial for companies to approach it with a well-thought-out plan and a solid foundation.
+
+In conclusion, the recent IPOs of Reddit and Astera Labs, along with the debut of Trump Media and Technology Group, indicate that the IPO window is indeed back. This is a promising development for the tech industry, as it provides opportunities for private-market tech companies to access capital and fuel their growth. However, companies must approach the IPO process with caution and ensure they are well-prepared for the challenges that lie ahead. The IPO window may be open, but success will require careful planning, execution, and adaptability in an ever-changing market.","https://techcrunch.com/wp-content/uploads/2024/03/TechCrunch-Minute-Site-Truth-Social.png?resize=1200,675",2024-03-25 16:00:10,Innovation,Innovation
+https://techcrunch.com/2024/03/25/large-language-models-can-help-home-robots-recover-from-errors-without-human-help/,Large language models can help home robots recover from errors without human help,"Home robots have struggled to gain traction in the market for various reasons, such as pricing, practicality, form factor, and mapping. Even when these issues are addressed, the question of how robots handle mistakes remains. This is where large language models (LLMs) come into play, as seen in a recent study by MIT.
+
+Traditionally, when a robot encounters problems, it exhausts its pre-programmed options before requiring human intervention. However, in an unstructured environment like a home, even small changes can disrupt a robot's functionality. Imitation learning, where robots learn tasks through observation, is popular in home robotics but fails to account for the environmental variations that can disrupt operation. The new research from MIT addresses this by breaking demonstrations into smaller subsets, rather than treating them as continuous actions.
+
+LLMs play a crucial role in this process by eliminating the need for programmers to manually label and assign numerous subactions. These models can provide natural language instructions for each step of a task, while a human's continuous demonstration embodies those steps in physical space. The goal is to connect the two, allowing the robot to understand its current stage in a task and autonomously replan and recover.
+
+The study focuses on training a robot to scoop marbles and pour them into a bowl. While this is a simple task for humans, it involves various small tasks for robots. LLMs can list and label these subtasks, making it easier for the robot to self-correct when disruptions occur. In the demonstrations, researchers intentionally sabotaged the activity by bumping the robot off course and knocking marbles out of its spoon. Instead of starting from scratch, the system responded by self-correcting the small tasks.
+
+This method eliminates the need to rely on humans to program or provide additional demonstrations to recover from failures. It offers a promising solution for robots to handle mistakes without requiring constant human intervention.
+
+In conclusion, the integration of large language models with robotics can significantly improve a robot's ability to handle mistakes and adapt to changing environments. This research from MIT demonstrates how breaking demonstrations into smaller subsets and utilizing LLMs can enable robots to self-correct and recover from disruptions. By bridging the gap between human demonstrations and autonomous planning, home robots can become more reliable and efficient in everyday tasks.",https://techcrunch.com/wp-content/uploads/2024/03/CommonSense-01-press_0.jpg?w=900,2024-03-25 20:01:06,Innovation,Innovation
+https://www.zdnet.com/article/five-linux-file-and-folder-management-commands-you-need-to-know/,Five Linux file and folder management commands you need to know,"Linux is a powerful operating system with a wide range of commands that can be used for various purposes. While many users may only utilize a small portion of these commands, it is important to expand your knowledge to increase productivity and efficiency. In this article, we will explore five additional Linux commands that are essential for file and folder management.
+
+1. mkdir
+The first command we will discuss is ""mkdir,"" which stands for ""make directory."" As the name suggests, this command is used to create new directories or folders. To use this command, simply type ""mkdir"" followed by the name of the folder you want to create. For example, if you want to create a folder named ""TEST"" in your current working directory, you would type:
+
+```
+mkdir TEST
+```
+
+If you want to create a directory within a directory that does not exist yet, you can use the ""-p"" option. For instance, to create a folder named ""project1"" inside the ""TEST"" folder, you would enter the following command:
+
+```
+mkdir -p TEST/project1
+```
+
+This command will first create the ""TEST"" folder and then proceed to create the ""project1"" folder within it.
+
+2. less
+The ""less"" command is used to view the contents of a file without modifying it. It is particularly useful when you want to examine the contents of a file without opening it in an editor. To use this command, simply type ""less"" followed by the path to the file you want to view. For example, to view the contents of the file ""/etc/samba/smb.conf,"" you would enter:
+
+```
+less /etc/samba/smb.conf
+```
+
+One advantage of using ""less"" is that it displays the file one page at a time, allowing you to scroll through it and view it line by line. This feature is convenient when dealing with large files.
+
+3. cat
+The ""cat"" command, short for ""concatenate,"" is used to display the contents of one or more files in the terminal window. Unlike ""less,"" you cannot scroll through the output of ""cat"" unless your terminal window supports it. To use this command, simply type ""cat"" followed by the path to the file you want to display. For example, to view the contents of the file ""/etc/fstab,"" you would enter:
+
+```
+cat /etc/fstab
+```
+
+Additionally, ""cat"" can be used to concatenate or append the contents of one file to another. For example, if you have two files named ""file1.txt"" and ""file2.txt"" in the ""TEST/project1"" directory, and you want to append the contents of ""file1.txt"" to the end of ""file2.txt,"" you can use the following command:
+
+```
+cat TEST/project1/file1.txt >> TEST/project1/file2.txt
+```
+
+This command will add the contents of ""file1.txt"" to the end of ""file2.txt.""
+
+4. touch
+The ""touch"" command is used to create new files or update file timestamps. When used to create files, it is a straightforward command. Simply type ""touch"" followed by the name of the file you want to create. For example, to create a file named ""filename,"" you would enter:
+
+```
+touch filename
+```
+
+However, it is important to note that ""touch"" is primarily used to change file timestamps. Nevertheless, many users employ it to create empty files. To add content to a new file created with ""touch,"" you can use the ""echo"" command. For example, to add the text ""New Content"" to the file ""test,"" you would enter:
+
+```
+echo ""New Content"" > test
+```
+
+To append more content to the file, you can use the "">>"" operator. For example, to add the text ""More Content"" to the end of the ""test"" file, you would enter:
+
+```
+echo ""More Content"" >> test
+```
+
+5. pwd
+The ""pwd"" command stands for ""print working directory"" and is used to display the name of the current working directory. It is particularly helpful when you need to know your current location within the Linux filesystem hierarchy. To use this command, simply type ""pwd"" and press enter. The terminal will then display the full path of the current directory. For example, if you are in the directory ""/var/www/html/site1,"" typing ""pwd"" will output ""/var/www/html/site1.""
+
+By familiarizing yourself with these five commands, you will have a solid foundation for managing files and folders in Linux. Combined with the previous five commands we discussed, you will be well-equipped to navigate and manipulate files efficiently.
+
+In conclusion, Linux offers a vast array of commands that can enhance your productivity and streamline your file and folder management tasks. Whether you need to create directories, view file contents, concatenate files, create empty files, or determine your current directory, these commands will prove invaluable. Embrace the power of Linux and explore the numerous commands it has to offer.",https://www.zdnet.com/a/img/resize/73a6f654a7f5dd5cfc8e3389ab98f6a3dc1aafce/2024/03/25/49237a5b-9c57-4f0a-b810-21a85165bfeb/5penguinsflyinggettyimages-520459992.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 00:00:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/uk-government-electoral-breach-voter-data-china/,UK blames China for massive breach of voter data,"The U.K. government has officially accused China of being behind a major cyberattack in 2021, which resulted in the exposure of personal data belonging to millions of U.K. voters. During a statement to lawmakers in Parliament, U.K. deputy prime minister Oliver Dowden pointed to Chinese government hackers as the culprits responsible for the breach. Dowden emphasized that the U.K. government would take swift and robust action to protect the country's interests from any threats posed by the Chinese government.
+
+This is the first time that the United Kingdom has attributed the cyberattack to China since it was initially disclosed in 2023. The Electoral Commission, responsible for maintaining the U.K. register of eligible voters, confirmed that the hackers accessed and stole the names and addresses of approximately 40 million U.K. citizens. The stolen data included information from voters registered between 2014 and 2022, as well as overseas voters. Although the breach began in 2021, it went undetected for an entire year.
+
+According to the U.K. National Cyber Security Centre (NCSC), it is highly likely that Chinese hackers infiltrated the electoral register and exfiltrated emails and data during the breach. The NCSC expressed concerns that Chinese intelligence could exploit this stolen data for large-scale espionage and transnational repression of dissidents and critics within the U.K. However, when TechCrunch reached out for further details, the NCSC declined to attribute the data breach to any specific China-backed threat actor.
+
+Dowden also revealed that a separate cyberattack, orchestrated by a China-backed hacking group, targeted the email accounts of U.K. lawmakers in 2021. However, these attempted breaches were successfully mitigated by parliamentary authorities before any email accounts were compromised. The NCSC identified the hackers responsible for the email attacks as APT31, a Chinese hacking group known for targeting the online accounts of foreign government officials. APT31 utilizes malware capable of creating backdoors into systems and extracting sensitive information. In 2018, the Norwegian government attributed a data breach on its systems to APT31.
+
+The specific lawmakers whose email accounts were targeted were not disclosed by the U.K. government. However, the NCSC indicated that most of the affected lawmakers had been actively vocal about China's malicious activities. Liu Pengyu, a spokesperson for the Chinese Embassy in the U.K., denied the allegations and stated that China does not support or condone hacker attacks. However, Pengyu added that China would resort to lawful methods to counter cyberattacks.
+
+Paul Chichester, the director of operations at NCSC, condemned the cyberattacks and highlighted the unacceptable behavior exhibited by state-affiliated actors from China. Chichester emphasized that targeting democratic systems is not tolerable, and the NCSC will continue to expose cyber actors who pose threats to the fundamental institutions and values that underpin society.
+
+In a separate development on the same day, the Biden administration accused several Chinese hackers of being involved with APT31's efforts to target U.S.-based companies. In 2020, Google security researchers linked APT31 to the targeting of email accounts belonging to both the Trump and Biden presidential campaigns.
+
+Recently, leaked documents from Chinese government contractor I-Soon shed light on how the private company is engaged in targeting and hacking other governments at the request of Chinese authorities.","https://techcrunch.com/wp-content/uploads/2024/03/uk-polling-booth-elections-cyberattack.jpg?resize=1200,777",2024-03-25 15:50:23,Innovation,Innovation
+https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/,Fisker trading suspended by NYSE,"The New York Stock Exchange (NYSE) made an announcement on Monday that it will suspend trading shares of electric vehicle (EV) startup Fisker and is planning to remove the company from its stock exchange. The reason cited by the exchange is that Fisker's stock price has reached ""abnormally low"" levels, making it unsuitable for listing. This decision comes after the NYSE warned Fisker last month that its stock price had been trading below $1 for 30 consecutive days, which violates the exchange's rules.
+
+Fisker has the option to review the NYSE's determination, but in a filing on Monday afternoon, the company stated that it expects its stock to be moved to an over-the-counter market, such as OTC Pink. Additionally, the delisting has triggered repayment clauses in two outstanding loans that Fisker is currently unable to afford, which could have a significant negative impact on the business.
+
+This suspension marks the end of a turbulent day for Fisker, as its shares plummeted more than 28% before trading was halted. Earlier in the day, Fisker announced that it had lost a potential deal with a major automaker, rumored to be Nissan. This development also jeopardizes a recently announced attempt by Fisker to secure emergency funding.
+
+The exact reason for the automaker terminating the negotiations was not provided by Fisker. However, this termination was a critical closing condition for a potential $150 million convertible note that was announced just last week. Fisker stated in the filing that it will request the unnamed investor to waive this closing condition.
+
+Fisker has been facing a series of problems over the past few months, including customer complaints, lawsuits, and federal investigations. The troubled EV startup has struggled to sell its Ocean SUV, falling short of its own internal sales goals. To address this, Fisker shifted away from a direct sales model and started working with dealerships to boost sales. However, the company has also faced challenges with quality problems, which it has found difficult to resolve, as indicated by internal documents.
+
+In February, Fisker laid off approximately 15% of its workforce, which amounted to around 200 employees. Last week, the company reported having only $121 million in cash reserves. Fisker has halted production and has warned investors that without a fresh injection of cash, it will not survive for another year.
+
+Please note that this story has been updated to reflect details from Fisker's SEC filing on Monday afternoon.","https://techcrunch.com/wp-content/uploads/2024/03/fisker-GettyImages.jpg?resize=1200,800",2024-03-25 21:06:18,Innovation,Innovation
+https://www.forbes.com/sites/danielnewman/2024/03/25/generative-ai-can-create-just-about-everything-but-will-it-ever-create-jobs/,Generative AI Can Create Just About Everything-But Will It Ever Create Jobs?,"Generative AI: The Revolution That's Redefining Work
+
+In the wake of a groundbreaking year for generative AI, it's becoming increasingly evident that this transformative technology, which has demonstrated its ability to write letters, reports, and even movie scripts, is posing a threat to certain job positions, potentially rendering them obsolete. IBM recently announced that its marketing and communications team is downsizing, citing generative AI as a contributing factor. Moreover, according to a study, over one-third of companies utilizing AI reported that it had replaced employees in 2023, with 44% predicting further layoffs in 2024.
+
+The question no longer revolves around the capabilities of generative AI, but rather focuses on the extent to which human workers can retain their relevance in a post-gen-AI world. As we confront a future shaped by AI, it is crucial for us, as workers in the global economy, to acknowledge that efficiency will always make good business sense. Just as automation revolutionized the manufacturing sector, AI is poised to transform numerous white-collar jobs, spanning across marketing and beyond. The primary objective for any business, particularly in America, is to maximize profits. Hence, any technology that enables companies to work faster, generate more output, and gain deeper insights will be viewed as a positive development by business executives. Research indicates that by 2030, approximately one-third of the hours currently worked in the US economy could be automated, largely due to the advent of generative AI.
+
+As we evaluate the implications of generative AI on the future of work, it is essential to consider a few key factors. Although generative AI has the potential to create new job opportunities, it is uncertain whether these positions will align with individual skill sets. While it is conceivable that one job lost in marketing could lead to a more advanced role within the same field, the reality is that the work landscape is likely to be sporadic, unconventional, and different for years to come. Nevertheless, technological revolutions often give rise to new and unforeseen roles.
+
+Consider the following scenario: If AI enables programmers to develop a new game with 50% greater speed and utilizing only 20% of the resources, we will still require fewer programmers to accomplish the task, even if there is an increased demand for the game. This necessitates a shift in our perception of work and our role within it as we continue to advance generative AI and future technologies. One thing is certain: it is crucial to invest time in acquiring new AI skills and adopting an ""AI mentality"" that emphasizes automation and data-focused value creation. In recent interviews, NVIDIA CEO Jensen Huang has shed light on programming and coding, suggesting that pursuing a career as a programmer may not provide the ultimate safety net.
+
+So, which jobs are most likely to experience a significant reduction due to generative AI? Here is a list of the top 10 roles that AI can streamline, resulting in 50-80% fewer full-time equivalents (FTEs):
+
+1. Website and copy development
+2. Marketing automation
+3. Sales and sales development representatives
+4. Basic legal support for personal and business tax filing, as well as basic business accounting
+5. Customer service L1/L2
+6. Light coding and application development
+7. Social media content and press releases
+8. Inventory management and optimization
+9. HR and talent management and identification
+
+While there are many other roles that could be affected, startups and small businesses can significantly enhance productivity and efficiency while reducing personnel costs through the continued rapid development of vertical AI and LLM capabilities.
+
+Sam Altman, the CEO of OpenAI, has suggested that in the future, we may witness the emergence of billion-dollar companies run by a single person. Although this may seem far-fetched, it is increasingly plausible that 10-20 person companies could generate over $100 million in revenue and potentially reach the billion-dollar mark through the strategic utilization of generative AI and intelligent chatbots.
+
+Generative AI has the potential to be both a competitor and a friend. For the first time, individuals with limited design or writing skills can leverage AI to create visually stunning graphics and generate compelling content, including letters, reports, and marketing campaigns. AI can also analyze the effectiveness of these campaigns in real-time and make necessary adjustments. These capabilities in themselves are remarkable. While it is true that humans are still needed to handle generative AI due to its imperfections and occasional hallucinations, it is important to recognize that it continues to improve every day at an exponential rate, thanks to advancements in technology and algorithms.
+
+So, how can you remain relevant when AI is capable of performing such a wide array of tasks? Firstly, it is crucial to stay engaged. Despite the allure of letting AI do all the work, resist the temptation. While AI undoubtedly offers immense assistance, it cannot replace human creativity, critical thinking, and emotional intelligence. Embrace the opportunities that generative AI presents and use it as a tool to enhance your skills and capabilities. Rather than fearing it as a competitor, view it as a friend that can empower you to achieve greater heights.
+
+In conclusion, generative AI is revolutionizing the way we work. It is essential for us to adapt and embrace this transformative technology. While certain job positions may be at risk of being replaced, new and unforeseen roles will undoubtedly emerge. By staying engaged, acquiring new AI skills, and adopting an ""AI mentality,"" we can ensure our relevance in a world increasingly defined by AI. Ultimately, generative AI should be seen as a valuable ally, augmenting our abilities and enabling us to reach new levels of success.",https://imageio.forbes.com/specials-images/imageserve/660212b5f2d67f4b8ae63aa3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 20:24:50,Innovation,Innovation
+https://www.zdnet.com/article/amazon-knows-you-dont-have-the-ai-skills-for-tomorrow-and-has-a-plan-to-help/,"Amazon knows you don't have the AI skills for tomorrow, and has a plan to help","2023 Day of AI: Bringing AI Education to Classrooms with Amazon
+
+Amazon is not just a company that delivers packages to your door. It is one of the most innovative companies globally, making major investments in infrastructure, supply chain, IT, and transportation. What many people may not know is that Amazon has been incorporating AI and machine learning into its processes long before ""generative AI"" became a buzzword.
+
+Now, Amazon is taking its AI expertise and bringing it to classrooms and virtual learning experiences. We had the privilege of speaking with Victor Reinoso, the global director of education philanthropy at Amazon, about the future of education and AI. Reinoso, who previously served as the deputy mayor of Washington D.C. and oversaw the city's education budget, is a passionate advocate for preparing students for the careers of the future.
+
+In our conversation with Reinoso, we delved into the challenges schools face in integrating AI education into their curriculums and how these challenges can be addressed. While there is a lot of talk about the AI skills gap, there is not enough discussion about the AI education gap. Teachers are eager to deliver AI content to students, but they often lack the resources and know-how to do so effectively. According to a recent survey conducted by Amazon and Access Partnership, 70% of educators lack the resources to teach foundational AI skills.
+
+To bridge this education gap, Reinoso emphasized the importance of funding educator training and increasing awareness of and access to tools and curriculum. Amazon is committed to providing free AI skills training through initiatives such as the AI Ready commitment, which aims to train two million people in AI skills by 2025. They have collaborated with Code.org to create Hour of Code Dance Party: AI Edition, an engaging introduction to coding and generative AI for K-12 students and teachers. Furthermore, Amazon is offering Generative AI Scholarships and free AI courses on Udacity to high school and university students.
+
+Another challenge in the world of AI education is ensuring responsible AI use. Teachers recognize the importance of teaching students how to use AI responsibly, and Amazon supports the integration of responsible AI into the curriculum. As AI continues to evolve, responsible stewardship will be crucial in guiding its application.
+
+In conclusion, Amazon is not just a company that delivers packages. It is at the forefront of AI innovation and is committed to bringing AI education to classrooms. Through their initiatives, they aim to bridge the AI education gap, provide free resources and training to educators and students, and promote responsible AI use. With Amazon's dedication to the future of education and AI, students will be better prepared to navigate the careers of the future.",https://www.zdnet.com/a/img/resize/08bc5883c45c188259ecb098a51ea114dc119601/2024/03/25/38b15b64-4b2d-45b8-8147-39fda8737c67/amazon-future-engineer-career-discovery-day-20231024-bsd-students-1010.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 10:59:00,Innovation,Innovation
+https://techcrunch.com/2024/03/25/elon-musk-x-ccdh-california-lawsuit-dismissed/,A judge just killed Elon Musk's lawsuit against an anti-hate research org,"A federal judge has ruled against Elon Musk and his company, X, in a lawsuit they filed against a nonprofit organization called the Center for Countering Digital Hate (CCDH). The lawsuit accused CCDH of spreading misleading information and causing financial losses to X as a result of their research on hate and extremism online. Musk also claimed that CCDH illegally scraped data and violated platform rules by using a third-party monitoring tool.
+
+The CCDH, which focuses on researching trends in hate speech, extremism, and misinformation on social networks, filed a motion to dismiss the claims made by X under California's law against Strategic Lawsuit Against Public Participation (SLAPP). This law aims to prevent frivolous lawsuits that are intended to intimidate. The CCDH argued that Musk was deliberately prolonging the legal process to increase their legal costs.
+
+United States district judge Charles R. Breyer granted CCDH's motion to dismiss the lawsuit. In his ruling, Judge Breyer stated that X's true purpose in bringing the case was to punish CCDH for their critical publications and to discourage others from engaging in similar criticism. He emphasized the importance of protecting free speech and the right to research and advocate for accountability of social media companies.
+
+The CCDH's research has drawn attention to hate speech on various platforms, including Twitter, where Musk has faced criticism for unbanning extremists. The nonprofit has also highlighted disturbing content on platforms like TikTok, YouTube, and Instagram, such as eating disorder content, climate denial, and violent misogynistic threats.
+
+After the ruling, CCDH CEO Imran Ahmed expressed his satisfaction with the court's decision and emphasized the importance of holding social media companies accountable for their decisions. The nonprofit's legal team, led by Roberta Kaplan, who recently won a defamation suit against former President Donald Trump, hailed the decision as a victory for the rule of law.
+
+While CCDH celebrates its victory in California, Musk is pursuing a similar lawsuit against the left-leaning media watchdog Media Matters for America in Texas. Unlike California, Texas does not have the same protections against frivolous lawsuits designed to stifle free speech. The outcome of this lawsuit remains to be seen.
+
+In conclusion, a federal judge has dismissed Elon Musk and X's lawsuit against the Center for Countering Digital Hate. The judge ruled in favor of CCDH, highlighting the importance of protecting free speech and the right to research and advocate against hate and extremism online. This ruling is a relief for researchers tracking online extremism, but Musk's pursuit of a similar lawsuit in Texas raises concerns about the limitations of free speech protections in different jurisdictions.","https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",2024-03-25 20:33:17,Innovation,Innovation
+https://techcrunch.com/2024/03/25/profluent-spurred-by-salesforce-research-and-backed-by-jeff-dean-uses-ai-to-discover-medicines/,"Profluent, spurred by Salesforce research and backed by Jeff Dean, uses AI to discover medicines","Last year, Salesforce introduced a project called ProGen that aimed to design proteins using generative AI. The goal was to uncover medical treatments more efficiently than traditional methods. While the project showed promise in creating 3D structures of artificial proteins, it didn't progress further commercially. However, one of the researchers involved, Ali Madani, has now launched a company called Profluent to bring protein-generating technology to pharmaceutical companies. Profluent's mission is to reverse the drug development process by starting with patient and therapeutic needs and creating customized treatments. Madani discovered the parallels between natural language and the language of proteins while at Salesforce. Proteins can be treated like words in a paragraph, and generative AI models can predict new proteins with unique functions. Profluent aims to apply this concept to gene editing, optimizing multiple attributes simultaneously to create custom-designed gene editors. Other companies, such as Nvidia, Meta, and DeepMind, have also demonstrated the potential of generative AI in predicting proteins. Profluent is training AI models on massive datasets to create and fine-tune gene-editing and protein-producing systems. The startup plans to collaborate with outside partners to develop genetic medicines with the most promising paths to approval, potentially reducing the time and cost typically required for drug development. Profluent has received backing from VC firms such as Spark Capital, Insight Partners, and Air Street Capital, as well as Google chief scientist Jeff Dean. The company's focus in the coming months will be upgrading its AI models and expanding its training datasets while acquiring customers and partners. Profluent faces competition from rivals like EvolutionaryScale and Basecamp Research, who are also developing protein-generating models. Madani believes it's time to scale and collaborate with partners to realize the company's ambitions for the future.","https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1288172035.jpg?resize=1200,675",2024-03-25 22:08:51,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-throws-its-hat-in-the-edtech-ring/,Spotify throws its hat in the edtech ring,"Welcome back to Equity, a podcast that delves into the world of startups and explores the intricacies behind the headlines. In today's episode, we have a lot to cover, from the global stock market retreat to the promising gains in the crypto market. However, the biggest news in the startup community revolves around Stability AI's CEO stepping down. Given the company's revenue growth and burn rate, this development holds significant importance.
+
+Meanwhile, in the EU, several tech companies based in the United States are currently under investigation due to the implementation of the Digital Markets Act. This raises the question of whether tech giants will eventually establish a more harmonious relationship with the bloc.
+
+Shifting our focus to Europe, Spotify is embarking on a new venture that goes beyond the realm of music. This decision sparked some intriguing thoughts among us. Additionally, we discussed recent developments in China, where they are gearing up for the launch of the Vision Pro, as well as their efforts to replace Intel and AMD chips in state computers. Lastly, we came across an interesting report highlighting the battle between beverage startups and industry giants like Coke and Pepsi for market share.
+
+For those interested in episode transcripts and more, be sure to visit Equity's Simplecast website. Remember, we release new episodes every Monday, Wednesday, and Friday at 7 a.m. PT. Don't forget to subscribe to our podcast on Apple Podcasts, Overcast, Spotify, or any other platform of your choice. Also, be sure to check out TechCrunch's fantastic crypto show, where they interview founders and delve deeper into the world of cryptocurrency.","https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop.jpg?resize=1200,675",2024-03-25 14:22:20,Innovation,Innovation
+https://techxplore.com/news/2024-03-pairing-crypto-green-hydrogen-energy.html,"Pairing crypto mining with green hydrogen offers clean energy boost, study suggests","Pairing cryptocurrency mining, known for its high carbon emissions, with green hydrogen technology could be a game-changer in the pursuit of renewable energy, according to a recent study conducted by Cornell University. The study, titled ""Climate Sustainability Through a Dynamic Duo: Green Hydrogen and Crypto Driving Energy Transition and Decarbonization,"" explores the potential of combining energy-intensive cryptocurrency mining with green hydrogen to accelerate the development of renewable energy sectors.
+
+The researchers, Professor Fengqi You and doctoral student Apoorv Lal, emphasize the need to tap into the growing enthusiasm for cryptocurrency and leverage it for a sustainable and climate-friendly future. They propose using clean energy sources to power blockchain mining operations and fuel the production of green hydrogen, creating a positive feedback loop that benefits both industries.
+
+Currently, the carbon footprint of cryptocurrency mining is immense, with the energy consumption of mining operations rivaling that of entire countries. The researchers cite a 2022 report from the White House Office of Science and Technology, which reveals that mining blockchain-based cryptocurrency in the U.S. consumes as much carbon-based energy as Argentina. This is primarily due to the energy-hungry consensus mechanisms, known as ""proof of work,"" used to verify crypto-assets.
+
+To address this issue, You and Lal propose an innovative solution that leverages cryptocurrencies as virtual energy carriers in conjunction with green hydrogen technology. By doing so, they believe it is possible to transform the environmental challenge of cryptocurrency mining into a force for climate mitigation and sustainability.
+
+In their research, You and Lal conducted an assessment of individual U.S. states to identify the potential energy strengths in each region. They found that supporting cryptocurrency mining could facilitate the development of additional energy infrastructure and potentially generate significant amounts of renewable energy. For example, in New Mexico, each Bitcoin mined could result in the creation of 78.4 megawatt hours of solar power, while in Wyoming, each Bitcoin could generate 265.8 megawatt hours of wind power.
+
+The researchers emphasize that cryptocurrency, much like energy, can be thought of as a virtual concept. While it may not be tangible, it holds value, and in the case of cryptocurrency, it can also hold an energy value. This unique characteristic opens up new possibilities for leveraging cryptocurrency as a tool for renewable energy transition.
+
+However, for this vision to become a reality, the researchers stress the importance of stronger federal policies that prioritize climate goals and renewable energy. They believe that coupling cryptocurrency with green hydrogen is not only a way to mitigate its environmental impact but also a pioneering strategy for sustainable energy transition.
+
+The study conducted by You and Lal offers a novel perspective on the intersection of cryptocurrency and renewable energy. By harnessing the enthusiasm surrounding cryptocurrency and combining it with green hydrogen technology, it is possible to create a more sustainable energy landscape. This approach has the potential to accelerate renewable energy production, reduce carbon emissions from cryptocurrency mining, and pave the way for a brighter and greener future.
+
+As the world grapples with the urgent need to address climate change, innovative solutions like the one proposed by You and Lal are crucial. By leveraging the power of cryptocurrencies and harnessing the potential of green hydrogen, we can transform the environmental challenges we face into opportunities for positive change. It is through such dynamic and forward-thinking approaches that we can build a sustainable and climate-friendly future.",https://scx2.b-cdn.net/gfx/news/hires/2023/cryptocurrencies.jpg,2024-03-25 15:00:02,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","The European Union has recently announced a series of investigations on Big Tech companies, including Alphabet/Google, Apple, and Meta, under the Digital Markets Act (DMA). These investigations mark the first formal non-compliance probes under the EU's revamped competition rulebook.
+
+Alphabet/Google is under scrutiny for its rules on steering in Google Play and its approach to self-preferencing in search results. Apple is being investigated for its rules on steering in the App Store and the design of choice screens for alternatives to its Safari web browser. The EU will also be examining Meta's ""pay or consent"" model.
+
+A total of five investigations were announced, less than three weeks after the compliance deadline for these companies. The three gatekeepers, designated under the pan-EU market power and contestability regulation, are facing formal investigations to determine if they are breaching the rulebook. Violations of the DMA can result in fines of up to 10% of global annual turnover, or even 20% for repeat offences.
+
+The EU has up to 12 months to conclude the investigations, with a preliminary report possible within six months. However, the duration of the probes may vary from these guidelines.
+
+This enforcement action by the EU comes as antitrust scrutiny on these three US firms increases on their home turf as well.
+
+Criticism has been raised regarding the companies' compliance plans with the new EU law. Google has been accused of trying to bypass the regulation's ban on self-preferencing by introducing new rich features in search results that unfairly compete with rivals. Apple's use of notifications to warn users of risks outside its walled garden has been criticized by developers as ""scare screens."" Meta's ""pay or be tracked"" tactic has also been condemned by privacy and consumer rights groups.
+
+The Commission has opened proceedings to assess whether Alphabet and Apple have breached the DMA in relation to their app stores. The DMA requires gatekeepers to allow app developers to ""steer"" consumers to offers outside their app stores free of charge. The Commission is concerned that the pair's steering measures impose various restrictions and limitations, hindering developers' ability to promote offers and directly conclude contracts.
+
+Regarding Google's self-preferencing, the EU will focus on the impact of Google's vertical search services on rival services. The Commission is concerned that Alphabet's measures to comply with the DMA may not ensure fair treatment of third-party services compared to Alphabet's own services.
+
+The EU will also investigate Apple's compliance with user choice obligations on iOS, including enabling easy uninstallation of apps, changing default settings, and providing choice screens that allow users to select alternative default services.
+
+Concerning Meta, the EU will examine whether its ""pay or consent"" model for EU users complies with the DMA. The Commission is concerned that this model may not provide a real alternative if users do not consent, thus failing to prevent the accumulation of personal data by gatekeepers.
+
+In response to a question about these probes, the EU's internal market commissioner emphasized the DMA's requirement for gatekeepers to offer a free, non-preferential choice to users.
+
+These investigations by the EU demonstrate its commitment to regulating Big Tech and ensuring fair competition in the digital market. The outcomes of these probes will have significant implications for the future of these companies and their operations within the EU.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://www.zdnet.com/article/upgrade-to-windows-11-pro-for-just-25-right-now/,Upgrade to Windows 11 Pro for just $25 right now,"ZDNET's recommendations are carefully curated based on extensive testing, research, and comparison shopping. We meticulously gather data from reputable sources, such as vendor and retailer listings, as well as independent review sites that provide valuable insights. Additionally, we take into consideration the feedback and experiences of real customers who have already purchased and utilized the products and services we are evaluating.
+
+We want to be transparent about the fact that when you click on a link from our site and make a purchase from a retailer, we may earn affiliate commissions. However, it's important to note that this does not impact the content we cover, how we cover it, or the price you pay. Neither ZDNET nor the author receive compensation for these independent reviews. We abide by strict guidelines that ensure our editorial content remains impartial and uninfluenced by advertisers.
+
+At ZDNET, our dedicated editorial team is committed to serving you, our valued reader. We strive to provide the most accurate information and expert advice to assist you in making informed decisions when it comes to purchasing tech gear and a wide range of products and services. To maintain the highest standards, our editors diligently review and fact-check every article. In the event that we make an error or publish misleading information, we are committed to promptly correcting or clarifying the content. If you come across any inaccuracies in our articles, we encourage you to report the mistake using this form.
+
+At ZDNET, we understand that your trust is paramount, and we take our responsibility to deliver reliable and trustworthy content very seriously. We are dedicated to ensuring that our recommendations are based on thorough research, unbiased analysis, and factual accuracy. We aim to empower you with the knowledge and insights necessary to make smarter purchasing decisions in the ever-evolving world of technology and beyond.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-25 10:30:00,Innovation,Innovation
