@@ -1,0 +1,24 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-large-language-simple-mechanism-knowledge.html,Large language models use a surprisingly simple mechanism to retrieve some stored knowledge,"Large language models, such as the ones used in popular AI chatbots like ChatGPT, are highly complex and widely used in various fields. Despite their extensive application in customer support, code generation, and language translation, researchers are still trying to comprehend their inner workings.
+
+To gain a better understanding of these models, a team of researchers from MIT and other institutions investigated how these massive machine-learning models retrieve stored knowledge. Surprisingly, they discovered that large language models often employ a simple linear function to decode and retrieve stored facts. These models use the same decoding function for similar types of facts. Linear functions, which involve two variables and no exponents, capture the direct relationship between variables.
+
+By identifying linear functions for different facts, researchers can probe the model to determine its knowledge about new subjects and locate where that knowledge is stored within the model. Using a technique they developed to estimate these simple functions, the researchers found that even when a model provides incorrect answers, it often has the correct information stored. This approach could potentially be used to identify and rectify falsehoods within the model, reducing its tendency to provide incorrect or nonsensical responses.
+
+Evan Hernandez, an electrical engineering and computer science graduate student at MIT, stated, ""Even though these models are really complicated, nonlinear functions that are trained on lots of data and are very hard to understand, there are sometimes really simple mechanisms working inside them. This is one instance of that.""
+
+Hernandez collaborated with Arnab Sharma, a computer science graduate student at Northeastern University, along with their advisors and other researchers from MIT, Harvard University, and the Israeli Institute of Technology. They will present their findings at the International Conference on Learning Representations (ICLR 2024) in Vienna.
+
+Most large language models, also known as transformer models, are neural networks composed of billions of interconnected nodes or neurons. These networks consist of multiple layers that encode and process data, loosely resembling the human brain.
+
+The knowledge stored in a transformer model can often be expressed as relations connecting subjects and objects. For example, the relation ""Miles Davis plays the trumpet"" connects the subject, Miles Davis, to the object, trumpet.
+
+As a transformer model acquires more knowledge, it stores additional facts about a specific subject across multiple layers. When a user inquires about that subject, the model must decode the most relevant fact to generate a response.
+
+To understand how transformers retrieve relational information, the researchers conducted a series of experiments. Despite their complexity, the models were found to decode relational information using simple linear functions. Each function is specific to the type of fact being retrieved.
+
+For instance, the transformer would utilize one decoding function to output the instrument a person plays and a different function to output the state where a person was born.
+
+The researchers developed a method to estimate these simple functions and computed functions for 47 different relations, such as ""capital city of a country"" and ""lead singer of a band."" While there are countless possible relations, the researchers focused on this particular subset as they represent the types of facts that can be expressed in this manner.
+
+They tested each function by altering the subject to evaluate if it could recover the correct object information.",https://scx2.b-cdn.net/gfx/news/hires/2024/large-language-models-2.jpg,2024-03-25 09:34:06,Innovation,Innovation
