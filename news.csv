@@ -1,0 +1,246 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/,Can you hear me now? AI-coustics to fight noisy audio with generative AI,"Can you hear me now? AI-coustics to fight noisy audio with generative AI
+
+Noisy recordings of interviews and speeches can be a real headache for audio engineers. But a German startup called AI-coustics aims to solve this problem using generative AI technology to enhance the clarity of voices in videos.
+
+AI-coustics recently emerged from stealth mode with €1.9 million in funding. According to co-founder and CEO Fabian Seipel, their technology goes beyond standard noise suppression and can work with any device and speaker.
+
+Seipel, who has a background in audio engineering, co-founded AI-coustics with Corvin Jaedicke, a machine learning lecturer at the Technical University of Berlin. They were inspired to start the company after experiencing poor audio quality in their online courses and tutorials.
+
+Their mission is to improve the audio quality of digital interactions, whether it's a conference call, a consumer device, or a casual social media video. Seipel explained, ""While my hearing is slightly impaired from music production in my early twenties, I've always struggled with online content and lectures, which led us to work on the speech quality and intelligibility topic in the first place.""
+
+The market for AI-powered noise-suppressing and voice-enhancing software is already quite robust. AI-coustics' competitors include Insoundz, which uses generative AI to enhance streamed and pre-recorded speech clips, and Veed.io, a video editing suite with tools to remove background noise.
+
+However, AI-coustics claims to have a unique approach to developing their AI mechanisms for noise reduction. They use a model trained on speech samples recorded in their Berlin studio. People are paid to record these samples, which are then added to the training data set.
+
+Seipel stated, ""We developed a unique approach to simulate audio artifacts and problems — e.g. noise, reverberation, compression, band-limited microphones, distortion, clipping and so on — during the training process.""
+
+While AI-coustics' compensation scheme for creators may be debated, the more immediate concern is bias. Speech recognition algorithms can develop biases that harm users. Seipel acknowledged this issue and said that AI-coustics is focusing on recruiting diverse speech sample contributors to eliminate bias and ensure the technology works for all languages, speaker identities, ages, accents, and genders.
+
+To test the effectiveness of AI-coustics' technology, I uploaded three video clips to their platform: an interview with an 18th-century farmer, a car driving demo, and an Israel-Palestine conflict protest. The processed clips had significantly less ambient background noise, delivering on AI-coustics' promise of boosting clarity.
+
+Seipel envisions their technology being used for real-time speech enhancement as well as recorded speech. They also hope to embed it in devices like soundbars, smartphones, and headphones to automatically improve voice clarity. Currently, AI-coustics offers a web app and API for post-processing audio and video recordings, as well as an SDK for integration into existing workflows, apps, and hardware.
+
+AI-coustics has five enterprise customers and 20,000 users, although not all of them are paying customers. They generate revenue through subscriptions, on-demand pricing, and licensing. Their future plans include expanding their team and improving their speech-enhancing model.
+
+By leveraging generative AI, AI-coustics is making strides in the field of audio enhancement. With their unique approach and focus on eliminating bias, they aim to provide clear and high-quality audio experiences in various digital interactions.","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1009979808.jpg?resize=1200,801",2024-03-25 18:43:01,Innovation,Innovation
+https://www.forbes.com/sites/sumantsinha/2024/03/25/diverse-supply-chains-key-to-unlocking-the-power-of-renewables/,Diverse Supply Chains Key To Unlocking The Power Of Renewables,"The transition from fossil fuels to clean energy is a pressing issue that requires not only a shift in energy sources but also a diversification of materials and components supply. While scaling up production and supply capabilities is not a problem, the geographical diversification of these capabilities is a challenge that needs to be addressed. In this article, we will explore why diversification is an issue and discuss potential solutions.
+
+Currently, suppliers of solar modules, cells, wafers, electrolysers (for green hydrogen), and battery components face difficulties in attracting finance, operating in the international market, and growing their businesses. The dominant player in the market is China, which enjoys significant cost advantages. Chinese companies produce eight out of ten solar modules used worldwide, offering them at a cost 20 to 40% lower than their competitors. This trend extends to other components as well.
+
+Chinese producers are rapidly expanding their capacities to meet global demand, leaving little room for new players to enter the market. Investment announcements, primarily by Chinese producers, indicate that global solar PV manufacturing capacity is expected to reach 1,000 GW by 2024-25, while the demand is projected to reach only 650 GW per year by 2030. A similar trend can be observed in the battery sector, with the planned capacities of the top 20 companies being triple the current global demand. Even electrolyser production, essential for green hydrogen, is set to exceed demand, with 175 – 360 GW of capacity in the pipeline against a 2030 demand of 180 GW, half of which is in China. These figures highlight the existence of significant over-capacities that can be leveraged to stifle competition.
+
+Catching up with China will not be easy, but progress is being made. The US and India, for example, have developed a pipeline of almost 170 GW of solar module manufacturing capacity through incentives like the Inflation Reduction Act and Production Linked Incentives. Similarly, the European Commission aims to achieve at least 40% of the EU's demand for net-zero technologies through its Net-Zero Industry Act by 2030. Additionally, Indonesia is working towards a domestic production capacity of 140 GWh of batteries by 2030, utilizing its substantial nickel reserves.
+
+So, what is the path forward? Here's a three-point plan for diversification:
+
+1. Leveraging the power of domestic markets and coordinated trade strategies: Given the current disadvantage in production costs, it is crucial to tap into domestic markets that have the potential to deploy significant solar power capacity. Regions such as the US, EU, India, Brazil, Australia, and Japan are likely to deploy over 20 GW per year of solar power capacity each by 2030, creating a favorable environment for the manufacturing ecosystem and achieving economies of scale. However, investments and economies of scale will only materialize if there is sufficient demand for locally produced components. Renewable energy targets play a vital role in signaling demand for solar, wind, and battery supply chains. Government-led procurement and mandates are needed to boost demand for green hydrogen and electric vehicles.
+
+2. Implementing trade policies: Trade policies play a critical role in creating demand for diversified supply chains. Import duties and non-tariff barriers, such as those implemented by the US and India, are a step in the right direction. Countermeasures against anti-dumping, like the ones initiated by Brazil and Vietnam, are also crucial. There are instances of solar modules, cells, wind towers, and battery components being sold in international markets at artificially low prices, which can undermine fair competition. To mitigate the risk of over-protected inefficient industries, these policies should have clearly defined end-points triggered by market conditions that demonstrate fair pricing. Moreover, coordinated trade policies would be beneficial, allowing countries to focus on the parts of the supply chain where they have a competitive advantage instead of competing across all parts. This would prevent artificially small and fragmented markets from fostering smaller and inefficient entities that cannot compete internationally in the long run.
+
+In conclusion, the shift to clean energy requires not only a transition in energy sources but also a diversification of materials and components supply. While China currently dominates the market, efforts are being made to catch up and diversify the supply chain. Leveraging domestic markets, implementing coordinated trade strategies, and ensuring fair competition are key to achieving this goal. By adopting these measures, we can create a sustainable and globally competitive clean energy industry.",https://imageio.forbes.com/specials-images/imageserve/6601bb79256741bd41f3fbd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 18:24:01,Innovation,Innovation
+https://techcrunch.com/2024/03/25/large-language-models-can-help-home-robots-recover-from-errors-without-human-help/,Large language models can help home robots recover from errors without human help,"Home robots have struggled to gain traction in the market for several reasons, including pricing, practicality, form factor, and mapping. Even when these challenges are addressed, there is still the issue of what happens when a robot makes a mistake. This problem is not limited to consumer-level robots; even industrial robots face similar challenges. However, large language models (LLMs) offer a promising solution to this problem, as demonstrated by recent research from MIT.
+
+A study that will be presented at the International Conference on Learning Representations (ICLR) in May aims to bring ""common sense"" into the process of correcting mistakes in robots. The researchers at MIT have discovered that robots are excellent mimics, but they lack the ability to adjust to unexpected situations without being explicitly programmed to do so. Traditionally, when a robot encounters an issue, it exhausts its pre-programmed options before requiring human intervention. This is particularly challenging in unstructured environments like homes, where minor changes can disrupt a robot's functioning.
+
+Imitation learning, which involves learning to perform a task through observation, is popular in the field of home robotics. However, it struggles to account for the countless small environmental variations that can interfere with regular operation. As a result, robots often need to restart from scratch. The new research addresses this issue by breaking demonstrations into smaller subsets, rather than treating them as a continuous action. This approach eliminates the need for programmers to manually label and assign numerous subactions.
+
+LLMs play a crucial role in this research by providing instructions for each step of a task in natural language. The researchers connect these instructions with a robot's physical actions, allowing the robot to automatically know its progress in a task and recover from mistakes. In the specific demonstration featured in the study, the researchers trained a robot to scoop marbles and pour them into a bowl. While this may seem like a simple task for humans, it requires the robot to perform various small tasks. The LLMs can list and label these subtasks. During the demonstrations, the researchers intentionally sabotaged the activity by bumping the robot off course and knocking marbles out of its spoon. However, the system was able to self-correct the small tasks without starting from scratch.
+
+This method eliminates the need for human intervention or additional demonstrations when a robot makes mistakes. It allows the robot to recover from failures on its own, improving its ability to perform tasks accurately. By leveraging LLMs and breaking demonstrations into smaller subsets, this research paves the way for more capable and adaptable home robots.
+
+In conclusion, the use of large language models in the field of robotics offers a promising solution to the challenges faced by home robots. By breaking demonstrations into smaller subsets and connecting them with natural language instructions provided by LLMs, robots can self-correct and recover from mistakes without human intervention. This research brings ""common sense"" into the process of correcting mistakes, making home robots more capable and adaptable. With further development and refinement, this approach could revolutionize the way robots operate in unstructured environments like homes. So, the next time a robot makes a mistake, there's no need to lose your marbles.",https://techcrunch.com/wp-content/uploads/2024/03/CommonSense-01-press_0.jpg?w=900,2024-03-25 20:01:06,Innovation,Innovation
+https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/,TechCrunch Space: Returning to the moon,"Welcome back to TechCrunch Space! We have some exciting news to share with you. Boeing and NASA are gearing up for their first crewed Starliner mission, scheduled for May 1. This mission represents a significant milestone in the space industry and demonstrates the progress we're making in human space exploration.
+
+In other news, SpaceX is making strides in expanding its launch capabilities. The company is in the final stages of certifying a second pad for astronaut launches. This development will alleviate congestion at launch sites and allow SpaceX to increase the number of humans it sends to space. Recently, SpaceX utilized this new pad to successfully launch an uncrewed Dragon capsule to the International Space Station. With this successful test, SpaceX is on track for crewed missions in the near future.
+
+Rocket Lab, another prominent player in the space industry, achieved a significant feat last Thursday. The company completed its fourth launch from Virginia, deploying the Electron rocket carrying a classified payload for the National Reconnaissance Office (NRO). This mission marks the fifth and final one under the contract Rocket Lab secured in 2020. You can watch the launch replay to witness this impressive accomplishment.
+
+Now, let's dive into an interesting article from Bloomberg that sheds light on the impact of NewSpace companies on hiring and retention at established organizations like NASA. It's fascinating to explore how the rise of these private space companies has influenced the workforce dynamics in the industry. The situation is more nuanced than one might assume, and this article provides valuable insights into the subject.
+
+As we reflect on space history, let's remember a significant event that took place on March 30, 1982. On this day, the space shuttle Columbia safely landed at the White Sands Missile Range in New Mexico. The shuttle had successfully completed an eight-day mission, carrying astronauts Jack R. Lousma and C. Gordon Fullerton. This achievement was a testament to human ingenuity and marked another milestone in our exploration of space.
+
+We hope you found these updates and insights informative. The space industry is rapidly evolving, and we're excited to share the latest developments with you. If you have any tips or suggestions, feel free to reach out to us. You can email Aria at aria.techcrunch@gmail.com or send a message via Signal at 512-937-3988. Alternatively, you can contact the entire TechCrunch team at tips@techcrunch.com. For secure communications, visit our website, which provides access to SecureDrop and encrypted messaging apps.
+
+Stay tuned for more exciting news and updates from TechCrunch Space. Until next time, keep looking up!",https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=941,2024-03-25 22:00:11,Innovation,Innovation
+https://techcrunch.com/2024/03/25/lucid-motors-1-billion-saudi-arabia-gravity-suv/,Lucid Motors raises another $1 billion from Saudi Arabia as it searches for luxury EV buyers,"Lucid Motors, a luxury electric vehicle manufacturer, is receiving an additional $1 billion in funding from Ayar Third Investment, an affiliate of Saudi Arabia's Public Investment Fund. This investment will increase the Kingdom's stake in Lucid to approximately 60%. The funding is aimed at alleviating the high costs associated with the production and sale of their electric sedan.
+
+Despite the new funding, Lucid Motors recently disclosed that it plans to manufacture only around 9,000 units of its Air electric vehicles this year. This figure represents a slight increase compared to the previous year. In 2023, the company incurred a loss of $2.8 billion but ended the year with nearly $1.4 billion in cash and equivalents. The financial situation highlights the challenges Lucid Motors faces in finding potential buyers for its expensive Air sedan.
+
+To boost sales, Lucid Motors has implemented multiple price cuts in recent months. These efforts have been made in response to the difficulties encountered in attracting interested customers. Additionally, the company intends to initiate the production of its electric Gravity SUV by the end of this year.
+
+Interestingly, Lucid Motors' decision to secure further funding from Saudi Arabia comes shortly after CEO Peter Rawlinson expressed caution about relying too heavily on the Kingdom's financial support. Rawlinson emphasized the importance of not assuming there is an endless supply of wealth from the Public Investment Fund. He stated his respect for Saudi Arabia's involvement but acknowledged the dangers of becoming overly reliant on their support.
+
+In conclusion, Lucid Motors' collaboration with Saudi Arabia's Public Investment Fund continues to strengthen as the Kingdom invests an additional $1 billion in the company. This funding aims to address the financial challenges associated with producing and selling luxury electric vehicles. Despite the difficulties in finding buyers for their expensive sedan, Lucid Motors remains optimistic, implementing price cuts and planning the release of their electric SUV. The company recognizes the significance of not solely relying on Saudi Arabia's financial support, emphasizing the importance of financial prudence and independence.","https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?resize=1200,675",2024-03-25 14:31:52,Innovation,Innovation
+https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/,Fisker trading suspended by NYSE,"The New York Stock Exchange has announced that it will suspend trading shares of electric vehicle (EV) startup Fisker and is working to remove the company from its stock exchange. The exchange has deemed Fisker's stock as ""no longer suitable for listing"" due to unusually low price levels. This decision comes after the NYSE warned Fisker that its stock price had been trading below $1 for 30 consecutive days, violating the exchange's rules.
+
+While Fisker has the opportunity to review the NYSE's determination, the company expects its stock to be moved to an over-the-counter market, such as OTC Pink. Additionally, the delisting has triggered repayment clauses in two outstanding loans that Fisker cannot currently afford, potentially having a significant negative impact on the business.
+
+This announcement comes amidst a challenging day for Fisker, as its shares fell over 28% before trading was halted. Earlier in the day, the company disclosed that it had lost a potential deal with a major automaker, rumored to be Nissan. This development not only jeopardizes a recently announced attempt to secure emergency funding but also poses a threat to a potential $150 million convertible note announced last week. Fisker plans to request that the unnamed investor waive the closing condition related to the deal termination.
+
+Fisker has been facing escalating problems for several months, including customer complaints, lawsuits, and federal investigations. The struggling EV startup has encountered difficulties in selling its Ocean SUV, failing to meet internal sales targets. In an effort to boost sales, Fisker shifted from a direct sales model to relying on dealerships. However, the company has also grappled with quality issues that it has struggled to resolve, as revealed in internal documents.
+
+In February, Fisker laid off approximately 15% of its staff, amounting to around 200 people. As of last week, the company reported having only $121 million in its bank account. Fisker has temporarily halted production and has warned investors that it will not survive without a fresh injection of capital within the next year.
+
+Please note that this story has been updated with information from Fisker's SEC filing on Monday afternoon.","https://techcrunch.com/wp-content/uploads/2024/03/fisker-GettyImages.jpg?resize=1200,800",2024-03-25 21:06:18,Innovation,Innovation
+https://techcrunch.com/2024/03/25/elon-musk-x-ccdh-california-lawsuit-dismissed/,A judge just killed Elon Musk's lawsuit against an anti-hate research org,"Elon Musk and X Corporation recently faced a setback in their legal battle against the nonprofit organization, the Center for Countering Digital Hate (CCDH). The lawsuit, which accused CCDH of spreading misleading claims about hate and extremism on the platform, was dismissed by a federal judge.
+
+X Corporation, led by Musk, alleged that CCDH's research had caused them to lose ""tens of millions of dollars."" They also claimed that CCDH had illegally gathered data and violated the platform's rules by using a third-party social media monitoring tool called Brandwatch. Musk himself referred to CCDH as ""an evil propaganda machine"" in his responses on X.
+
+In response to the lawsuit, CCDH filed a motion to strike X's claims under California's law against Strategic Lawsuit Against Public Participation (SLAPP). This law is designed to prevent frivolous lawsuits that aim to intimidate. CCDH CEO Imran Ahmed accused Musk of intentionally prolonging the legal process to increase the organization's legal costs, highlighting Musk's substantial net worth of around $200 billion.
+
+United States District Judge Charles R. Breyer, of the Northern District of California, granted CCDH's motion to dismiss the case. Breyer also denied Musk and X the opportunity to reopen the case. In his ruling, Judge Breyer stated that X Corporation's true purpose in filing the lawsuit was to punish CCDH for its critical publications of X Corporation and to deter others from engaging in similar criticism.
+
+In recent months, CCDH has drawn attention to the rise of hate speech on Twitter, particularly after Musk's increased activity on the platform. They released a report exploring how Musk's decision to unban several highly followed extremists could potentially benefit the company's ad revenue. Notably, the report highlighted the presence of infamous neo-Nazi Andrew Anglin, creator of the white supremacist website the Daily Stormer.
+
+CCDH, established in 2018, focuses on researching hate speech, extremism, and misinformation on major social networks. Their research sheds light on disturbing content across various platforms, including reports on eating disorder content on TikTok, climate denial on YouTube, and violent misogynistic threats on Instagram.
+
+Following the court's ruling, CCDH's CEO, Imran Ahmed, expressed satisfaction, stating, ""We create costs for lies and hate."" He emphasized the importance of the organization's right to research, speak, advocate, and hold social media companies accountable for decisions that impact society.
+
+CCDH's legal team, led by Roberta Kaplan, celebrated the decision, highlighting their victory against former president Donald Trump in the E. Jean Carroll defamation suit. Kaplan remarked that the ruling demonstrates that even the world's wealthiest individuals cannot manipulate the rule of law to their advantage.
+
+While CCDH celebrates its victory in California, Musk continues to pursue a similar lawsuit against the left-leaning media watchdog, Media Matters for America. However, this lawsuit is taking place in Texas, where the same legal protections against frivolous lawsuits do not exist as they do in California, potentially making it a more challenging battle for Musk and X Corporation.
+
+Overall, this ruling serves as a win for researchers tracking online extremism and a reminder of the importance of free speech and accountability in the digital age. The outcome of the ongoing legal battles involving Musk will undoubtedly shape the future of online discourse and the responsibilities of social media platforms.","https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",2024-03-25 20:33:17,Innovation,Innovation
+https://www.forbes.com/sites/robwieland/2024/03/25/the-dungeons--dragons-50th-anniversary-began-at-gary-con-last-weekend/,The Dungeons & Dragons 50th Anniversary Began At Gary Con Last Weekend,"Evernight is a renowned location that your heroes will undoubtedly venture to as they strive to thwart the infamous Vecna. Wizards of the Coast
+
+Every spring, Dungeons & Dragons enthusiasts gather in Lake Geneva, Wisconsin for a one-of-a-kind convention experience. Gary Con is a celebration of the life and legacy of Gary Gygax, the game's co-creator. As the birthplace of D&D, Lake Geneva offers players of all ages the opportunity to immerse themselves in the rich history of the game.
+
+This year, Wizards of the Coast took advantage of the occasion to kick off the celebration of D&D's 50th Anniversary. They showcased upcoming books, collaborations with other companies, and even a historical account of the game, catering to both new and longtime fans. Let's take a look at what's in store for D&D's 50th Anniversary in 2024.
+
+Vecna: Eve of Ruin
+If the name Vecna rings a bell, it's likely because you're a fan of D&D or Stranger Things, or perhaps both. Vecna is one of the most notorious villains in the multiverse, a lich who craves eternal life and dominion over everything. He has posed a threat to heroes across multiple worlds, and now he's preparing to make his final move to seize control.
+
+Vecna: Eve of Ruin is a high-level campaign that begins at level 10 and progresses all the way to level 20. Players will embark on a journey through various worlds, including the Forgotten Realms, Planescape, Spelljammer, Eberron, Ravenloft, Dragonlance, and Greyhawk, in search of legendary artifacts that can halt Vecna's ultimate ritual. The book is set to be released on May 21st, 2024.
+
+Quests From The Infinite Staircase
+One of the reasons Dungeons & Dragons Fifth Edition has gained such popularity is its ability to honor its past while embracing the future. Adventure collections like Tales From The Floating Portal, Ghosts of Saltmarsh, and campaigns like Curse of Strahd and Tomb of Annihilation have allowed a new generation of players to enjoy classic campaigns. Quests From The Infinite Staircase weaves together six timeless tales that can be played as a complete campaign or seamlessly integrated into an existing storyline.
+
+The updated quests include:
+- Beyond The Crystal Cave
+- Expedition To The Barrier Peaks
+- Pharaoh
+- The Lost Caverns of Tsojcanth
+- The Lost City
+- When A Star Falls
+
+This campaign is designed for levels 1 through 13, and the book is scheduled for release on July 16, 2024.
+
+2024 Dungeons & Dragons Core Rulebooks
+There have been minimal changes to the core rulebooks since our previous coverage, except for the inclusion of firm release dates. The Player's Handbook is set to be released on September 17th, 2024, followed by the Dungeon Master's Guide on November 13th, 2024. Technically, the Monster Manual will be the first D&D release of the following year, hitting shelves on February 18th, 2025. Stay tuned for more in-depth coverage of each book as its release approaches.
+
+The Making of Original Dungeons & Dragons: 1970-1977
+Historian Jon Petersson has been granted unprecedented access to early drafts of Gary Gygax's work on the game for this upcoming book. Through a collection of personal documents, fanzines, and magazine articles, Petersson provides a captivating glimpse into the evolution of Dungeons & Dragons from its inception. The book is slated for release on June 18th, 2024.
+
+FanRoll Premium Dice
+D&D players can never have too many dice, and FanRoll is here to cater to that need. They have announced a partnership to produce branded luxury dice not only for Dungeons & Dragons but also for many other games under Hasbro's banner. The collaboration also includes accessories like art-branded dice towers and a dice spinner to prevent those shiny new dice from rolling off the table.
+
+Reyn Spooner Aloha Shirts
+Gary Gygax was famous for sporting aloha shirts whenever he attended game conventions. Reyn Spooner is reviving that tradition with a line of Dungeons & Dragons shirts featuring classic creatures and tropical prints. These breezy cotton/polyester shirts are perfect for both Jamaica and Gen Con.
+
+Converse Athletic Wear
+Converse has unveiled a line of athletic wear that encompasses shirts, shorts, and shoes. In April, four pairs of high tops will be available, including two classic Chuck Taylor All Stars and two Chuck 70 Leather styles.
+
+LEGO Ideas
+Last but certainly not least, a dream collaboration has come to fruition as LEGO Ideas teams up with Hasbro to create a premium LEGO D&D set. The product will include a dungeon, a dragon, a tavern, and a group of adventurer minifigures to bring it all to life. Priced at $359.99, this much-anticipated set is expected to be released in early April 2024.
+
+As D&D's 50th Anniversary approaches, fans have much to look forward to. From thrilling campaigns to collectible merchandise, the celebration promises to be a memorable one. So gather your party, sharpen your pencils, and prepare to embark on new adventures in the vast and ever-evolving world of Dungeons & Dragons.",https://imageio.forbes.com/specials-images/imageserve/6601f646cf1549607ed093aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 18:13:46,Innovation,Innovation
+https://techcrunch.com/2024/03/25/spotify-throws-its-hat-in-the-edtech-ring/,Spotify throws its hat in the edtech ring,"Welcome back to Equity, the podcast that delves into the world of startups and breaks down the details behind the headlines. In today's episode, we have a lot to cover. Global stock markets are experiencing a decline, but the crypto market is looking promising with recent gains. However, the biggest news in the startup world is the departure of Stability AI's CEO. This move holds significance given the previous discussions surrounding the company's revenue growth and burn rate.
+
+Shifting our focus to the EU, several tech companies based in the United States are currently under investigation due to the implementation of the new Digital Markets Act. It begs the question of whether these tech giants will be able to establish a more harmonious working relationship with the European bloc.
+
+On the topic of Europe, Spotify is making strides beyond the realm of music. I have some thoughts on their latest venture, which I'll be sharing with you today. Additionally, we'll delve into the news from China regarding the Vision Pro and their efforts to replace Intel and AMD chips in state computers. Finally, we'll wrap up with a report on how beverage startups are battling against industry giants Coke and Pepsi for a larger market share.
+
+If you're interested in episode transcripts and more, be sure to visit Equity's Simplecast website. Our podcast drops every Monday, Wednesday, and Friday at 7 a.m. PT, so don't forget to subscribe to us on Apple Podcasts, Overcast, Spotify, and all other podcast platforms. And while we're on the topic of podcasts, TechCrunch has an excellent show focused on crypto, featuring interviews with founders and more.
+
+Thank you for tuning in to today's episode of Equity. Let's dive in and explore the exciting world of startups together.","https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop.jpg?resize=1200,675",2024-03-25 14:22:20,Innovation,Innovation
+https://www.forbes.com/sites/robertdefrancesco/2024/03/25/mondaycom-stock-gains-20-ytd-on-new-product-growth-and-upmarket-progress/,Monday.com Stock Gains 20% YTD On New Product Growth And Upmarket Progress,"Monday.com, a work management software platform, recently released its latest quarterly results, showcasing strong growth in new product adoption and expansion in the enterprise customer segment. The company's stock has also seen a significant increase, rising 53.9% in 2023 and 20% year-to-date.
+
+In the fourth quarter, Monday.com reported a 35% increase in revenue to $202.5 million, surpassing the consensus estimate of $197.9 million. Earnings per share came in at 65 cents, beating the consensus by 33 cents. The company maintained a steady gross margin of 90% year over year and exceeded the expected operating margin of 4% to 5% with a margin of 10%.
+
+The total paid customer base for Monday.com grew by 21% to 225,231, while the number of customers with 10 or more users increased by 21% to 53,688. The net retention rate for customers with 10+ users was 115%, meeting expectations. It is anticipated that net retention will rebound later this year.
+
+Monday.com continues to experience strong demand for its core work management solutions, with about 70% of all deals having no competition. The company's Sales CRM product has also shown rapid growth and interest from new customers, with half of the deals being uncontested. As of the fourth quarter, there were 13,318 Sales CRM customers, a significant increase from 2,458 customers a year ago.
+
+The company's new Dev product, designed to manage the software development process, has seen rapid adoption across the customer base. The total number of Dev customers reached 1,448 in the fourth quarter, a 39% sequential increase. Monday.com has been improving its go-to-market strategy to drive more multi-product adoption.
+
+Another recent addition to Monday.com's product lineup is Code, which was launched in the December quarter. Code provides a secure serverless environment with built-in compliance standards, allowing developers to host and run apps. This new addition is expected to benefit from cross-selling opportunities.
+
+Monday.com has also made significant progress in attracting enterprise customers, ending the fourth quarter with 2,295 paid enterprise customers with annual recurring revenue above $50,000, a 56% increase from the previous year. In the December quarter alone, the company added 218 of these large accounts. Enterprise customers now account for 32% of total annual recurring revenue, up from 27% a year ago.
+
+As Monday.com expands its reach to larger organizations, it is expected to continue attracting new accounts and expanding its seat count. The platform's largest seat count currently stands at 25,000. Despite already serving 61% of the Fortune 500, the average seat count for these customers is only 275, indicating ample room for growth.
+
+To drive revenue growth, Monday.com recently raised its prices for existing customers for the first time. This move is expected to add $15 million to $20 million in revenue for 2024. However, management remains cautious about potential churn resulting from the price increase. With 80% of customers on annual contracts, churn is expected to be limited.
+
+In 2023, Monday.com saw a 41% increase in revenue to $729.7 million, with a free cash flow margin of 28%. The company's initial revenue outlook for 2024 is $926 million to $932 million, representing growth of 27% to 28% and aligning with the consensus estimate of $927.5 million.
+
+Analysts have shown confidence in Monday.com's growth potential, with Jefferies raising its price target to $250, Goldman Sachs upgrading the stock to 'Conviction Buy' with a target of $270, and BofA initiating coverage with a 'Buy' rating and a price target of $280. KeyBanc also started coverage with an 'Overweight' rating and a price target of $275, citing Monday.com's strong potential for progress in the collaboration software market.
+
+Overall, Monday.com's latest quarterly results highlight the company's continued growth and success in both new product adoption and expansion in the enterprise customer segment. With a strong product lineup and a focus on attracting larger organizations, Monday.com is well-positioned for future growth.",https://imageio.forbes.com/specials-images/imageserve/655104ecdfb8995a08801242/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2024-03-25 18:38:54,Innovation,Innovation
+https://techcrunch.com/2024/03/25/dma-first-formal-probes/,"Apple, Google and Meta face first formal investigations under EU's DMA","What’s the collective noun for investigations on Big Tech? Because the European Union has just announced a pile of probes on gatekeepers designated under the Digital Markets Act (DMA). Alphabet/Google, Apple, and Meta are facing the first formal non-compliance investigations under the bloc’s rebooted ex ante competition rulebook.
+
+Alphabet/Google’s rules on steering in Google Play and its approach to self-preferencing in search results are in the frame. For Apple, the EU is also looking at its rules on steering in the App Store and the design of choice screens for alternatives to its Safari web browser. While Meta’s “pay or consent” model will be scrutinized by the Commission.
+
+In total, five investigations were announced Monday — less than three weeks since the compliance deadline kicked in for the companies earlier this month.
+
+The three gatekeepers, which were designated under the pan-EU market power and contestability regulation last fall, face a formal investigation in these areas to determine whether they are breaching the rulebook, as the Commission suspects. Confirmed violations of the DMA can result in fines of up to 10% of global annual turnover or even 20% for repeat offenses.
+
+The EU will have up to 12 months to conclude the investigations, per recommended timeframes in the DMA. A preliminary report can be produced within six months. Although senior Commission officials noted Monday that the probes may conclude sooner or could take longer than these guidelines.
+
+The enforcement action by the bloc comes as antitrust scrutiny continues to dial up on the three U.S. firms on home turf, too.
+
+Since the three companies unveiled their DMA compliance plans, there has been a range of criticism that the proposals do not comply with the new EU law.
+
+Google has been accused of seeking to avoid the regulation’s ban on self-preferencing by launching new rich features in search results that compete unfairly with rivals. While Apple’s use of notifications to users warning them of risks of stepping outside its walled garden has been attacked by developers as “scare screens”, among a number of criticisms. And Meta’s ‘pay or be tracked’ tactic has been roundly condemned as exploitative abuse by privacy and consumer rights groups. (Earlier this month the Commission sent Meta questions about this under the DMA’s sister regulation, the Digital Services Act, too.)
+
+“The Commission has opened proceedings to assess whether the measures implemented by Alphabet and Apple in relation to their obligations pertaining to app stores are in breach of the DMA. Article 5(4) of the DMA requires gatekeepers to allow app developers to “steer” consumers to offers outside the gatekeepers’ app stores, free of charge,” the Commission wrote, saying it’s concerned that the pair’s steering measures “may not be fully compliant as they impose various restrictions and limitations”, pointing, for example, to constraints on developers’ ability to “freely communicate and promote offers and directly conclude contracts”.
+
+On concerns about Google self-preferencing, the EU said the investigation will focus on Google’s vertical search services (e.g., Google Shopping; Google Flights; Google Hotels) and the impact its action may have on similar rival services.
+
+“The Commission is concerned that Alphabet’s measures implemented to comply with the DMA may not ensure that third-party services featuring on Google’s search results page are treated in a fair and non-discriminatory manner in comparison with Alphabet’s own services, as required by Article 6(5) of the DMA,” it wrote.
+
+On Apple, the EU will also look at whether it’s complying with a range of user choice obligations on iOS — including enabling end users to easily uninstall apps, easily change default settings, and prompt users with choice screens which it says “must effectively and easily allow them to select an alternative default service, such as a browser or search engine on their iPhones”.
+
+“The Commission is concerned that Apple’s measures, including the design of the web browser choice screen, may be preventing users from truly exercising their choice of services within the Apple ecosystem, in contravention of Article 6(3) of the DMA,” it added.
+
+On Meta, the EU said the proceedings will investigate whether its recently introduced “pay or consent” model for EU users complies with Article 5(2) of the DMA, noting that this portion of the regulation “requires gatekeepers to obtain consent from users when they intend to combine or cross-use their personal data across different core platform services”.
+
+“The Commission is concerned that the binary choice imposed by Meta’s ‘pay or consent’ model may not provide a real alternative in case users do not consent, thereby not achieving the objective of preventing the accumulation of personal data by gatekeepers,” it said.
+
+Responding to a question about this probe during Monday’s press conference, the EU’s internal market commissioner, Thierry Breton, said the DMA puts a clear requirement on gatekeepers to offer a free, non-price discriminatory choice to users.
+
+In conclusion, the European Union has launched investigations into Alphabet/Google, Apple, and Meta under the Digital Markets Act. These investigations aim to determine whether the companies are breaching the EU's competition rulebook. The EU has concerns about Alphabet/Google's self-preferencing and steering practices, Apple's restrictions on user choice, and Meta's ""pay or consent"" model. These investigations come as antitrust scrutiny on Big Tech continues to increase. The EU will have up to 12 months to conclude the investigations, and violations of the DMA can result in significant fines.","https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1031626648.jpg?resize=1200,799",2024-03-25 12:10:10,Innovation,Innovation
+https://www.forbes.com/sites/erikkain/2024/03/25/todays-wordle-1011-hints-clues-and-answer-for-tuesday-march-26th/,"Today’s ‘Wordle’ 1011 Hints, Clues And Answer For Tuesday, March 26th","How to Solve Today's Wordle
+
+It's almost the end of March, and what a peculiar month it has been. Winter seems to be holding on tightly, not giving way to the emergence of spring. Although it's sunny today and the snow is melting, we're expecting more snowfall for Easter weekend. And then, right after Easter, we have April Fool's Day, which happens to be my least favorite day of the year. It's probably best to stay offline and avoid any pranks.
+
+Interestingly enough, I managed to solve my first (out of two) Wordles on April Fool's Day. I guessed ""march"" because if I were to play a Wordle-style prank, I would choose the only other month with five letters that isn't just a proper noun. (April, being a proper noun, cannot be a Wordle answer.)
+
+Speaking of proper nouns, yesterday's Wordle really had me puzzled!
+
+Now, let's get to today's Wordle.
+
+How to Solve Today's Wordle
+
+Hint: Politician
+Clue: The last letter of today's Wordle is a consonant.
+
+Spoiler alert! The answer is revealed below.
+
+Today's Wordle
+
+Wordle Analysis
+
+Every day, I check Wordle Bot to see how I did. You can also check your Wordles with Wordle Bot.
+
+I was so confident with my third guess, only to be disappointed when the third box turned gray. Oh well, that's life! My initial guess was close but not quite there. I had 196 words remaining and only one yellow 'O'. Crane eliminated 11 words and gave me two more yellow letters to work with. I played around with them and eventually settled on ""major"" because among all the words I could think of, only two had the letter 'M' in them. Unfortunately, it turned out to be the mayor and not the major that was the answer to today's Wordle.
+
+Competitive Wordle Score
+
+I lose 1 point because the Bot solved it in just three guesses (crane / tyros / mayor — tyros? Really?), and I don't earn any points for guessing in four. So, my total score is -1. Sigh.
+
+Etymology of Today's Wordle
+
+The word ""mayor"" originates from the Old French word ""maire,"" which means ""head of a city or town government."" This term is derived from the Latin word ""maior,"" which means ""greater"" or ""superior."" In Latin, ""maior"" was used in the title ""maior domus"" or ""major domo,"" which refers to the ""chief steward"" of a noble house, signifying a position of authority and oversight. Over time, ""maior"" evolved into different forms in Romance languages, eventually leading to the English word ""mayor."" The role of a mayor as the leader of a city or municipal government reflects the historical sense of being a superior or chief official within a local jurisdiction.
+
+For more Wordle hints and other interesting topics, check out today's Strands guide. And don't forget to visit my blog, where you can find my daily Wordle and Strands guides, as well as my writing on TV shows, streaming guides, movie reviews, video game coverage, and much more. Thank you for reading!","https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?format=jpg&crop=2629,1480,x0,y135,safe&height=900&width=1600&fit=bounds",2024-03-25 19:00:26,Innovation,Innovation
