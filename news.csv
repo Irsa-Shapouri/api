@@ -1,0 +1,24 @@
+Link,post_title,post_content,featured_image,Date-Publish,post_category,post_tag
+https://techxplore.com/news/2024-03-large-language-simple-mechanism-knowledge.html,Large language models use a surprisingly simple mechanism to retrieve some stored knowledge,"Large language models (LLMs) are incredibly complex tools that are used in various areas, such as customer support, code generation, and language translation. However, scientists still have limited understanding of how these models actually work. To gain a deeper understanding, researchers at MIT and other institutions conducted a study on the mechanisms behind the retrieval of stored knowledge in LLMs.
+
+The researchers made an interesting discovery: LLMs often use a simple linear function to recover and decode stored facts. Linear functions, which involve only two variables and no exponents, represent a straightforward relationship between variables. Furthermore, the model uses the same decoding function for similar types of facts.
+
+By identifying linear functions for different facts, the researchers were able to probe the model and determine its knowledge about new subjects and where that knowledge is stored within the model. They developed a technique to estimate these simple functions and found that even when a model provides an incorrect answer, it often stores the correct information. This approach could be used in the future to identify and correct falsehoods in the model, reducing the occurrence of incorrect or nonsensical answers.
+
+Evan Hernandez, an electrical engineering and computer science graduate student at MIT and co-lead author of the study, explains that although LLMs are highly complex and difficult to understand, they sometimes contain simple mechanisms. This study sheds light on one such mechanism.
+
+The paper detailing these findings was authored by Evan Hernandez, Arnab Sharma, Jacob Andreas, David Bau, and others from MIT, Northeastern University, Harvard University, and the Israeli Institute of Technology. The research will be presented at the International Conference on Learning Representations (ICLR 2024) in May 2024.
+
+LLMs, also known as transformer models, are neural networks that consist of interconnected nodes or neurons grouped into layers. These models encode and process data, and a significant portion of the knowledge stored in a transformer is represented as relations connecting subjects and objects. For example, the relation ""Miles Davis plays the trumpet"" connects the subject (Miles Davis) to the object (trumpet).
+
+As a transformer acquires more knowledge, it stores additional facts related to a particular subject across multiple layers. When a user asks a question about that subject, the model must decode the most relevant fact to provide an accurate response.
+
+The researchers aimed to understand the mechanism behind this decoding process. They conducted experiments and found that despite the complexity of LLMs, they decode relational information using a simple linear function. Each type of fact requires a specific decoding function.
+
+For instance, when the transformer needs to output the instrument a person plays, it uses one decoding function, while it uses a different function to output the state where a person was born. The researchers developed a method to estimate these simple functions and computed functions for various relations, such as ""capital city of a country"" and ""lead singer of a band.""
+
+While there are countless possible relations, the researchers focused on a specific subset that represents the types of facts that can be expressed in this way. They tested each function by altering the subject to see if it could recover the correct object information.
+
+This study provides valuable insights into the inner workings of LLMs and their ability to decode stored facts. By understanding the mechanisms behind these models, scientists can potentially identify and rectify inaccuracies, leading to more reliable and sensible responses.
+
+In conclusion, large language models exhibit complex behavior, but they also contain simple mechanisms. By studying the decoding process, researchers have discovered that LLMs often use linear functions to retrieve and decode facts. This finding opens up possibilities for improving the accuracy and reliability of these models in the future.",https://scx2.b-cdn.net/gfx/news/hires/2024/large-language-models-2.jpg,2024-03-25 09:34:06,Innovation,Innovation
